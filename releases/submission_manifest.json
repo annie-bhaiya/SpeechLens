@@ -22,8 +22,9 @@
       "name": "GitHub repository",
       "local_artifact": ".",
       "url": "https://github.com/annie-bhaiya/SpeechLens",
-      "status": "remote_link_configured",
-      "reason": "See evaluation/git_push.json for terminal push verification"
+      "status": "pushed_and_public_verified",
+      "reason": "Terminal push succeeded; anonymous repository/commit access verified",
+      "verification": "evaluation/git_push.json"
     },
     {
       "name": "Public paired dataset",

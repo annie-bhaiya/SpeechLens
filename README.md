@@ -6,7 +6,7 @@ Evidence-first contrastive speech analytics for Track C. Upload two performances
 
 | Mandatory deliverable | Location | Status |
 |---|---|---|
-| GitHub repository URL | [SpeechLens](https://github.com/annie-bhaiya/SpeechLens) | User-provided remote; terminal push receipt in `evaluation/git_push.json` |
+| GitHub repository URL | [SpeechLens](https://github.com/annie-bhaiya/SpeechLens) | Terminal push succeeded; public commit verified in `evaluation/git_push.json` |
 | Public paired dataset | [Existing remote data](https://github.com/annie-bhaiya/SpeechLens/tree/main/data), local archive, [dataset card](docs/dataset_card.md) | Already in the initial remote commit; untouched in this extension; human acceptance pending |
 | Interactive dashboard | [Local dashboard](http://127.0.0.1:8000) | Fresh-upload browser test passes; launch below |
 | Technical report, at most 6 pages | [technical_report.pdf](docs/technical_report.pdf) | Generated locally; page/render verification recorded |

@@ -2,10 +2,18 @@
   "date": "2026-10-06",
   "remote": "https://github.com/annie-bhaiya/SpeechLens.git",
   "branch": "main",
-  "status": "pending_terminal_push",
+  "status": "pushed_and_verified",
   "initial_remote_commit": "9759188380ae0a7d733cfeee14e378657b9a45d6",
   "dataset_audio_files_already_tracked_in_initial_remote": 346,
   "dataset_files_changed_in_extension": false,
   "dataset_archive_republished": false,
-  "youtube_published": false
+  "youtube_published": false,
+  "pushed_code_commit": "da4a88661c1d4902eef496be7c48fd15ec9ac6ad",
+  "remote_main_equal_to_code_commit_at_verification": true,
+  "anonymous_repository_http_status": 200,
+  "public_repository": true,
+  "anonymous_commit_http_status": 200,
+  "unchanged_dataset_tree_verified_against_initial_commit": true,
+  "report_demo_and_source_pdf_unchanged": true,
+  "note": "Code commit verified remotely. A subsequent documentation-only commit records this receipt; its final remote HEAD is also checked at handoff."
 }

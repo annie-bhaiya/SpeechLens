@@ -1,6 +1,6 @@
 # Remaining work and required inputs
 
-The supplied `Track C.pdf` has been read and checked against the implementation. Its five deliverables and judging weights are recorded in `docs/organizer_requirements_review.md`. Linux Docker is verified in `evaluation/docker_check.json`. The user supplied the Git remote and authorized a terminal push; `evaluation/git_push.json` records the outcome. These are no longer missing-input blockers.
+The supplied `Track C.pdf` has been read and checked against the implementation. Its five deliverables and judging weights are recorded in `docs/organizer_requirements_review.md`. Linux Docker is verified in `evaluation/docker_check.json`. The authorized terminal Git push succeeded and anonymous public commit access was verified; `evaluation/git_push.json` records the receipt. These are no longer missing-input blockers.
 
 | Remaining work | Data/files or people needed | Where to do it |
 | --- | --- | --- |

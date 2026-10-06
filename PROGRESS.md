@@ -13,7 +13,7 @@ The implementation prompt defines project targets. The newly supplied organizer 
 | 6 Detection/scoring | Implemented | Evidence-linked deterministic detectors, null/coverage gates, four presets; engineering tolerances uncalibrated |
 | 7 Evaluation | Measured; localization target failed | 346 rows; held-out proxy macro F1 0.436 vs target 0.75; defined-group median Spearman 0.949; full failures and audits retained |
 | 8 Dashboard/deployment | Local browser and Linux container verified | React/FastAPI, durable bounded worker; clean dependency build, downloaded model, fresh/repeat CPU inference |
-| 9 Submission | Incomplete, remaining human work/deferred publishing explicit | Organizer PDF verified; remote supplied, terminal push receipt recorded; human evidence missing, YouTube deferred |
+| 9 Submission | Incomplete, remaining human work/deferred publishing explicit | Organizer PDF verified; terminal push succeeded and public commit verified; human evidence missing, YouTube deferred |
 | 10 Human-work portal | Software verified; actual people still needed | Acceptance QA, independent word/event annotation, assignment/two-review adjudication, consented private microphone/upload collection, exports and withdrawal |
 
 Local packaging is complete: six-page PDF rendered and inspected on every page; actual captioned video is 448.93 seconds with retained upload-inference waits, a verified gain-control result and visible benchmark. MP4 stream decoding and sample speech-recognition checks pass. The source/participant audio is listening-normalized only in the video; analysis preserves original gain.
