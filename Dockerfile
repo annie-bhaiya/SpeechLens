@@ -11,9 +11,10 @@ WORKDIR /app
 RUN apt-get update && apt-get install -y --no-install-recommends ffmpeg libsndfile1 g++ && rm -rf /var/lib/apt/lists/*
 RUN pip install --no-cache-dir uv==0.12.23
 COPY pyproject.toml uv.lock ./
+RUN --mount=type=cache,target=/root/.cache/uv uv sync --frozen --no-dev --no-install-project
 COPY backend/ backend/
 COPY scripts/ scripts/
-RUN uv sync --frozen --no-dev
+RUN --mount=type=cache,target=/root/.cache/uv uv sync --frozen --no-dev
 COPY configs/ configs/
 COPY data/ data/
 COPY evaluation/recording_scores.json evaluation/metrics.json evaluation/robustness.json evaluation/

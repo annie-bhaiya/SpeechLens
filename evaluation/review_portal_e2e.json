@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "automated_fixtures_not_human_evidence": true,
+  "isolated_storage": "E:\\multimodal\\tmp\\review-e2e",
+  "blind_review_draft_and_immutable_final": true,
+  "completion_validation": true,
+  "native_audio_seek_and_replay": true,
+  "independent_account_isolation": true,
+  "two_review_adjudication": true,
+  "separate_alignment_event_exports": true,
+  "microphone_capture_and_private_decode": true,
+  "consent_gate_and_withdrawal": true,
+  "mobile_no_document_overflow": true,
+  "javascript_errors": [],
+  "screenshots": [
+    "adjudication-desktop.png",
+    "adjudication-mobile.png",
+    "annotation-desktop.png",
+    "annotation-mobile.png",
+    "performance-desktop.png",
+    "performance-mobile.png",
+    "welcome-desktop.png",
+    "welcome-mobile.png",
+    "word-boundaries-desktop.png",
+    "word-boundaries-mobile.png"
+  ],
+  "coordinator_assignment": true,
+  "word_editor_font_floor_14px": true,
+  "waveform_draw_seek_native_geometry": true
+}

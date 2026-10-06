@@ -14,6 +14,7 @@ from pydantic import BaseModel,field_validator
 from .jobs import worker
 from .storage import create_job,get_job,update,delete_record,connection,requeue,QueueFullError
 from .schemas import Job,Result
+from .review import router as review_router
 from backend.speechlens.config import ROOT,STORAGE,PIPELINE,PRESETS
 from backend.speechlens.ingest import EXTENSIONS
 from backend.speechlens.text import canonicalize
@@ -27,6 +28,7 @@ async def lifespan(app):
     worker.stop()
 
 app=FastAPI(title="SpeechLens",version="0.1.0",lifespan=lifespan)
+app.include_router(review_router)
 
 class RubricRequest(BaseModel):
     preset:str='persuasive_oratory'
@@ -288,4 +290,7 @@ def demo(recording_id:str|None=None):
 
 dist=ROOT/"frontend/dist"
 if dist.exists():
+    @app.get('/review', include_in_schema=False)
+    def review_portal():
+        return FileResponse(dist/'index.html')
     app.mount("/",StaticFiles(directory=dist,html=True),name="dashboard")

@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "date": "2026-10-06",
+  "routes": {
+    "8000": {
+      "review_page": 200,
+      "anonymous_tasks": 401,
+      "normal_private_storage": true
+    },
+    "8002": {
+      "review_page": 200,
+      "anonymous_tasks": 401,
+      "normal_private_storage": true
+    }
+  },
+  "production_frontend_built_in_linux_container": true,
+  "same_built_dist_copied_to_host": true,
+  "container_image_id": "sha256:ebf431c4c21238bc64184c09c7dc6db7ee0d9acc2b9f78d632c19007dd5db448",
+  "browser_js_errors": [],
+  "anonymous_welcome_and_incumbent_analysis_page_checked": true,
+  "production_test_accounts_created": false
+}

@@ -7,6 +7,10 @@ from backend.speechlens.utils import sha256_file,write_json
 from scripts.validate_dataset import validate
 
 def release():
+    submission_path=ROOT/'configs/submission.json'
+    settings=json.loads(submission_path.read_text()) if submission_path.exists() else {}
+    docker_path=ROOT/'evaluation/docker_check.json'
+    docker_passed=docker_path.exists() and json.loads(docker_path.read_text()).get('passed',False)
     integrity=validate()
     if not integrity['integrity_passed']:raise ValueError('Dataset integrity failed')
     rows=[json.loads(l) for l in (ROOT/'data/manifests/recordings.jsonl').read_text().splitlines() if l]
@@ -57,12 +61,16 @@ Dataset resides under data/ with audio, transcripts, alignments, events, provena
     manifest={'submission_complete':False,'dataset_integrity':integrity,'local_dataset_archive':archive.name,
         'dataset_archive_sha256':sha256_file(archive),
         'deliverables':[
-            {'name':'GitHub repository','local_artifact':'.','url':None,'status':'blocked','reason':'No authorized remote/publication account supplied'},
-            {'name':'Public paired dataset','local_artifact':'releases/speechlens-dataset.zip','url':None,'status':'local_ready_publication_blocked','reason':'Dataset is real and validated structurally; public hosting and independent human review pending'},
+            {'name':'GitHub repository','local_artifact':'.','url':settings.get('github_url'),'status':'remote_link_configured' if settings.get('github_url') else 'blocked','reason':'See evaluation/git_push.json for terminal push verification'},
+            {'name':'Public paired dataset','local_artifact':'releases/speechlens-dataset.zip','url':settings.get('dataset_url'),'status':'existing_remote_data_human_review_pending' if settings.get('dataset_url') else 'local_ready_publication_blocked','reason':settings.get('dataset_note','Public hosting and independent human review pending')},
             {'name':'Interactive dashboard','local_artifact':'frontend/dist','url':'http://127.0.0.1:8000','status':'local_verified','verification':'evaluation/browser_e2e.json'},
             {'name':'Technical report','local_artifact':'docs/technical_report.pdf','url':None,'status':'local_ready' if (ROOT/'docs/technical_report.pdf').exists() else 'missing'},
-            {'name':'YouTube demo','local_artifact':'demo/demo.mp4','url':None,'status':'local_ready_publication_blocked' if (ROOT/'demo/demo.mp4').exists() else 'missing','reason':'No authorized YouTube publication account supplied'}],
-        'remaining_gates':['Independent human alignment/perceptual review','Consenting human mirror recordings','Original Track C.pdf review','Public GitHub/dataset/YouTube links','Clean Docker execution']}
+            {'name':'YouTube demo','local_artifact':'demo/demo.mp4','url':settings.get('youtube_url'),'status':'local_ready_publication_deferred' if (ROOT/'demo/demo.mp4').exists() else 'missing','reason':'Publication deferred by user' if settings.get('youtube_publication_deferred_by_user') else 'No authorized YouTube publication account supplied'}],
+        'remaining_gates':['Independent human alignment/perceptual review','Consenting human mirror recordings','YouTube link']+
+                          ([] if settings.get('organizer_pdf_reviewed') else ['Original Track C.pdf review'])+
+                          ([] if settings.get('github_url') else ['Public GitHub link'])+
+                          ([] if settings.get('dataset_url') else ['Public dataset link'])+
+                          ([] if docker_passed else ['Clean Docker execution'])}
     write_json(ROOT/'releases/submission_manifest.json',manifest)
     print('Dataset release:',len(files),'files;',archive.stat().st_size,'bytes. Public submission remains blocked.')
 

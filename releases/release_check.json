@@ -32,13 +32,15 @@
   "links": [
     {
       "name": "GitHub repository",
-      "url": null,
-      "status": "blocked_missing_public_link"
+      "url": "https://github.com/annie-bhaiya/SpeechLens",
+      "status": "accessible",
+      "http_status": 200
     },
     {
       "name": "Public paired dataset",
-      "url": null,
-      "status": "blocked_missing_public_link"
+      "url": "https://github.com/annie-bhaiya/SpeechLens/tree/main/data",
+      "status": "accessible",
+      "http_status": 200
     },
     {
       "name": "Interactive dashboard",

@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-06",
+  "passed": true,
+  "engine": "Docker Desktop Linux/WSL2",
+  "compose_project": "speechlens-validation",
+  "initial_verification": {
+    "clean_dependency_build": true,
+    "initially_fresh_named_storage_and_model_volumes": true,
+    "pinned_model_download_inside_container": true,
+    "fresh_cpu_jobs": 2,
+    "fresh_repeat_events_and_scores_identical": true
+  },
+  "final_extension_verification": {
+    "dependency_cache_reused": true,
+    "same_validation_volumes_and_cached_model_reused": true,
+    "final_frontend_typecheck_and_production_build_passed": true,
+    "built_frontend_copied_to_host": true,
+    "final_image_smoke_receipt": "evaluation/docker_check.json",
+    "production_route_and_browser_receipt": "evaluation/review_production_check.json"
+  },
+  "scope": "Two fresh uncached inference jobs on the demo pair, not a full benchmark or human validation. Final rebuilds reuse caches; only initial validation started with fresh volumes."
+}

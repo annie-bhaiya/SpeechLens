@@ -21,16 +21,16 @@
     {
       "name": "GitHub repository",
       "local_artifact": ".",
-      "url": null,
-      "status": "blocked",
-      "reason": "No authorized remote/publication account supplied"
+      "url": "https://github.com/annie-bhaiya/SpeechLens",
+      "status": "remote_link_configured",
+      "reason": "See evaluation/git_push.json for terminal push verification"
     },
     {
       "name": "Public paired dataset",
       "local_artifact": "releases/speechlens-dataset.zip",
-      "url": null,
-      "status": "local_ready_publication_blocked",
-      "reason": "Dataset is real and validated structurally; public hosting and independent human review pending"
+      "url": "https://github.com/annie-bhaiya/SpeechLens/tree/main/data",
+      "status": "existing_remote_data_human_review_pending",
+      "reason": "Dataset files already existed in the user's initial remote commit. No dataset changes or republication were performed in this extension."
     },
     {
       "name": "Interactive dashboard",
@@ -49,15 +49,17 @@
       "name": "YouTube demo",
       "local_artifact": "demo/demo.mp4",
       "url": null,
-      "status": "local_ready_publication_blocked",
-      "reason": "No authorized YouTube publication account supplied"
+      "status": "local_ready_publication_deferred",
+      "reason": "Publication deferred by user"
     }
   ],
   "remaining_gates": [
     "Independent human alignment/perceptual review",
     "Consenting human mirror recordings",
-    "Original Track C.pdf review",
-    "Public GitHub/dataset/YouTube links",
-    "Clean Docker execution"
-  ]
+    "YouTube link (publication deferred by user)"
+  ],
+  "organizer_pdf_reviewed": true,
+  "dataset_publication_deferred_by_user": true,
+  "youtube_publication_deferred_by_user": true,
+  "dataset_archive_unchanged_in_this_extension": true
 }

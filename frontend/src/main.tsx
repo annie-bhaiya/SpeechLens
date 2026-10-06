@@ -4,6 +4,7 @@ import {Activity,ArrowUpRight,AudioLines,CheckCircle2,Download,FileAudio,FlaskCo
 import {api,number} from './api';
 import {Chart} from './components/Chart';
 import {Benchmark} from './components/Benchmark';
+import {ReviewPortal} from './components/ReviewPortal';
 import type {Series} from './components/Chart';
 import type {Event,Features,Job,Recording,Reference,Result,Scores} from './types';
 import './styles.css';
@@ -47,6 +48,7 @@ function App(){
    <button className={tab==='analysis'?'active':''} onClick={()=>setTab('analysis')}><Activity size={18}/>Speech analysis<ChevronRight size={14}/></button>
    <button className={tab==='dataset'?'active':''} onClick={()=>setTab('dataset')}><FlaskConical size={18}/>Dataset explorer</button>
    <button className={tab==='method'?'active':''} onClick={()=>setTab('method')}><Info size={18}/>Method & provenance</button>
+   <a className="review-launch" href="/review"><Headphones size={18}/>Human review portal</a>
   </nav><div className="sidebar-footer"><div className="status-line"><span className={healthy?'status-dot':'status-dot offline'}/>{healthy?'CPU worker ready':'Worker unavailable'}</div><p>English · single speaker<br/>Local processing · v0.1.0</p><span className="prototype">RESEARCH PROTOTYPE</span></div></aside>
   <main><header className="topbar"><span>Workspace <ChevronRight size={13}/> {tab==='dataset'?'Dataset explorer':tab==='method'?'Method & provenance':'Speech analysis'}</span><span className="privacy"><CheckCircle2 size={14}/>Uploads stay local</span></header>
   {error&&<div role="alert" className="error"><strong>Action needed</strong><span>{error}</span><button aria-label="Dismiss error" onClick={()=>setError('')}><X size={17}/></button>{job?.status==='failed'&&<button onClick={async()=>{try{acceptJob(await api<Job>(`/api/evaluations/${job.id}/retry`,{method:'POST'}));}catch(e){setError((e as Error).message);}}}>Retry processing</button>}</div>}
@@ -84,4 +86,4 @@ function App(){
   </main>
  </div>;
 }
-createRoot(document.getElementById('root')!).render(<React.StrictMode><App/></React.StrictMode>);
+createRoot(document.getElementById('root')!).render(<React.StrictMode>{window.location.pathname==='/review'?<ReviewPortal/>:<App/>}</React.StrictMode>);

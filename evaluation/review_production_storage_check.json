@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-06",
+  "passed": true,
+  "production_storage": "storage/human_review",
+  "automated_identities_or_reviews_present": false,
+  "counts": {
+    "identities": 0,
+    "sessions": 0,
+    "submissions": 0,
+    "acceptance_originals": 0,
+    "adjudications": 0,
+    "assignments": 0
+  },
+  "human_performances": 0,
+  "public_catalog_tasks": 346,
+  "private_coordinator_key_initialized": true,
+  "automated_fixtures_excluded_from_human_evidence": true
+}

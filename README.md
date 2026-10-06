@@ -2,15 +2,15 @@
 
 Evidence-first contrastive speech analytics for Track C. Upload two performances of the **same intended transcript**, compare native-time pacing, pauses, pitch and energy, play grounded findings, inspect the measured rule, and export reproducible evidence. English single-speaker CPU prototype; no paid LLM or cloud service is required.
 
-**Status:** functional local implementation, real provisional paired audio and measured checks. This is **not a completed public hackathon submission**: authorized GitHub/dataset/YouTube publication, independent human reviews/mirrors, original `Track C.pdf` verification and a clean Docker run remain outstanding. [BLOCKERS.md](BLOCKERS.md) is authoritative.
+**Status:** functional local implementation with a guided human-work portal, real provisional paired audio and measured checks. The supplied organizer PDF has been checked and Linux Docker inference passes. Actual human reviews/annotations/performances and a YouTube link remain outstanding; dataset and YouTube publication are deferred by the user. [BLOCKERS.md](BLOCKERS.md) lists remaining work and required inputs. This is not a completed submission.
 
 | Mandatory deliverable | Location | Status |
 |---|---|---|
-| GitHub repository URL | This local Git repository | Blocked: no authorized remote/publication account |
-| Public paired dataset | `data/`, `releases/speechlens-dataset.zip`, [dataset card](docs/dataset_card.md) | Real local data; public link and human acceptance pending |
+| GitHub repository URL | [SpeechLens](https://github.com/annie-bhaiya/SpeechLens) | User-provided remote; terminal push receipt in `evaluation/git_push.json` |
+| Public paired dataset | [Existing remote data](https://github.com/annie-bhaiya/SpeechLens/tree/main/data), local archive, [dataset card](docs/dataset_card.md) | Already in the initial remote commit; untouched in this extension; human acceptance pending |
 | Interactive dashboard | [Local dashboard](http://127.0.0.1:8000) | Fresh-upload browser test passes; launch below |
 | Technical report, at most 6 pages | [technical_report.pdf](docs/technical_report.pdf) | Generated locally; page/render verification recorded |
-| 3-10 minute YouTube video | `demo/demo.mp4`, `demo/captions.vtt`, `demo/transcript.md` | Local capture/assembly; YouTube URL blocked |
+| 3-10 minute YouTube video | `demo/demo.mp4`, `demo/captions.vtt`, `demo/transcript.md` | Local capture/assembly; publication deferred by user |
 
 No external submission URLs are invented. `releases/submission_manifest.json` and `releases/release_check.json` distinguish missing links, unavailable network checks, local artifacts and completed verification.
 
@@ -35,6 +35,14 @@ make serve
 ```
 
 Alternative explicit server command after setup: `.venv\Scripts\python -m uvicorn backend.app.api:app --host 127.0.0.1 --port 8000`. On Unix, use `.venv/bin/python`. Offline model loading uses the pinned local snapshot once weights and tokenizer files exist. ffmpeg is supplied by imageio-ffmpeg when no system binary is available.
+
+## Human review, annotation and real performances
+
+Open [the review portal](http://127.0.0.1:8000/review) on this computer. Its welcome page explains the three jobs and completion requirements. Reviewers create their own pseudonymous ID/passphrase, listen to assigned audio, save drafts and finalize independent files. Full annotation includes corrected text, every native word boundary, audible event intervals and category ratings; acceptance-only QA is a separate scope. Export downloads separate alignment/event JSON with draft/final status.
+
+A coordinator assigns the same full-annotation tasks to two people and resolves disagreements after both submit. Read the locally generated code in `storage/human_review/coordinator-key.txt` and use a separate coordinator account. Contributors use **Real performances** to read exact reference text, record or upload original audio, listen back, give explicit consent and submit privately. No contribution is automatically added to `data/` or made public. [Step-by-step human-work guide](docs/human_review_portal.md) documents each form, file, consent choice and withdrawal.
+
+The portal provides the workflow; people still need to supply judgments and recordings. Automated test accounts, labels and fake microphone audio are isolated fixtures and never count as actual human evidence.
 
 ## Reproduction commands
 
@@ -77,7 +85,7 @@ The current measured artifacts are [metrics](evaluation/metrics.json), [robustne
 
 The completed corpus has **346 recordings, 13 excerpts, six speakers and seven sources**, with zero structural errors or split leakage. Held-out synthetic-support macro F1 at tIoU 0.5 is **0.436**, missing the unchanged **0.75** target; micro F1 is 0.415 (17 matches, 9 false predictions, 39 missed supports). The held-out additive-noise method matches **0/8** supports. Median defined within-family Spearman is **0.949** over 39 of 52 requested groups; missing/constant groups are disclosed. All 149 predicted events pass quote, native-clock, numeric-value and rule audits.
 
-The benchmark used four CPU processes on a 24-thread Windows host with 31.7 GB RAM: 30.3 minutes elapsed, median 0.716 processing seconds/audio second over uncached results, maximum reported per-process lifetime peak 2.20 GiB. These contention/cache-aware benchmark values differ from the serial app: the final fresh-upload browser check took 55.1 seconds end to end. 22 backend tests and one frontend test pass; npm audit reports zero vulnerabilities for the locked frontend dependencies.
+The benchmark used four CPU processes on a 24-thread Windows host with 31.7 GB RAM: 30.3 minutes elapsed, median 0.716 processing seconds/audio second over uncached results, maximum reported per-process lifetime peak 2.20 GiB. These contention/cache-aware benchmark values differ from the serial app: the final fresh-upload browser check took 55.1 seconds end to end. 29 backend tests and one frontend test pass. The separate portal browser check covers draft/final files, native replay, assignment/adjudication, microphone capture, consent and withdrawal. Locked frontend audit recorded zero vulnerabilities.
 
 Human alignment accuracy, perceptual localization, rubric validity, inter-rater agreement and human generalization are **unmeasured**. Localization metrics compare predictions to synthetic intervention support and are explicitly labeled proxies. Only one held-out test speaker supports no meaningful population confidence interval. Targets are retained even when they fail. See `evaluation/metrics.json` for actual counts and gate results.
 
@@ -88,12 +96,13 @@ The fresh-upload vertical slice found a strong local duration ratio of 1.61 and 
 ## Containers, storage and cleanup
 
 ```bash
-docker compose up --build
+docker compose up --build -d
+docker compose exec speechlens /app/.venv/bin/python -m scripts.download_models
 ```
 
-Compose binds loopback port 8000 and preserves separate upload/model volumes. The implementation host had no running Docker daemon, so **clean-container execution is unverified**. The container requires first-run model downloads through `docker compose exec speechlens /app/.venv/bin/python -m scripts.download_models`. Mounted caches enable later offline use.
+Stop a host server using port 8000 before starting Compose. Compose binds loopback port 8000 and preserves separate upload/model volumes. A clean Linux dependency build, initially fresh volumes, model download inside the container and two fresh CPU inference jobs passed; repeated events/scores were identical. [Docker receipt](evaluation/docker_check.json) records fixture timings and provenance. This verifies the demo pair, not the full benchmark or population-wide equivalence. Mounted model caches enable later offline use. The locked Linux Torch wheel includes CUDA libraries even though inference uses CPU, increasing image size.
 
-`SPEECHLENS_STORAGE` selects the private storage directory. Public research caches in `.cache/` are ignored. Job caches are inside the private job directory and removed on deletion. Dataset originals under `data/originals/` are ignored; redistributable cropped WAVs and labels are retained in `data/`. Do not delete persistent upload volumes as routine cleanup. No authentication or multi-user ownership is implemented; keep this trusted local prototype bound to loopback.
+`SPEECHLENS_STORAGE` selects the private storage directory. Public research caches in `.cache/` are ignored. Job caches are inside the private job directory and removed on deletion. Dataset originals under `data/originals/` are ignored; redistributable cropped WAVs and labels are retained in `data/`. Do not delete persistent upload volumes as routine cleanup. The review portal has account/role checks and private contribution ownership; the analysis API remains unauthenticated. Keep the whole trusted local prototype bound to loopback.
 
 ## Documentation and attribution
 

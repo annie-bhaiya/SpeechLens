@@ -1,0 +1,187 @@
+{
+  "passed": true,
+  "date": "2026-10-06",
+  "base": "http://127.0.0.1:8002",
+  "container_image": "speechlens-validation-speechlens",
+  "container_image_id": "sha256:ebf431c4c21238bc64184c09c7dc6db7ee0d9acc2b9f78d632c19007dd5db448",
+  "build_volume_provenance": "Not established by this smoke script; see evaluation/docker_build_check.json",
+  "python": "3.11.13",
+  "health": {
+    "status": "ok",
+    "worker_ready": true,
+    "model_cached": true,
+    "device": "CPU",
+    "bounded_workers": 1,
+    "model_revision": "22aad52d435eb6dbaf354bdad9b0da84ce7d6156"
+  },
+  "fresh_processing_wall_s": [
+    26.622859700000845,
+    15.402539900009288
+  ],
+  "native_pacing_events": 2,
+  "scores": {
+    "total": 95.5,
+    "coverage": 0.991111111111111,
+    "categories": {
+      "pacing": {
+        "score": 84.3,
+        "coverage": 1.0,
+        "weight": 0.25,
+        "eligible_units": 5,
+        "total_units": 5,
+        "status": "uncalibrated"
+      },
+      "pauses": {
+        "score": 99.5,
+        "coverage": 0.96,
+        "weight": 0.2,
+        "eligible_units": 48,
+        "total_units": 50,
+        "status": "uncalibrated"
+      },
+      "intonation": {
+        "score": 100.0,
+        "coverage": 1.0,
+        "weight": 0.25,
+        "eligible_units": 5,
+        "total_units": 5,
+        "status": "uncalibrated"
+      },
+      "energy": {
+        "score": 100.0,
+        "coverage": 1.0,
+        "weight": 0.2,
+        "eligible_units": 5,
+        "total_units": 5,
+        "status": "uncalibrated"
+      },
+      "clarity": {
+        "score": null,
+        "coverage": 0,
+        "weight": 0.1,
+        "eligible_units": 0,
+        "total_units": 0,
+        "status": "diagnostic_only"
+      }
+    },
+    "included_weights": {
+      "pacing": 0.2777777777777778,
+      "pauses": 0.22222222222222227,
+      "intonation": 0.2777777777777778,
+      "energy": 0.22222222222222227
+    },
+    "preset": "persuasive_oratory",
+    "rubric_version": "v1",
+    "status": "uncalibrated_paired",
+    "shared_cause_policy": "Separate dimension scores; compound totals are not independent causal effects.",
+    "clarity_note": "No validated human intelligibility evidence; clarity excluded and remaining weights renormalized."
+  },
+  "fresh_repeat_events_and_scores_identical": true,
+  "range_audio_export_delete": true,
+  "provenance": {
+    "hashes": {
+      "participant": "70132f63a54af47c7b1a38afcad0d4cc40a81cb3b2ae859ac88a07510edf066e",
+      "reference": "3b2a1fb41915168605f068b9e4382e971ec843035920fba3d28b17564f6af162",
+      "transcript": "1ce0c87ed5c07ca4a5e4a512cb8dc3d6b9f2799e6aba0c6ea1e82a972f2a3d18",
+      "configuration": "1361a17d08d04ec3c6303660ba9f6877260d2e1a697ea36503a403055d510a51"
+    },
+    "cache_key": "e5b0d2bd076d4dafcceb833fc85d69b92355e495b9354008ef2b5615feb909e7",
+    "cache_hit": false,
+    "configuration": {
+      "pipeline": {
+        "version": "speechlens-0.1.0",
+        "sample_rate": 16000,
+        "max_duration_s": 600,
+        "max_upload_bytes": 104857600,
+        "alignment_model": "facebook/wav2vec2-base-960h",
+        "alignment_revision": "22aad52d435eb6dbaf354bdad9b0da84ce7d6156",
+        "alignment_chunk_s": 20,
+        "min_word_confidence": 0.15,
+        "minimum_alignment_coverage": 0.75,
+        "frame_samples": 400,
+        "hop_samples": 160,
+        "fft_samples": 512,
+        "pitch_frame_samples": 1024,
+        "pitch_min_hz": 50,
+        "pitch_max_hz": 600,
+        "vad": "webrtcvad-2.0.14-mode2-20ms",
+        "coverage_floor": 0.6,
+        "worker_timeout_s": 900
+      },
+      "detectors": {
+        "version": "conservative-engineering-v1",
+        "calibration": "uncalibrated-engineering-tolerances",
+        "pace_log_warn": 0.165,
+        "pace_log_severe": 0.47,
+        "pitch_ratio_warn": 0.65,
+        "pitch_ratio_severe": 0.2,
+        "reference_pitch_range_min_st": 2.0,
+        "energy_ratio_warn": 0.65,
+        "energy_ratio_severe": 0.2,
+        "reference_energy_range_min_db": 4.0,
+        "pause_delta_warn_s": 0.4,
+        "pause_delta_severe_s": 1.5,
+        "minimum_voiced_frames": 30,
+        "minimum_phrase_words": 4
+      },
+      "preset": {
+        "name": "Persuasive Oratory",
+        "version": "v1",
+        "weights": {
+          "pacing": 0.25,
+          "pauses": 0.2,
+          "intonation": 0.25,
+          "energy": 0.2,
+          "clarity": 0.1
+        }
+      },
+      "weights": null,
+      "code": "4843a0aab3178c8f7f2c9e38b2c771fb2d2cd011b7a85afa613ba269d7695829"
+    },
+    "audio": {
+      "participant": {
+        "original_sha256": "70132f63a54af47c7b1a38afcad0d4cc40a81cb3b2ae859ac88a07510edf066e",
+        "sample_rate_hz": 16000,
+        "original_sample_rate_hz": 16000,
+        "original_channels": 1,
+        "duration_s": 21.632375,
+        "downmix": "arithmetic channel mean; no gain normalization",
+        "clipped_fraction": 0.0,
+        "peak": 0.412933349609375,
+        "canonical_sha256": "f11d69a0914bf9273adfd58abd8c5f340967b635f15054847cbefbcccea2bc4f"
+      },
+      "reference": {
+        "original_sha256": "3b2a1fb41915168605f068b9e4382e971ec843035920fba3d28b17564f6af162",
+        "sample_rate_hz": 16000,
+        "original_sample_rate_hz": 16000,
+        "original_channels": 1,
+        "duration_s": 19.88,
+        "downmix": "arithmetic channel mean; no gain normalization",
+        "clipped_fraction": 0.0,
+        "peak": 0.412933349609375,
+        "canonical_sha256": "713934561124560fcfdcf1390123e591c553e06895e4158e6be5d0210afd1c42"
+      }
+    },
+    "device": "CPU",
+    "platform": "Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.36",
+    "processing_s": 24.243605036994268,
+    "runtime": {
+      "process_lifetime_peak_resident_mb": 1603.62890625,
+      "current_resident_mb": 1599.2890625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 15.470378875732422,
+      "cpu": "",
+      "torch_threads": 2
+    },
+    "packages": {
+      "torch": "2.7.1",
+      "transformers": "4.52.4",
+      "librosa": "0.11.0",
+      "numpy": "2.2.6",
+      "scipy": "1.15.3",
+      "soundfile": "0.13.1",
+      "webrtcvad-wheels": "2.0.14"
+    }
+  },
+  "benchmark_not_rerun_or_retuned": true
+}
