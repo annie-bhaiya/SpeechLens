@@ -1,0 +1,583 @@
+{
+  "events": [
+    {
+      "kind": "world_sham",
+      "source_start_s": 18.1825,
+      "source_end_s": 24.5825,
+      "target_start_s": 18.1825,
+      "target_end_s": 24.5825,
+      "family": "accepted",
+      "severity": 0,
+      "token_ids": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "parameters": {
+        "start_s": 18.182499999999997,
+        "end_s": 24.5825,
+        "kind": "world_sham",
+        "pitch_range_multiplier": 1,
+        "family": "accepted",
+        "severity": 0,
+        "token_ids": [
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ]
+      },
+      "fade_samples": 320,
+      "label_kind": "transformation_support",
+      "perceptual_interval_s": null,
+      "review_status": "pending",
+      "reviewers": [],
+      "uncertainty": "Not independently perceptually annotated"
+    }
+  ],
+  "time_map": [
+    {
+      "kind": "identity",
+      "source_start_s": 0.0,
+      "source_end_s": 18.1825,
+      "target_start_s": 0.0,
+      "target_end_s": 18.1825
+    },
+    {
+      "kind": "world_sham",
+      "source_start_s": 18.1825,
+      "source_end_s": 24.5825,
+      "target_start_s": 18.1825,
+      "target_end_s": 24.5825
+    },
+    {
+      "kind": "identity",
+      "source_start_s": 24.5825,
+      "source_end_s": 31.4,
+      "target_start_s": 24.5825,
+      "target_end_s": 31.4
+    }
+  ],
+  "propagated_words": [
+    {
+      "id": 0,
+      "text": "We",
+      "start_s": 0.1425,
+      "end_s": 0.24250000000000002,
+      "confidence": 0.9995469450950623,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 1,
+      "text": "observe",
+      "start_s": 0.34249999999999997,
+      "end_s": 0.7025,
+      "confidence": 0.9670276370915499,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 2,
+      "text": "today",
+      "start_s": 0.7825,
+      "end_s": 1.1225,
+      "confidence": 0.9456944366296133,
+      "recognized_match": false,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 3,
+      "text": "not",
+      "start_s": 2.9225000000000008,
+      "end_s": 3.1824999999999997,
+      "confidence": 0.9170511066913605,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 4,
+      "text": "a",
+      "start_s": 3.2825,
+      "end_s": 3.3024999999999998,
+      "confidence": 0.9998174905776978,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 5,
+      "text": "victory",
+      "start_s": 3.4225000000000003,
+      "end_s": 3.8024999999999998,
+      "confidence": 0.9948444306850434,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 6,
+      "text": "of",
+      "start_s": 3.9025000000000007,
+      "end_s": 3.9425,
+      "confidence": 0.9981580674648285,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 7,
+      "text": "party",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.1999361106005381,
+      "recognized_match": false,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 8,
+      "text": "but",
+      "start_s": 5.782500000000001,
+      "end_s": 5.9025,
+      "confidence": 0.999563992023468,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 9,
+      "text": "a",
+      "start_s": 5.962500000000001,
+      "end_s": 5.9825,
+      "confidence": 0.999675452709198,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 10,
+      "text": "celebration",
+      "start_s": 6.1025,
+      "end_s": 6.7025,
+      "confidence": 0.9900750976342422,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 11,
+      "text": "of",
+      "start_s": 6.782500000000001,
+      "end_s": 6.8225,
+      "confidence": 0.99956014752388,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 12,
+      "text": "freedom",
+      "start_s": 6.9025,
+      "end_s": 7.2025,
+      "confidence": 0.9917876587973701,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 13,
+      "text": "symbolizing",
+      "start_s": 8.4825,
+      "end_s": 9.3025,
+      "confidence": 0.9700084145252521,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 14,
+      "text": "an",
+      "start_s": 9.4225,
+      "end_s": 9.462500000000002,
+      "confidence": 0.8483122885227203,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 15,
+      "text": "end",
+      "start_s": 9.6625,
+      "end_s": 9.7825,
+      "confidence": 0.8782601207494736,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 16,
+      "text": "as",
+      "start_s": 11.1225,
+      "end_s": 11.162499999999998,
+      "confidence": 0.9998088777065277,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 17,
+      "text": "well",
+      "start_s": 11.262500000000001,
+      "end_s": 11.442499999999999,
+      "confidence": 0.999969094991684,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 18,
+      "text": "as",
+      "start_s": 11.5225,
+      "end_s": 11.5625,
+      "confidence": 0.9998034834861755,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 19,
+      "text": "a",
+      "start_s": 11.6425,
+      "end_s": 11.6825,
+      "confidence": 0.9988884925842285,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 20,
+      "text": "beginning",
+      "start_s": 11.7425,
+      "end_s": 12.1225,
+      "confidence": 0.9420776854861866,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 21,
+      "text": "signifying",
+      "start_s": 13.5225,
+      "end_s": 14.2225,
+      "confidence": 0.9929513281041925,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 22,
+      "text": "renewal",
+      "start_s": 14.3025,
+      "end_s": 14.7225,
+      "confidence": 0.9569525837898254,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 23,
+      "text": "as",
+      "start_s": 15.9625,
+      "end_s": 16.0025,
+      "confidence": 0.999690443277359,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 24,
+      "text": "well",
+      "start_s": 16.0825,
+      "end_s": 16.242500000000003,
+      "confidence": 0.9997580885887146,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 25,
+      "text": "as",
+      "start_s": 16.322499999999998,
+      "end_s": 16.3625,
+      "confidence": 0.9995460510253906,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 26,
+      "text": "change",
+      "start_s": 16.4425,
+      "end_s": 16.802500000000002,
+      "confidence": 0.9879953861236572,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 27,
+      "text": "For",
+      "start_s": 18.182499999999997,
+      "end_s": 18.302500000000002,
+      "confidence": 0.99968953927358,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 28,
+      "text": "I",
+      "start_s": 18.502499999999998,
+      "end_s": 18.5225,
+      "confidence": 0.9998123645782471,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 29,
+      "text": "have",
+      "start_s": 18.6225,
+      "end_s": 18.742500000000003,
+      "confidence": 0.9456618577241898,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 30,
+      "text": "sworn",
+      "start_s": 18.7825,
+      "end_s": 19.2025,
+      "confidence": 0.9220662542751857,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 31,
+      "text": "before",
+      "start_s": 19.3025,
+      "end_s": 19.7025,
+      "confidence": 0.990189756665911,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 32,
+      "text": "you",
+      "start_s": 19.7625,
+      "end_s": 19.942500000000003,
+      "confidence": 0.9937031120061874,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 33,
+      "text": "and",
+      "start_s": 21.002499999999998,
+      "end_s": 21.102500000000003,
+      "confidence": 0.9961931556463242,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 34,
+      "text": "Almighty",
+      "start_s": 21.2425,
+      "end_s": 21.6625,
+      "confidence": 0.9519674728314081,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 35,
+      "text": "God",
+      "start_s": 21.7225,
+      "end_s": 22.0425,
+      "confidence": 0.9993351300557455,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 36,
+      "text": "the",
+      "start_s": 23.162499999999998,
+      "end_s": 23.262500000000003,
+      "confidence": 0.9772446155548096,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 37,
+      "text": "same",
+      "start_s": 23.362499999999997,
+      "end_s": 23.782500000000002,
+      "confidence": 0.9170762101809183,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 38,
+      "text": "solemn",
+      "start_s": 24.2425,
+      "end_s": 24.5825,
+      "confidence": 0.9151655104425218,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 39,
+      "text": "oath",
+      "start_s": 24.662499999999998,
+      "end_s": 24.8225,
+      "confidence": 0.851966659228007,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 40,
+      "text": "our",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.3367759458099802,
+      "recognized_match": false,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 41,
+      "text": "forebears",
+      "start_s": 26.4025,
+      "end_s": 27.0825,
+      "confidence": 0.8875782134262129,
+      "recognized_match": false,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 42,
+      "text": "prescribed",
+      "start_s": 27.202499999999997,
+      "end_s": 27.9025,
+      "confidence": 0.8417892803748449,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 43,
+      "text": "nearly",
+      "start_s": 28.882499999999997,
+      "end_s": 29.202500000000004,
+      "confidence": 0.9293413162231445,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 44,
+      "text": "a",
+      "start_s": 29.3025,
+      "end_s": 29.3225,
+      "confidence": 0.9992734789848328,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 45,
+      "text": "century",
+      "start_s": 29.502499999999998,
+      "end_s": 29.9425,
+      "confidence": 0.9841029345989227,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 46,
+      "text": "and",
+      "start_s": 30.062499999999996,
+      "end_s": 30.142500000000002,
+      "confidence": 0.999491810798645,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 47,
+      "text": "three",
+      "start_s": 30.242499999999996,
+      "end_s": 30.462500000000002,
+      "confidence": 0.945139833859035,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 48,
+      "text": "quarters",
+      "start_s": 30.5425,
+      "end_s": 30.9425,
+      "confidence": 0.9860207786162695,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 49,
+      "text": "ago",
+      "start_s": 31.022499999999997,
+      "end_s": 31.242500000000003,
+      "confidence": 0.9998717109362284,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    }
+  ],
+  "realigned_vs_propagated_mean_onset_s": 0.002500000000000021,
+  "negative_review_status": "pending",
+  "label_kind": "transformation_support_not_perceptual_ground_truth"
+}

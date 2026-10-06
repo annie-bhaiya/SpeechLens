@@ -1,0 +1,15 @@
+{
+  "integrity_passed": true,
+  "recordings": 346,
+  "references": 13,
+  "independent_speakers": 6,
+  "independent_sources": 7,
+  "pending_review_recordings": 346,
+  "human_label_gate_passed": false,
+  "errors": [],
+  "splits": {
+    "train": 234,
+    "validation": 52,
+    "test": 60
+  }
+}

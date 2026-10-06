@@ -1,0 +1,8 @@
+{
+  "job_id": "f6c138ff58d04c42a47abc49380e2b98",
+  "status_at_delete": "running",
+  "delete_http": 204,
+  "elapsed_s": 0.03580889999284409,
+  "job_directory_removed": true,
+  "subsequent_get_http": 404
+}

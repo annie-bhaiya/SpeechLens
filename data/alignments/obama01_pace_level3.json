@@ -1,0 +1,540 @@
+{
+  "words": [
+    {
+      "id": 0,
+      "text": "Good",
+      "start_s": 0.16249999999999998,
+      "end_s": 0.28250000000000003,
+      "confidence": 0.9997796267271042,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 1,
+      "text": "evening",
+      "start_s": 0.3225,
+      "end_s": 0.5225,
+      "confidence": 0.9482703745365143,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 2,
+      "text": "Tonight",
+      "start_s": 1.9425,
+      "end_s": 2.2624999999999997,
+      "confidence": 0.9806171125835843,
+      "recognized_match": false,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 3,
+      "text": "I",
+      "start_s": 2.9225000000000003,
+      "end_s": 2.9625,
+      "confidence": 0.7887211441993713,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 4,
+      "text": "can",
+      "start_s": 3.0225000000000004,
+      "end_s": 3.1024999999999996,
+      "confidence": 0.9992216229438782,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 5,
+      "text": "report",
+      "start_s": 3.1625,
+      "end_s": 3.5025,
+      "confidence": 0.865484376748403,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 6,
+      "text": "to",
+      "start_s": 3.5825,
+      "end_s": 3.6424999999999996,
+      "confidence": 0.8502384424209595,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 7,
+      "text": "the",
+      "start_s": 3.6825,
+      "end_s": 3.7424999999999997,
+      "confidence": 0.9992828567822775,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 8,
+      "text": "American",
+      "start_s": 3.7825,
+      "end_s": 4.0825,
+      "confidence": 0.9878450532754263,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 9,
+      "text": "people",
+      "start_s": 4.1625000000000005,
+      "end_s": 4.422499999999999,
+      "confidence": 0.9775590896606445,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 10,
+      "text": "and",
+      "start_s": 4.9025,
+      "end_s": 4.9825,
+      "confidence": 0.9993153810501099,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 11,
+      "text": "to",
+      "start_s": 5.0225,
+      "end_s": 5.0825,
+      "confidence": 0.918520450592041,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 12,
+      "text": "the",
+      "start_s": 5.1425,
+      "end_s": 5.2225,
+      "confidence": 0.8909641951322556,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 13,
+      "text": "world",
+      "start_s": 5.2625,
+      "end_s": 5.5024999999999995,
+      "confidence": 0.9898450800350734,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 14,
+      "text": "that",
+      "start_s": 6.3425,
+      "end_s": 6.4624999999999995,
+      "confidence": 0.6571882605552674,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 15,
+      "text": "the",
+      "start_s": 6.4825,
+      "end_s": 6.5625,
+      "confidence": 0.9954988559087118,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 16,
+      "text": "United",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.1487147463861523,
+      "recognized_match": false,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 17,
+      "text": "States",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.34196630865335464,
+      "recognized_match": false,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 18,
+      "text": "has",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.3297309245293339,
+      "recognized_match": false,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 19,
+      "text": "conducted",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.17585904875563252,
+      "recognized_match": false,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 20,
+      "text": "an",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.07201765291392803,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 21,
+      "text": "operation",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.5335387437371537,
+      "recognized_match": false,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 22,
+      "text": "that",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.4173818901181221,
+      "recognized_match": false,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 23,
+      "text": "killed",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.5081446263939142,
+      "recognized_match": false,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 24,
+      "text": "Osama",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.19859271440654994,
+      "recognized_match": false,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 25,
+      "text": "bin",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.09213701511422794,
+      "recognized_match": false,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 26,
+      "text": "Laden",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.3401252189010847,
+      "recognized_match": false,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 27,
+      "text": "the",
+      "start_s": 10.0625,
+      "end_s": 10.1225,
+      "confidence": 0.9961641828219095,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 28,
+      "text": "leader",
+      "start_s": 10.1625,
+      "end_s": 10.3825,
+      "confidence": 0.9354933798313141,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 29,
+      "text": "of",
+      "start_s": 10.4225,
+      "end_s": 10.4625,
+      "confidence": 0.9936958253383636,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 30,
+      "text": "al",
+      "start_s": 10.5625,
+      "end_s": 10.6225,
+      "confidence": 0.8591891924540201,
+      "recognized_match": false,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 31,
+      "text": "Qaeda",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.4265118279145099,
+      "recognized_match": false,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 32,
+      "text": "and",
+      "start_s": 11.9425,
+      "end_s": 12.0025,
+      "confidence": 0.9546790719032288,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 33,
+      "text": "a",
+      "start_s": 12.0625,
+      "end_s": 12.0825,
+      "confidence": 0.9956754446029663,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 34,
+      "text": "terrorist",
+      "start_s": 12.1425,
+      "end_s": 12.5625,
+      "confidence": 0.9523002088069916,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 35,
+      "text": "who's",
+      "start_s": 12.7425,
+      "end_s": 12.9025,
+      "confidence": 0.9002615928649902,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 36,
+      "text": "responsible",
+      "start_s": 12.9625,
+      "end_s": 13.6225,
+      "confidence": 0.9615147829055786,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 37,
+      "text": "for",
+      "start_s": 13.7025,
+      "end_s": 13.7825,
+      "confidence": 0.9998716513315836,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 38,
+      "text": "the",
+      "start_s": 13.8225,
+      "end_s": 13.9025,
+      "confidence": 0.9964906573295593,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 39,
+      "text": "murder",
+      "start_s": 13.9425,
+      "end_s": 14.2425,
+      "confidence": 0.9416699916124344,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 40,
+      "text": "of",
+      "start_s": 14.3225,
+      "end_s": 14.362499999999999,
+      "confidence": 0.9997783601284027,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 41,
+      "text": "thousands",
+      "start_s": 14.4825,
+      "end_s": 14.942499999999999,
+      "confidence": 0.9612593559118418,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 42,
+      "text": "of",
+      "start_s": 15.4425,
+      "end_s": 15.4825,
+      "confidence": 0.9993575513362885,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 43,
+      "text": "innocent",
+      "start_s": 15.5625,
+      "end_s": 15.8825,
+      "confidence": 0.9950162702136569,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 44,
+      "text": "men",
+      "start_s": 15.9425,
+      "end_s": 16.102500000000003,
+      "confidence": 0.9998267143964767,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 45,
+      "text": "women",
+      "start_s": 16.9625,
+      "end_s": 17.2025,
+      "confidence": 0.9842468202114105,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 46,
+      "text": "and",
+      "start_s": 17.7225,
+      "end_s": 17.802500000000002,
+      "confidence": 0.9997561772664388,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 47,
+      "text": "children",
+      "start_s": 17.862499999999997,
+      "end_s": 18.2025,
+      "confidence": 0.9972661779477046,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    }
+  ],
+  "coverage": 0.75,
+  "recognized_text": "good evening to night i can report to the american people and to the world that the isas is not iorition to kill o an relan the leader of valkaita and a terrorist who's responsible for the murder of thousands of innocent men women and children",
+  "edits": [
+    {
+      "operation": "replace",
+      "intended_word_span": [
+        2,
+        3
+      ],
+      "recognized_words": [
+        "to",
+        "night"
+      ]
+    },
+    {
+      "operation": "replace",
+      "intended_word_span": [
+        16,
+        20
+      ],
+      "recognized_words": [
+        "isas",
+        "is",
+        "not",
+        "iorition",
+        "to",
+        "kill",
+        "o"
+      ]
+    },
+    {
+      "operation": "replace",
+      "intended_word_span": [
+        21,
+        27
+      ],
+      "recognized_words": [
+        "relan"
+      ]
+    },
+    {
+      "operation": "replace",
+      "intended_word_span": [
+        30,
+        32
+      ],
+      "recognized_words": [
+        "valkaita"
+      ]
+    }
+  ],
+  "asr_match_fraction": 0.7291666666666666,
+  "model": "facebook/wav2vec2-base-960h",
+  "revision": "22aad52d435eb6dbaf354bdad9b0da84ce7d6156",
+  "duration_s": 18.344125,
+  "independently_reviewed": false
+}

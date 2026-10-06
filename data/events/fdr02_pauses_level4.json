@@ -1,0 +1,739 @@
+{
+  "events": [
+    {
+      "kind": "insertion",
+      "source_start_s": 35.3625,
+      "source_end_s": 35.3625,
+      "target_start_s": 35.3625,
+      "target_end_s": 37.3535,
+      "family": "pauses",
+      "severity": 4,
+      "token_ids": [
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "parameters": {
+        "start_s": 35.3625,
+        "end_s": 35.3625,
+        "family": "pauses",
+        "severity": 4,
+        "token_ids": [
+          43,
+          44,
+          45,
+          46,
+          47
+        ],
+        "kind": "insertion",
+        "duration_s": 1.9910288507002178
+      },
+      "fade_samples": 0,
+      "label_kind": "transformation_support",
+      "perceptual_interval_s": null,
+      "review_status": "pending",
+      "reviewers": [],
+      "uncertainty": "Not independently perceptually annotated"
+    }
+  ],
+  "time_map": [
+    {
+      "kind": "identity",
+      "source_start_s": 0.0,
+      "source_end_s": 35.3625,
+      "target_start_s": 0.0,
+      "target_end_s": 35.3625
+    },
+    {
+      "kind": "insertion",
+      "source_start_s": 35.3625,
+      "source_end_s": 35.3625,
+      "target_start_s": 35.3625,
+      "target_end_s": 37.3535
+    },
+    {
+      "kind": "identity",
+      "source_start_s": 35.3625,
+      "source_end_s": 46.16,
+      "target_start_s": 37.3535,
+      "target_end_s": 48.151
+    }
+  ],
+  "propagated_words": [
+    {
+      "id": 0,
+      "text": "Yesterday",
+      "start_s": 0.16249999999999998,
+      "end_s": 0.7625,
+      "confidence": 0.9532672166824341,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 1,
+      "text": "December",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.344398483983241,
+      "recognized_match": false,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 2,
+      "text": "seventh",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.2009257691513215,
+      "recognized_match": false,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 3,
+      "text": "nineteen",
+      "start_s": 5.0225,
+      "end_s": 5.502499999999999,
+      "confidence": 0.9612942062891446,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 4,
+      "text": "forty",
+      "start_s": 5.742500000000001,
+      "end_s": 6.0225,
+      "confidence": 0.9862435559431711,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 5,
+      "text": "one",
+      "start_s": 6.262500000000001,
+      "end_s": 6.3625,
+      "confidence": 0.9744472503662109,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 6,
+      "text": "a",
+      "start_s": 8.7225,
+      "end_s": 8.7425,
+      "confidence": 0.9965583086013794,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 7,
+      "text": "date",
+      "start_s": 8.9025,
+      "end_s": 9.1625,
+      "confidence": 0.9853938966989517,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 8,
+      "text": "which",
+      "start_s": 9.262500000000001,
+      "end_s": 9.4025,
+      "confidence": 0.9918135046958924,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 9,
+      "text": "will",
+      "start_s": 9.4625,
+      "end_s": 9.6825,
+      "confidence": 0.9260470122098923,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 10,
+      "text": "live",
+      "start_s": 9.802500000000002,
+      "end_s": 10.0825,
+      "confidence": 0.9537561058998107,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 11,
+      "text": "in",
+      "start_s": 11.4625,
+      "end_s": 11.522499999999999,
+      "confidence": 0.8740883767604828,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 12,
+      "text": "infamy",
+      "start_s": 11.8025,
+      "end_s": 12.2225,
+      "confidence": 0.7300520837306976,
+      "recognized_match": false,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 13,
+      "text": "the",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.012977683800272644,
+      "recognized_match": false,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 14,
+      "text": "United",
+      "start_s": 14.1425,
+      "end_s": 14.4825,
+      "confidence": 0.9551789032088386,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 15,
+      "text": "States",
+      "start_s": 14.562499999999998,
+      "end_s": 14.9225,
+      "confidence": 0.9853427469730377,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 16,
+      "text": "of",
+      "start_s": 14.9825,
+      "end_s": 15.022499999999999,
+      "confidence": 0.9989104568958282,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 17,
+      "text": "America",
+      "start_s": 15.1225,
+      "end_s": 15.5625,
+      "confidence": 0.9969325512647629,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 18,
+      "text": "was",
+      "start_s": 16.7625,
+      "end_s": 16.8825,
+      "confidence": 0.9749733010927836,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 19,
+      "text": "suddenly",
+      "start_s": 17.022499999999997,
+      "end_s": 17.462500000000002,
+      "confidence": 0.9154822885990143,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 20,
+      "text": "and",
+      "start_s": 17.542499999999997,
+      "end_s": 17.602500000000003,
+      "confidence": 0.9967959523200989,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 21,
+      "text": "deliberately",
+      "start_s": 17.662499999999998,
+      "end_s": 18.462500000000002,
+      "confidence": 0.9979669877461025,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 22,
+      "text": "attacked",
+      "start_s": 18.5825,
+      "end_s": 19.0225,
+      "confidence": 0.8120949454605579,
+      "recognized_match": false,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 23,
+      "text": "by",
+      "start_s": 20.2825,
+      "end_s": 20.422500000000003,
+      "confidence": 0.980137437582016,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 24,
+      "text": "naval",
+      "start_s": 20.5625,
+      "end_s": 20.8825,
+      "confidence": 0.9276756122708321,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 25,
+      "text": "and",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.31626809015870094,
+      "recognized_match": false,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 26,
+      "text": "air",
+      "start_s": 21.122500000000002,
+      "end_s": 21.262500000000006,
+      "confidence": 0.7943697571754456,
+      "recognized_match": false,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 27,
+      "text": "forces",
+      "start_s": 21.4625,
+      "end_s": 21.962500000000002,
+      "confidence": 0.8999090492725372,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 28,
+      "text": "of",
+      "start_s": 22.562499999999996,
+      "end_s": 22.602500000000006,
+      "confidence": 0.9976911246776581,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 29,
+      "text": "the",
+      "start_s": 22.662499999999998,
+      "end_s": 22.742500000000003,
+      "confidence": 0.8986032754182816,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 30,
+      "text": "Empire",
+      "start_s": 22.882499999999997,
+      "end_s": 23.3825,
+      "confidence": 0.96682651175393,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 31,
+      "text": "of",
+      "start_s": 23.862499999999997,
+      "end_s": 23.9025,
+      "confidence": 0.9955701231956482,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 32,
+      "text": "Japan",
+      "start_s": 24.002499999999998,
+      "end_s": 24.422500000000003,
+      "confidence": 0.9090989232063293,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 33,
+      "text": "The",
+      "start_s": 26.482499999999998,
+      "end_s": 26.562500000000004,
+      "confidence": 0.9835468679666519,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 34,
+      "text": "United",
+      "start_s": 26.622500000000002,
+      "end_s": 26.922500000000003,
+      "confidence": 0.9438202977180481,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 35,
+      "text": "States",
+      "start_s": 27.022499999999997,
+      "end_s": 27.362500000000004,
+      "confidence": 0.9944906830787659,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 36,
+      "text": "was",
+      "start_s": 27.4625,
+      "end_s": 27.562500000000004,
+      "confidence": 0.9832352995872498,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 37,
+      "text": "at",
+      "start_s": 27.662499999999998,
+      "end_s": 27.702500000000004,
+      "confidence": 0.7281604558229446,
+      "recognized_match": false,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 38,
+      "text": "peace",
+      "start_s": 27.8025,
+      "end_s": 28.122500000000002,
+      "confidence": 0.9523776471614838,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 39,
+      "text": "with",
+      "start_s": 28.822499999999998,
+      "end_s": 28.962500000000002,
+      "confidence": 0.9834102392196655,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 40,
+      "text": "that",
+      "start_s": 29.022499999999997,
+      "end_s": 29.1625,
+      "confidence": 0.9977109581232071,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 41,
+      "text": "nation",
+      "start_s": 29.2625,
+      "end_s": 29.602500000000003,
+      "confidence": 0.9913217922051748,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 42,
+      "text": "and",
+      "start_s": 31.482499999999998,
+      "end_s": 31.602500000000003,
+      "confidence": 0.9837440848350525,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 43,
+      "text": "at",
+      "start_s": 32.3225,
+      "end_s": 32.3825,
+      "confidence": 0.9976686537265778,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 44,
+      "text": "the",
+      "start_s": 32.4625,
+      "end_s": 32.5625,
+      "confidence": 0.9965184728304545,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 45,
+      "text": "solicitation",
+      "start_s": 32.642500000000005,
+      "end_s": 33.482499999999995,
+      "confidence": 0.9821015040079752,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 46,
+      "text": "of",
+      "start_s": 34.042500000000004,
+      "end_s": 34.082499999999996,
+      "confidence": 0.9967481195926666,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 47,
+      "text": "Japan",
+      "start_s": 34.222500000000004,
+      "end_s": 34.7225,
+      "confidence": 0.9185490806897482,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 48,
+      "text": "was",
+      "start_s": 37.993500000000004,
+      "end_s": 38.113499999999995,
+      "confidence": 0.9863624374071757,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 49,
+      "text": "still",
+      "start_s": 38.273500000000006,
+      "end_s": 38.613499999999995,
+      "confidence": 0.9970019698143006,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 50,
+      "text": "in",
+      "start_s": 38.853500000000004,
+      "end_s": 38.893499999999996,
+      "confidence": 0.9998496472835541,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 51,
+      "text": "conversation",
+      "start_s": 39.05350000000001,
+      "end_s": 39.8135,
+      "confidence": 0.9983659227689107,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 52,
+      "text": "with",
+      "start_s": 40.8335,
+      "end_s": 40.973499999999994,
+      "confidence": 0.9847301642100016,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 53,
+      "text": "its",
+      "start_s": 41.05350000000001,
+      "end_s": 41.1535,
+      "confidence": 0.9993196527163187,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 54,
+      "text": "government",
+      "start_s": 41.273500000000006,
+      "end_s": 41.7335,
+      "confidence": 0.9978259422562339,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 55,
+      "text": "and",
+      "start_s": 42.43350000000001,
+      "end_s": 42.533500000000004,
+      "confidence": 0.9962842762470245,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 56,
+      "text": "its",
+      "start_s": 42.65350000000001,
+      "end_s": 42.7735,
+      "confidence": 0.8271916806697845,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 57,
+      "text": "Emperor",
+      "start_s": 42.9735,
+      "end_s": 43.33350000000001,
+      "confidence": 0.7000329531729221,
+      "recognized_match": false,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 58,
+      "text": "looking",
+      "start_s": 44.593500000000006,
+      "end_s": 44.9335,
+      "confidence": 0.9278616176711189,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 59,
+      "text": "toward",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.20410200189993097,
+      "recognized_match": false,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 60,
+      "text": "the",
+      "start_s": 45.55350000000001,
+      "end_s": 45.633500000000005,
+      "confidence": 0.998639702796936,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 61,
+      "text": "maintenance",
+      "start_s": 45.73350000000001,
+      "end_s": 46.2135,
+      "confidence": 0.9902737183230264,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 62,
+      "text": "of",
+      "start_s": 46.47350000000001,
+      "end_s": 46.51350000000001,
+      "confidence": 0.9229653179645538,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 63,
+      "text": "peace",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.27063814252614976,
+      "recognized_match": false,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 64,
+      "text": "in",
+      "start_s": 47.39350000000001,
+      "end_s": 47.4335,
+      "confidence": 0.9933005571365356,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 65,
+      "text": "the",
+      "start_s": 47.49350000000001,
+      "end_s": 47.55350000000001,
+      "confidence": 0.9899402260780334,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 66,
+      "text": "Pacific",
+      "start_s": 47.61350000000001,
+      "end_s": 47.9735,
+      "confidence": 0.9868573205811637,
+      "recognized_match": true,
+      "source": "propagated_transformation_map_not_independent_alignment",
+      "review_status": "machine_unreviewed"
+    }
+  ],
+  "realigned_vs_propagated_mean_onset_s": 0.002770491803278944,
+  "negative_review_status": "pending",
+  "label_kind": "transformation_support_not_perceptual_ground_truth"
+}

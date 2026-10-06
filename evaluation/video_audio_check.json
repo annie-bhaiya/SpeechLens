@@ -1,0 +1,24 @@
+{
+  "sample_interval_s": [
+    57,
+    63
+  ],
+  "decoded_words": [
+    "first",
+    "i",
+    "should",
+    "like",
+    "to",
+    "express",
+    "my",
+    "gratitude",
+    "to",
+    "the",
+    "radio",
+    "and",
+    "telivision",
+    "etwar"
+  ],
+  "passed": true,
+  "assessment": "Pinned CTC recognition and non-silent decoded waveform proxy. Independent human listening remains unmeasured."
+}

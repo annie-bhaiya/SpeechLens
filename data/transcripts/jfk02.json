@@ -1,0 +1,479 @@
+{
+  "display_text": "The world is very different now. For man holds in his mortal hands the power to abolish all forms of human poverty and all forms of human life. And yet the same revolutionary beliefs for which our forebears fought are still at issue around the globe, the belief that the rights of man come not from the generosity of the state but from the hand of God.",
+  "tokens": [
+    {
+      "id": 0,
+      "text": "The",
+      "normalized": "the",
+      "char_start": 0,
+      "char_end": 3
+    },
+    {
+      "id": 1,
+      "text": "world",
+      "normalized": "world",
+      "char_start": 4,
+      "char_end": 9
+    },
+    {
+      "id": 2,
+      "text": "is",
+      "normalized": "is",
+      "char_start": 10,
+      "char_end": 12
+    },
+    {
+      "id": 3,
+      "text": "very",
+      "normalized": "very",
+      "char_start": 13,
+      "char_end": 17
+    },
+    {
+      "id": 4,
+      "text": "different",
+      "normalized": "different",
+      "char_start": 18,
+      "char_end": 27
+    },
+    {
+      "id": 5,
+      "text": "now",
+      "normalized": "now",
+      "char_start": 28,
+      "char_end": 31
+    },
+    {
+      "id": 6,
+      "text": "For",
+      "normalized": "for",
+      "char_start": 33,
+      "char_end": 36
+    },
+    {
+      "id": 7,
+      "text": "man",
+      "normalized": "man",
+      "char_start": 37,
+      "char_end": 40
+    },
+    {
+      "id": 8,
+      "text": "holds",
+      "normalized": "holds",
+      "char_start": 41,
+      "char_end": 46
+    },
+    {
+      "id": 9,
+      "text": "in",
+      "normalized": "in",
+      "char_start": 47,
+      "char_end": 49
+    },
+    {
+      "id": 10,
+      "text": "his",
+      "normalized": "his",
+      "char_start": 50,
+      "char_end": 53
+    },
+    {
+      "id": 11,
+      "text": "mortal",
+      "normalized": "mortal",
+      "char_start": 54,
+      "char_end": 60
+    },
+    {
+      "id": 12,
+      "text": "hands",
+      "normalized": "hands",
+      "char_start": 61,
+      "char_end": 66
+    },
+    {
+      "id": 13,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 67,
+      "char_end": 70
+    },
+    {
+      "id": 14,
+      "text": "power",
+      "normalized": "power",
+      "char_start": 71,
+      "char_end": 76
+    },
+    {
+      "id": 15,
+      "text": "to",
+      "normalized": "to",
+      "char_start": 77,
+      "char_end": 79
+    },
+    {
+      "id": 16,
+      "text": "abolish",
+      "normalized": "abolish",
+      "char_start": 80,
+      "char_end": 87
+    },
+    {
+      "id": 17,
+      "text": "all",
+      "normalized": "all",
+      "char_start": 88,
+      "char_end": 91
+    },
+    {
+      "id": 18,
+      "text": "forms",
+      "normalized": "forms",
+      "char_start": 92,
+      "char_end": 97
+    },
+    {
+      "id": 19,
+      "text": "of",
+      "normalized": "of",
+      "char_start": 98,
+      "char_end": 100
+    },
+    {
+      "id": 20,
+      "text": "human",
+      "normalized": "human",
+      "char_start": 101,
+      "char_end": 106
+    },
+    {
+      "id": 21,
+      "text": "poverty",
+      "normalized": "poverty",
+      "char_start": 107,
+      "char_end": 114
+    },
+    {
+      "id": 22,
+      "text": "and",
+      "normalized": "and",
+      "char_start": 115,
+      "char_end": 118
+    },
+    {
+      "id": 23,
+      "text": "all",
+      "normalized": "all",
+      "char_start": 119,
+      "char_end": 122
+    },
+    {
+      "id": 24,
+      "text": "forms",
+      "normalized": "forms",
+      "char_start": 123,
+      "char_end": 128
+    },
+    {
+      "id": 25,
+      "text": "of",
+      "normalized": "of",
+      "char_start": 129,
+      "char_end": 131
+    },
+    {
+      "id": 26,
+      "text": "human",
+      "normalized": "human",
+      "char_start": 132,
+      "char_end": 137
+    },
+    {
+      "id": 27,
+      "text": "life",
+      "normalized": "life",
+      "char_start": 138,
+      "char_end": 142
+    },
+    {
+      "id": 28,
+      "text": "And",
+      "normalized": "and",
+      "char_start": 144,
+      "char_end": 147
+    },
+    {
+      "id": 29,
+      "text": "yet",
+      "normalized": "yet",
+      "char_start": 148,
+      "char_end": 151
+    },
+    {
+      "id": 30,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 152,
+      "char_end": 155
+    },
+    {
+      "id": 31,
+      "text": "same",
+      "normalized": "same",
+      "char_start": 156,
+      "char_end": 160
+    },
+    {
+      "id": 32,
+      "text": "revolutionary",
+      "normalized": "revolutionary",
+      "char_start": 161,
+      "char_end": 174
+    },
+    {
+      "id": 33,
+      "text": "beliefs",
+      "normalized": "beliefs",
+      "char_start": 175,
+      "char_end": 182
+    },
+    {
+      "id": 34,
+      "text": "for",
+      "normalized": "for",
+      "char_start": 183,
+      "char_end": 186
+    },
+    {
+      "id": 35,
+      "text": "which",
+      "normalized": "which",
+      "char_start": 187,
+      "char_end": 192
+    },
+    {
+      "id": 36,
+      "text": "our",
+      "normalized": "our",
+      "char_start": 193,
+      "char_end": 196
+    },
+    {
+      "id": 37,
+      "text": "forebears",
+      "normalized": "forebears",
+      "char_start": 197,
+      "char_end": 206
+    },
+    {
+      "id": 38,
+      "text": "fought",
+      "normalized": "fought",
+      "char_start": 207,
+      "char_end": 213
+    },
+    {
+      "id": 39,
+      "text": "are",
+      "normalized": "are",
+      "char_start": 214,
+      "char_end": 217
+    },
+    {
+      "id": 40,
+      "text": "still",
+      "normalized": "still",
+      "char_start": 218,
+      "char_end": 223
+    },
+    {
+      "id": 41,
+      "text": "at",
+      "normalized": "at",
+      "char_start": 224,
+      "char_end": 226
+    },
+    {
+      "id": 42,
+      "text": "issue",
+      "normalized": "issue",
+      "char_start": 227,
+      "char_end": 232
+    },
+    {
+      "id": 43,
+      "text": "around",
+      "normalized": "around",
+      "char_start": 233,
+      "char_end": 239
+    },
+    {
+      "id": 44,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 240,
+      "char_end": 243
+    },
+    {
+      "id": 45,
+      "text": "globe",
+      "normalized": "globe",
+      "char_start": 244,
+      "char_end": 249
+    },
+    {
+      "id": 46,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 251,
+      "char_end": 254
+    },
+    {
+      "id": 47,
+      "text": "belief",
+      "normalized": "belief",
+      "char_start": 255,
+      "char_end": 261
+    },
+    {
+      "id": 48,
+      "text": "that",
+      "normalized": "that",
+      "char_start": 262,
+      "char_end": 266
+    },
+    {
+      "id": 49,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 267,
+      "char_end": 270
+    },
+    {
+      "id": 50,
+      "text": "rights",
+      "normalized": "rights",
+      "char_start": 271,
+      "char_end": 277
+    },
+    {
+      "id": 51,
+      "text": "of",
+      "normalized": "of",
+      "char_start": 278,
+      "char_end": 280
+    },
+    {
+      "id": 52,
+      "text": "man",
+      "normalized": "man",
+      "char_start": 281,
+      "char_end": 284
+    },
+    {
+      "id": 53,
+      "text": "come",
+      "normalized": "come",
+      "char_start": 285,
+      "char_end": 289
+    },
+    {
+      "id": 54,
+      "text": "not",
+      "normalized": "not",
+      "char_start": 290,
+      "char_end": 293
+    },
+    {
+      "id": 55,
+      "text": "from",
+      "normalized": "from",
+      "char_start": 294,
+      "char_end": 298
+    },
+    {
+      "id": 56,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 299,
+      "char_end": 302
+    },
+    {
+      "id": 57,
+      "text": "generosity",
+      "normalized": "generosity",
+      "char_start": 303,
+      "char_end": 313
+    },
+    {
+      "id": 58,
+      "text": "of",
+      "normalized": "of",
+      "char_start": 314,
+      "char_end": 316
+    },
+    {
+      "id": 59,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 317,
+      "char_end": 320
+    },
+    {
+      "id": 60,
+      "text": "state",
+      "normalized": "state",
+      "char_start": 321,
+      "char_end": 326
+    },
+    {
+      "id": 61,
+      "text": "but",
+      "normalized": "but",
+      "char_start": 327,
+      "char_end": 330
+    },
+    {
+      "id": 62,
+      "text": "from",
+      "normalized": "from",
+      "char_start": 331,
+      "char_end": 335
+    },
+    {
+      "id": 63,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 336,
+      "char_end": 339
+    },
+    {
+      "id": 64,
+      "text": "hand",
+      "normalized": "hand",
+      "char_start": 340,
+      "char_end": 344
+    },
+    {
+      "id": 65,
+      "text": "of",
+      "normalized": "of",
+      "char_start": 345,
+      "char_end": 347
+    },
+    {
+      "id": 66,
+      "text": "God",
+      "normalized": "god",
+      "char_start": 348,
+      "char_end": 351
+    }
+  ],
+  "canonical_text": "the world is very different now for man holds in his mortal hands the power to abolish all forms of human poverty and all forms of human life and yet the same revolutionary beliefs for which our forebears fought are still at issue around the globe the belief that the rights of man come not from the generosity of the state but from the hand of god",
+  "sha256": "0435a582378523d4aed5287aca876eb61422dd38a407134f1a85b5323ba11340",
+  "language": "en",
+  "provenance": "https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/inaugural-address-19610120",
+  "review_status": "source_text_machine_alignment_human_correction_pending"
+}

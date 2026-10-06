@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "job_id": "d6a6133531464196983beea720154fab",
+  "fresh_inference": true,
+  "score": 95.5,
+  "event_types": [
+    "pace",
+    "pauses"
+  ]
+}

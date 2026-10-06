@@ -1,0 +1,18 @@
+{
+  "id": "fdr",
+  "speaker": "Franklin D. Roosevelt",
+  "title": "First Inauguration of FDR - Fear Itself Excerpt.ogg",
+  "url": "https://commons.wikimedia.org/wiki/File:First_Inauguration_of_FDR_-_Fear_Itself_Excerpt.ogg",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/First_Inauguration_of_FDR_-_Fear_Itself_Excerpt.ogg",
+  "recording_sha256": "dea26e2f6c127ca4c0742a18c43630fa7bea4fbf2634f859cede77741239aa06",
+  "retrieved_date": "2026-10-05",
+  "license": "PD-USGov",
+  "recording_rights_evidence": "https://commons.wikimedia.org/wiki/File:First_Inauguration_of_FDR_-_Fear_Itself_Excerpt.ogg",
+  "evidence_sha256": "b51351085825e5f1f25a057b8b7ebe8d86f3e858f074cec5050d03de38ecda5e",
+  "transcript_url": "https://millercenter.org/the-presidency/presidential-speeches/march-4-1933-first-inaugural-address",
+  "transcript_rights": "US federal official speech; public-domain original text",
+  "language": "en",
+  "independent_review_status": "pending",
+  "selection_rationale": "Clear rhetorical clause boundaries, deliberate pacing and public address context; selected as one delivery example, not a unique optimum.",
+  "quality_review": "Machine DSP QA only; historical recording channel and any applause remain potential confounds."
+}

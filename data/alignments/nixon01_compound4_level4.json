@@ -1,0 +1,545 @@
+{
+  "words": [
+    {
+      "id": 0,
+      "text": "Good",
+      "start_s": 0.1425,
+      "end_s": 0.28250000000000003,
+      "confidence": 0.989487037062645,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 1,
+      "text": "evening",
+      "start_s": 0.3625,
+      "end_s": 0.6025,
+      "confidence": 0.9586624247687203,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 2,
+      "text": "This",
+      "start_s": 1.9625,
+      "end_s": 2.1024999999999996,
+      "confidence": 0.9942381531000137,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 3,
+      "text": "is",
+      "start_s": 2.2025,
+      "end_s": 2.2424999999999997,
+      "confidence": 0.9978756010532379,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 4,
+      "text": "the",
+      "start_s": 2.3425000000000002,
+      "end_s": 2.4625,
+      "confidence": 0.9829095244407654,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 5,
+      "text": "thirty",
+      "start_s": 2.8225000000000002,
+      "end_s": 3.0625,
+      "confidence": 0.9913747534155846,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 6,
+      "text": "seventh",
+      "start_s": 3.1025,
+      "end_s": 3.4025,
+      "confidence": 0.9568822979927063,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 7,
+      "text": "time",
+      "start_s": 3.5225000000000004,
+      "end_s": 3.8425,
+      "confidence": 0.9081594705581665,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 8,
+      "text": "I",
+      "start_s": 4.9425,
+      "end_s": 4.9624999999999995,
+      "confidence": 0.9999305009841919,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 9,
+      "text": "have",
+      "start_s": 5.0425,
+      "end_s": 5.1625,
+      "confidence": 0.9146880030632019,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 10,
+      "text": "spoken",
+      "start_s": 5.202500000000001,
+      "end_s": 5.5424999999999995,
+      "confidence": 0.9825843870639801,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 11,
+      "text": "to",
+      "start_s": 5.5825000000000005,
+      "end_s": 5.6425,
+      "confidence": 0.9994507133960724,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 12,
+      "text": "you",
+      "start_s": 5.6825,
+      "end_s": 5.7825,
+      "confidence": 0.9999835093816122,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 13,
+      "text": "from",
+      "start_s": 5.9025,
+      "end_s": 6.0225,
+      "confidence": 0.999790295958519,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 14,
+      "text": "this",
+      "start_s": 6.0825000000000005,
+      "end_s": 6.2225,
+      "confidence": 0.9650905132293701,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 15,
+      "text": "office",
+      "start_s": 6.3825,
+      "end_s": 6.6625,
+      "confidence": 0.9630521876471383,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 16,
+      "text": "where",
+      "start_s": 7.6025,
+      "end_s": 7.7825,
+      "confidence": 0.9072201649347941,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 17,
+      "text": "so",
+      "start_s": 7.8825,
+      "end_s": 7.9624999999999995,
+      "confidence": 0.99981889128685,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 18,
+      "text": "many",
+      "start_s": 8.0425,
+      "end_s": 8.2025,
+      "confidence": 0.9938892245292663,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 19,
+      "text": "decisions",
+      "start_s": 8.262500000000001,
+      "end_s": 8.8225,
+      "confidence": 0.9830322999220628,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 20,
+      "text": "have",
+      "start_s": 9.4225,
+      "end_s": 9.5425,
+      "confidence": 0.9937280267477036,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 21,
+      "text": "been",
+      "start_s": 9.5825,
+      "end_s": 9.7225,
+      "confidence": 0.9934105753898621,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 22,
+      "text": "made",
+      "start_s": 9.762500000000001,
+      "end_s": 10.0025,
+      "confidence": 0.9997580051422119,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 23,
+      "text": "that",
+      "start_s": 10.102500000000001,
+      "end_s": 10.2425,
+      "confidence": 0.9927892804145813,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 24,
+      "text": "shaped",
+      "start_s": 10.4025,
+      "end_s": 10.6825,
+      "confidence": 0.9211281538009644,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 25,
+      "text": "the",
+      "start_s": 10.7225,
+      "end_s": 10.8025,
+      "confidence": 0.9808914363384247,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 26,
+      "text": "history",
+      "start_s": 10.8425,
+      "end_s": 11.2025,
+      "confidence": 0.95466068983078,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 27,
+      "text": "of",
+      "start_s": 12.182500000000001,
+      "end_s": 12.2225,
+      "confidence": 0.999756783246994,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 28,
+      "text": "this",
+      "start_s": 12.3625,
+      "end_s": 12.522499999999999,
+      "confidence": 0.9666836758454641,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 29,
+      "text": "nation",
+      "start_s": 12.602500000000001,
+      "end_s": 12.9025,
+      "confidence": 0.986211784183979,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 30,
+      "text": "Each",
+      "start_s": 14.5625,
+      "end_s": 14.7225,
+      "confidence": 0.9894637763500214,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 31,
+      "text": "time",
+      "start_s": 14.9425,
+      "end_s": 15.442499999999999,
+      "confidence": 0.9687799453735352,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 32,
+      "text": "I",
+      "start_s": 16.9025,
+      "end_s": 16.922500000000003,
+      "confidence": 0.9505358934402466,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 33,
+      "text": "have",
+      "start_s": 17.042499999999997,
+      "end_s": 17.142500000000002,
+      "confidence": 0.6181394979357719,
+      "recognized_match": false,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 34,
+      "text": "done",
+      "start_s": 17.2225,
+      "end_s": 17.5025,
+      "confidence": 0.6904955506324768,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 35,
+      "text": "so",
+      "start_s": 17.6225,
+      "end_s": 17.8225,
+      "confidence": 0.9943383038043976,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 36,
+      "text": "to",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.47757923382596346,
+      "recognized_match": false,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 37,
+      "text": "discuss",
+      "start_s": null,
+      "end_s": null,
+      "confidence": 0.3974876083167536,
+      "recognized_match": false,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 38,
+      "text": "with",
+      "start_s": 18.8025,
+      "end_s": 18.9825,
+      "confidence": 0.9487602233886718,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 39,
+      "text": "you",
+      "start_s": 19.0825,
+      "end_s": 19.2025,
+      "confidence": 0.9959760506947836,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 40,
+      "text": "some",
+      "start_s": 19.4225,
+      "end_s": 19.7025,
+      "confidence": 0.9887553453445435,
+      "recognized_match": false,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 41,
+      "text": "matter",
+      "start_s": 19.8025,
+      "end_s": 20.2025,
+      "confidence": 0.5554837209710968,
+      "recognized_match": false,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 42,
+      "text": "that",
+      "start_s": 20.382499999999997,
+      "end_s": 20.5025,
+      "confidence": 0.9969224482774734,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 43,
+      "text": "I",
+      "start_s": 20.6025,
+      "end_s": 20.622500000000002,
+      "confidence": 0.9999088048934937,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 44,
+      "text": "believe",
+      "start_s": 20.7225,
+      "end_s": 20.9825,
+      "confidence": 0.9526331027348837,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 45,
+      "text": "affected",
+      "start_s": 21.042499999999997,
+      "end_s": 21.4025,
+      "confidence": 0.9933969676494598,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 46,
+      "text": "the",
+      "start_s": 21.4625,
+      "end_s": 21.5225,
+      "confidence": 0.9935656984647115,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 47,
+      "text": "national",
+      "start_s": 21.5825,
+      "end_s": 21.9025,
+      "confidence": 0.9028101742267609,
+      "recognized_match": true,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    },
+    {
+      "id": 48,
+      "text": "interest",
+      "start_s": 21.982499999999998,
+      "end_s": 22.262500000000003,
+      "confidence": 0.9145665114576166,
+      "recognized_match": false,
+      "source": "wav2vec2-ctc-supplied-text-v1",
+      "review_status": "machine_unreviewed"
+    }
+  ],
+  "coverage": 0.9591836734693877,
+  "recognized_text": "good evening this is the thirty seventh time i have spoken to you from this office where so many decisions have been made that shaped the history of this nation each time i hav done so it is has with you somewhter that i believe affected the national interests",
+  "edits": [
+    {
+      "operation": "replace",
+      "intended_word_span": [
+        33,
+        34
+      ],
+      "recognized_words": [
+        "hav"
+      ]
+    },
+    {
+      "operation": "replace",
+      "intended_word_span": [
+        36,
+        38
+      ],
+      "recognized_words": [
+        "it",
+        "is",
+        "has"
+      ]
+    },
+    {
+      "operation": "replace",
+      "intended_word_span": [
+        40,
+        42
+      ],
+      "recognized_words": [
+        "somewhter"
+      ]
+    },
+    {
+      "operation": "replace",
+      "intended_word_span": [
+        48,
+        49
+      ],
+      "recognized_words": [
+        "interests"
+      ]
+    }
+  ],
+  "asr_match_fraction": 0.8775510204081632,
+  "model": "facebook/wav2vec2-base-960h",
+  "revision": "22aad52d435eb6dbaf354bdad9b0da84ce7d6156",
+  "duration_s": 22.424,
+  "independently_reviewed": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": "nixon",
+  "speaker": "Richard Nixon",
+  "title": "Nixon resignation audio.ogg",
+  "url": "https://commons.wikimedia.org/wiki/File:Nixon_resignation_audio.ogg",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Nixon_resignation_audio.ogg",
+  "recording_sha256": "d6a28040586285ee979f8d31c540fd697bfdc7ce84f958cffa56a13c2bea690c",
+  "retrieved_date": "2026-10-05",
+  "license": "PD-USGov",
+  "recording_rights_evidence": "https://commons.wikimedia.org/wiki/File:Nixon_resignation_audio.ogg",
+  "evidence_sha256": "3aee6e296daa9c3ebe89362879871b13d784e5118b8f09122bcc48500cb81320",
+  "transcript_url": "https://en.wikisource.org/wiki/Richard_Nixon%27s_resignation_speech",
+  "transcript_rights": "US federal official speech; public-domain original text",
+  "language": "en",
+  "independent_review_status": "pending",
+  "selection_rationale": "Clear rhetorical clause boundaries, deliberate pacing and public address context; selected as one delivery example, not a unique optimum.",
+  "quality_review": "Machine DSP QA only; historical recording channel and any applause remain potential confounds."
+}

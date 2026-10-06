@@ -1,0 +1,9 @@
+# Separate code, data and model rights
+
+Code: MIT (LICENSE). Pinned facebook/wav2vec2-base-960h model: Apache-2.0, revision 22aad52d435eb6dbaf354bdad9b0da84ce7d6156. Downloaded weight hashes are in releases/model_manifest.json. Model weights remain cached, not silently re-licensed as dataset material.
+
+Source audio provenance is retained per recording in data/provenance/*.json. Kennedy, Eisenhower, Roosevelt and Nixon official speeches are identified as US federal government public-domain works on the source pages. Reagan and Obama files use Executive Office of the President public-domain attribution. The Pearl Harbor digitization also specifies CC BY-SA 2.0: retain attribution to W. Guy Finley and MSU Vincent Voice Library and release derivatives under that license. Source-page snapshots themselves retain Wikimedia CC BY-SA terms; structured source data is CC0. Recording and transcript rights are recorded separately.
+
+These are source-attested reuse statuses, not a claim that public availability alone supplies rights or that all jurisdictions treat US government works identically. Preserve each attribution and source URL when publishing a release. No unconsented human recording, user upload, credential or private account content enters the research dataset.
+
+Third-party implementation licenses are provided by their packages. Key references: [WhisperX supplied-text alignment](https://github.com/m-bain/whisperX/blob/main/whisperx/alignment.py), [pYIN](https://librosa.org/doc/0.11.0/generated/librosa.pyin.html), [MFCC](https://librosa.org/doc/0.11.0/generated/librosa.feature.mfcc.html), [PyWORLD](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder), [FastAPI worker guidance](https://fastapi.tiangolo.com/tutorial/background-tasks/), [Wav2Vec2 model card](https://huggingface.co/facebook/wav2vec2-base-960h).

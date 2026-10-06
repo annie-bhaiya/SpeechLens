@@ -1,0 +1,14 @@
+version: conservative-engineering-v1
+calibration: uncalibrated-engineering-tolerances
+pace_log_warn: 0.165
+pace_log_severe: 0.47
+pitch_ratio_warn: 0.65
+pitch_ratio_severe: 0.2
+reference_pitch_range_min_st: 2.0
+energy_ratio_warn: 0.65
+energy_ratio_severe: 0.2
+reference_energy_range_min_db: 4.0
+pause_delta_warn_s: 0.4
+pause_delta_severe_s: 1.5
+minimum_voiced_frames: 30
+minimum_phrase_words: 4

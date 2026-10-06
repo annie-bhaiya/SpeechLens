@@ -1,0 +1,346 @@
+{
+  "display_text": "Good evening. Tonight, I can report to the American people and to the world that the United States has conducted an operation that killed Osama bin Laden, the leader of al Qaeda, and a terrorist who's responsible for the murder of thousands of innocent men, women, and children.",
+  "tokens": [
+    {
+      "id": 0,
+      "text": "Good",
+      "normalized": "good",
+      "char_start": 0,
+      "char_end": 4
+    },
+    {
+      "id": 1,
+      "text": "evening",
+      "normalized": "evening",
+      "char_start": 5,
+      "char_end": 12
+    },
+    {
+      "id": 2,
+      "text": "Tonight",
+      "normalized": "tonight",
+      "char_start": 14,
+      "char_end": 21
+    },
+    {
+      "id": 3,
+      "text": "I",
+      "normalized": "i",
+      "char_start": 23,
+      "char_end": 24
+    },
+    {
+      "id": 4,
+      "text": "can",
+      "normalized": "can",
+      "char_start": 25,
+      "char_end": 28
+    },
+    {
+      "id": 5,
+      "text": "report",
+      "normalized": "report",
+      "char_start": 29,
+      "char_end": 35
+    },
+    {
+      "id": 6,
+      "text": "to",
+      "normalized": "to",
+      "char_start": 36,
+      "char_end": 38
+    },
+    {
+      "id": 7,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 39,
+      "char_end": 42
+    },
+    {
+      "id": 8,
+      "text": "American",
+      "normalized": "american",
+      "char_start": 43,
+      "char_end": 51
+    },
+    {
+      "id": 9,
+      "text": "people",
+      "normalized": "people",
+      "char_start": 52,
+      "char_end": 58
+    },
+    {
+      "id": 10,
+      "text": "and",
+      "normalized": "and",
+      "char_start": 59,
+      "char_end": 62
+    },
+    {
+      "id": 11,
+      "text": "to",
+      "normalized": "to",
+      "char_start": 63,
+      "char_end": 65
+    },
+    {
+      "id": 12,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 66,
+      "char_end": 69
+    },
+    {
+      "id": 13,
+      "text": "world",
+      "normalized": "world",
+      "char_start": 70,
+      "char_end": 75
+    },
+    {
+      "id": 14,
+      "text": "that",
+      "normalized": "that",
+      "char_start": 76,
+      "char_end": 80
+    },
+    {
+      "id": 15,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 81,
+      "char_end": 84
+    },
+    {
+      "id": 16,
+      "text": "United",
+      "normalized": "united",
+      "char_start": 85,
+      "char_end": 91
+    },
+    {
+      "id": 17,
+      "text": "States",
+      "normalized": "states",
+      "char_start": 92,
+      "char_end": 98
+    },
+    {
+      "id": 18,
+      "text": "has",
+      "normalized": "has",
+      "char_start": 99,
+      "char_end": 102
+    },
+    {
+      "id": 19,
+      "text": "conducted",
+      "normalized": "conducted",
+      "char_start": 103,
+      "char_end": 112
+    },
+    {
+      "id": 20,
+      "text": "an",
+      "normalized": "an",
+      "char_start": 113,
+      "char_end": 115
+    },
+    {
+      "id": 21,
+      "text": "operation",
+      "normalized": "operation",
+      "char_start": 116,
+      "char_end": 125
+    },
+    {
+      "id": 22,
+      "text": "that",
+      "normalized": "that",
+      "char_start": 126,
+      "char_end": 130
+    },
+    {
+      "id": 23,
+      "text": "killed",
+      "normalized": "killed",
+      "char_start": 131,
+      "char_end": 137
+    },
+    {
+      "id": 24,
+      "text": "Osama",
+      "normalized": "osama",
+      "char_start": 138,
+      "char_end": 143
+    },
+    {
+      "id": 25,
+      "text": "bin",
+      "normalized": "bin",
+      "char_start": 144,
+      "char_end": 147
+    },
+    {
+      "id": 26,
+      "text": "Laden",
+      "normalized": "laden",
+      "char_start": 148,
+      "char_end": 153
+    },
+    {
+      "id": 27,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 155,
+      "char_end": 158
+    },
+    {
+      "id": 28,
+      "text": "leader",
+      "normalized": "leader",
+      "char_start": 159,
+      "char_end": 165
+    },
+    {
+      "id": 29,
+      "text": "of",
+      "normalized": "of",
+      "char_start": 166,
+      "char_end": 168
+    },
+    {
+      "id": 30,
+      "text": "al",
+      "normalized": "al",
+      "char_start": 169,
+      "char_end": 171
+    },
+    {
+      "id": 31,
+      "text": "Qaeda",
+      "normalized": "qaeda",
+      "char_start": 172,
+      "char_end": 177
+    },
+    {
+      "id": 32,
+      "text": "and",
+      "normalized": "and",
+      "char_start": 179,
+      "char_end": 182
+    },
+    {
+      "id": 33,
+      "text": "a",
+      "normalized": "a",
+      "char_start": 183,
+      "char_end": 184
+    },
+    {
+      "id": 34,
+      "text": "terrorist",
+      "normalized": "terrorist",
+      "char_start": 185,
+      "char_end": 194
+    },
+    {
+      "id": 35,
+      "text": "who's",
+      "normalized": "who's",
+      "char_start": 195,
+      "char_end": 200
+    },
+    {
+      "id": 36,
+      "text": "responsible",
+      "normalized": "responsible",
+      "char_start": 201,
+      "char_end": 212
+    },
+    {
+      "id": 37,
+      "text": "for",
+      "normalized": "for",
+      "char_start": 213,
+      "char_end": 216
+    },
+    {
+      "id": 38,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 217,
+      "char_end": 220
+    },
+    {
+      "id": 39,
+      "text": "murder",
+      "normalized": "murder",
+      "char_start": 221,
+      "char_end": 227
+    },
+    {
+      "id": 40,
+      "text": "of",
+      "normalized": "of",
+      "char_start": 228,
+      "char_end": 230
+    },
+    {
+      "id": 41,
+      "text": "thousands",
+      "normalized": "thousands",
+      "char_start": 231,
+      "char_end": 240
+    },
+    {
+      "id": 42,
+      "text": "of",
+      "normalized": "of",
+      "char_start": 241,
+      "char_end": 243
+    },
+    {
+      "id": 43,
+      "text": "innocent",
+      "normalized": "innocent",
+      "char_start": 244,
+      "char_end": 252
+    },
+    {
+      "id": 44,
+      "text": "men",
+      "normalized": "men",
+      "char_start": 253,
+      "char_end": 256
+    },
+    {
+      "id": 45,
+      "text": "women",
+      "normalized": "women",
+      "char_start": 258,
+      "char_end": 263
+    },
+    {
+      "id": 46,
+      "text": "and",
+      "normalized": "and",
+      "char_start": 265,
+      "char_end": 268
+    },
+    {
+      "id": 47,
+      "text": "children",
+      "normalized": "children",
+      "char_start": 269,
+      "char_end": 277
+    }
+  ],
+  "canonical_text": "good evening tonight i can report to the american people and to the world that the united states has conducted an operation that killed osama bin laden the leader of al qaeda and a terrorist who's responsible for the murder of thousands of innocent men women and children",
+  "sha256": "f596de9b4047472c0a883fcda17221e40af47503ff1ea5aefdbe9e715f345582",
+  "language": "en",
+  "provenance": "https://obamawhitehouse.archives.gov/the-press-office/2011/05/02/remarks-president-osama-bin-laden",
+  "review_status": "source_text_machine_alignment_human_correction_pending"
+}

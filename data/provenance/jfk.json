@@ -1,0 +1,18 @@
+{
+  "id": "jfk",
+  "speaker": "John F. Kennedy",
+  "title": "JFK inaugural address.ogg",
+  "url": "https://commons.wikimedia.org/wiki/File:JFK_inaugural_address.ogg",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/JFK_inaugural_address.ogg",
+  "recording_sha256": "a257580da6eda796ed1c703e545865005753f7cb20cc042e0db3c44de82274fc",
+  "retrieved_date": "2026-10-05",
+  "license": "PD-USGov",
+  "recording_rights_evidence": "https://commons.wikimedia.org/wiki/File:JFK_inaugural_address.ogg",
+  "evidence_sha256": "9a1a2c575db679e97fb80107b6dc9f77feabe513ea747eb7d31126acbee9398b",
+  "transcript_url": "https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/inaugural-address-19610120",
+  "transcript_rights": "US federal official speech; public-domain original text",
+  "language": "en",
+  "independent_review_status": "pending",
+  "selection_rationale": "Clear rhetorical clause boundaries, deliberate pacing and public address context; selected as one delivery example, not a unique optimum.",
+  "quality_review": "Machine DSP QA only; historical recording channel and any applause remain potential confounds."
+}

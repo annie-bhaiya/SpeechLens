@@ -1,0 +1,154 @@
+{
+  "reference_id": "eisenhower01_good",
+  "conditions": [
+    {
+      "condition": "gain_minus6",
+      "baseline_score": 100.0,
+      "score": 100.0,
+      "absolute_score_shift": 0.0,
+      "events": 0,
+      "coverage": 1.0,
+      "quality": {
+        "clipped_fraction": 0.0,
+        "peak_dbfs": -13.682401657104492,
+        "speech_fraction": 0.7683786505538771,
+        "voiced_fraction": 0.5731584258324924,
+        "median_speech_dbfs": -35.28219984581992,
+        "noise_floor_dbfs_proxy": -56.68971796999972,
+        "mean_spectral_centroid_hz": 727.1200635877832,
+        "pitch_near_search_edge_fraction": 0.0
+      },
+      "gain_gate_passed": true,
+      "note": "Actual measured output. Pitch-shift resynthesis is not artifact-free."
+    },
+    {
+      "condition": "gain_plus6",
+      "baseline_score": 100.0,
+      "score": 100.0,
+      "absolute_score_shift": 0.0,
+      "events": 0,
+      "coverage": 1.0,
+      "quality": {
+        "clipped_fraction": 0.0,
+        "peak_dbfs": -1.6824007034301758,
+        "speech_fraction": 0.7739174219536757,
+        "voiced_fraction": 0.5731584258324924,
+        "median_speech_dbfs": -23.336756952254085,
+        "noise_floor_dbfs_proxy": -44.71742168619926,
+        "mean_spectral_centroid_hz": 727.1200637637039,
+        "pitch_near_search_edge_fraction": 0.0
+      },
+      "gain_gate_passed": true,
+      "note": "Actual measured output. Pitch-shift resynthesis is not artifact-free."
+    },
+    {
+      "condition": "resample_22050",
+      "baseline_score": 100.0,
+      "score": 100.0,
+      "absolute_score_shift": 0.0,
+      "events": 0,
+      "coverage": 1.0,
+      "quality": {
+        "clipped_fraction": 0.0,
+        "peak_dbfs": -7.6778693199157715,
+        "speech_fraction": 0.7729103726082578,
+        "voiced_fraction": 0.5731584258324924,
+        "median_speech_dbfs": -29.329924545512505,
+        "noise_floor_dbfs_proxy": -50.70347787305607,
+        "mean_spectral_centroid_hz": 727.067933756562,
+        "pitch_near_search_edge_fraction": 0.0
+      },
+      "gain_gate_passed": null,
+      "note": "Actual measured output. Pitch-shift resynthesis is not artifact-free."
+    },
+    {
+      "condition": "pitch_plus2st",
+      "baseline_score": 100.0,
+      "score": null,
+      "absolute_score_shift": null,
+      "events": 0,
+      "coverage": 0.0,
+      "quality": {
+        "clipped_fraction": 0.0,
+        "peak_dbfs": -11.15342903137207,
+        "speech_fraction": 0.7719033232628398,
+        "voiced_fraction": 0.5635721493440968,
+        "median_speech_dbfs": -31.56187958833098,
+        "noise_floor_dbfs_proxy": -54.055201560092485,
+        "mean_spectral_centroid_hz": 856.241886726133,
+        "pitch_near_search_edge_fraction": 0.008057296329453895
+      },
+      "gain_gate_passed": null,
+      "note": "Actual measured output. Pitch-shift resynthesis is not artifact-free."
+    },
+    {
+      "condition": "noise_10db",
+      "baseline_score": 100.0,
+      "score": null,
+      "absolute_score_shift": null,
+      "events": 5,
+      "coverage": 0.4273481806011926,
+      "quality": {
+        "clipped_fraction": 0.0,
+        "peak_dbfs": -8.145299911499023,
+        "speech_fraction": 0.5845921450151057,
+        "voiced_fraction": 0.4581231079717457,
+        "median_speech_dbfs": -26.312005616355624,
+        "noise_floor_dbfs_proxy": -36.36993107185048,
+        "mean_spectral_centroid_hz": 2223.270222233396,
+        "pitch_near_search_edge_fraction": 0.016519823788546256
+      },
+      "gain_gate_passed": null,
+      "note": "Actual measured output. Pitch-shift resynthesis is not artifact-free."
+    },
+    {
+      "condition": "clipped",
+      "baseline_score": 100.0,
+      "score": null,
+      "absolute_score_shift": null,
+      "events": 16,
+      "coverage": 1.0,
+      "quality": {
+        "clipped_fraction": 0.08466423541247485,
+        "peak_dbfs": 0.0,
+        "speech_fraction": 1.0,
+        "voiced_fraction": 0.5590312815338042,
+        "median_speech_dbfs": -12.938957910967375,
+        "noise_floor_dbfs_proxy": null,
+        "mean_spectral_centroid_hz": 732.9588006086753,
+        "pitch_near_search_edge_fraction": 0.0
+      },
+      "gain_gate_passed": null,
+      "note": "Actual measured output. Pitch-shift resynthesis is not artifact-free."
+    },
+    {
+      "condition": "aac_128kbps",
+      "baseline_score": 100.0,
+      "score": 100.0,
+      "absolute_score_shift": 0.0,
+      "events": 0,
+      "coverage": 1.0,
+      "quality": {
+        "clipped_fraction": 0.0,
+        "peak_dbfs": -7.694802761077881,
+        "speech_fraction": 0.7711267605633803,
+        "voiced_fraction": 0.5697732997481109,
+        "median_speech_dbfs": -29.325110787755516,
+        "noise_floor_dbfs_proxy": -50.7944061051935,
+        "mean_spectral_centroid_hz": 724.8717668068628,
+        "pitch_near_search_edge_fraction": 0.0
+      },
+      "gain_gate_passed": null,
+      "note": "Actual AAC encoding and decoding, not simulated compression."
+    }
+  ],
+  "configuration_hash": "2722e90ba62726a1bd25cafc3ff1a615b3373316ebd0e84738c40c0b2a13a02d",
+  "repeat_run": {
+    "cache_used": false,
+    "same_events_scores_and_measurements": true,
+    "tolerance": "exact JSON values in this CPU environment"
+  },
+  "human_generalization": null,
+  "clean_container_run": null,
+  "clean_container_reason": "Docker daemon unavailable"
+}

@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "job_id": "e5e925a916f649ed9813d0c081d08aa5",
+  "fresh_upload": true,
+  "playback_native_time_s": 0.500452,
+  "schema_valid_export": true,
+  "preset_change": true,
+  "mobile_no_horizontal_overflow": true,
+  "console_errors": [],
+  "wall_s": 55.09128000002238,
+  "capture": "actual Playwright browser recording"
+}

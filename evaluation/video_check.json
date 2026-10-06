@@ -1,0 +1,66 @@
+{
+  "duration_s": 448.93,
+  "job_id": "033607d3b9734fcca588808baad4a152",
+  "fresh_inference": true,
+  "capture_paths": [
+    "demo\\recordings\\walkthrough\\9f0fc697a71d015b207208ee3045a307.webm"
+  ],
+  "control_job_id": "09d4c2ab803d4c5b8688412128997afa",
+  "control_source_hash_matches": true,
+  "control_score": 100.0,
+  "edit_policy": "Continuous actual capture, no removed inference wait.",
+  "audio_policy": "Browser capture is silent. Actual public reference/participant WAV spans played during capture are muxed at recorded offsets. Video audio only is listening-normalized to -18 LUFS/-1.5 dBTP; analysis WAV gain and quality evidence are preserved.",
+  "audio_spans": [
+    {
+      "offset_s": 55.379778200003784,
+      "path": "audio/eisenhower01_good.wav",
+      "start_s": 0,
+      "duration_s": 9,
+      "label": "reference playback"
+    },
+    {
+      "offset_s": 80.17492510000011,
+      "path": "audio/eisenhower01_pace_level1.wav",
+      "start_s": 0,
+      "duration_s": 9,
+      "label": "subtle variant playback"
+    },
+    {
+      "offset_s": 101.09184799998184,
+      "path": "audio/eisenhower01_pace_level4.wav",
+      "start_s": 0,
+      "duration_s": 9,
+      "label": "strong variant playback"
+    },
+    {
+      "offset_s": 248.90907239998342,
+      "path": "audio/eisenhower01_pace_level4.wav",
+      "start_s": 0.16249999999999998,
+      "duration_s": 4.6000000000000005,
+      "label": "detected participant span"
+    },
+    {
+      "offset_s": 258.02951870000106,
+      "path": "audio/eisenhower01_good.wav",
+      "start_s": 0.16249999999999998,
+      "duration_s": 2.86,
+      "label": "matched reference span"
+    }
+  ],
+  "captions": 13,
+  "visual_review": "passed",
+  "youtube_url": null,
+  "full_stream_decode_passed": true,
+  "audio_non_silent_rms": 0.06037840518384035,
+  "reviewed_segments_s": [
+    65,
+    110,
+    150,
+    235,
+    270,
+    370,
+    395,
+    425
+  ],
+  "review_note": "Actual upload wait, dimensionless pacing rule, native A/B spans, visible completed gain-control score 100, measured benchmark and blocked handoff inspected. Full stream and sample CTC audio decoding passed; human listening is unmeasured."
+}

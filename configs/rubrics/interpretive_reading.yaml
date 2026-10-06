@@ -1,0 +1,3 @@
+name: Interpretive Reading
+version: v1
+weights: {pacing: 0.20, pauses: 0.20, intonation: 0.30, energy: 0.20, clarity: 0.10}

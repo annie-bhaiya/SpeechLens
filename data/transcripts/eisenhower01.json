@@ -1,0 +1,367 @@
+{
+  "display_text": "Good evening, my fellow Americans. First, I should like to express my gratitude to the radio and television networks for the opportunities they have given me over the years to bring reports and messages to our nation. My special thanks go to them for the opportunity of addressing you this evening.",
+  "tokens": [
+    {
+      "id": 0,
+      "text": "Good",
+      "normalized": "good",
+      "char_start": 0,
+      "char_end": 4
+    },
+    {
+      "id": 1,
+      "text": "evening",
+      "normalized": "evening",
+      "char_start": 5,
+      "char_end": 12
+    },
+    {
+      "id": 2,
+      "text": "my",
+      "normalized": "my",
+      "char_start": 14,
+      "char_end": 16
+    },
+    {
+      "id": 3,
+      "text": "fellow",
+      "normalized": "fellow",
+      "char_start": 17,
+      "char_end": 23
+    },
+    {
+      "id": 4,
+      "text": "Americans",
+      "normalized": "americans",
+      "char_start": 24,
+      "char_end": 33
+    },
+    {
+      "id": 5,
+      "text": "First",
+      "normalized": "first",
+      "char_start": 35,
+      "char_end": 40
+    },
+    {
+      "id": 6,
+      "text": "I",
+      "normalized": "i",
+      "char_start": 42,
+      "char_end": 43
+    },
+    {
+      "id": 7,
+      "text": "should",
+      "normalized": "should",
+      "char_start": 44,
+      "char_end": 50
+    },
+    {
+      "id": 8,
+      "text": "like",
+      "normalized": "like",
+      "char_start": 51,
+      "char_end": 55
+    },
+    {
+      "id": 9,
+      "text": "to",
+      "normalized": "to",
+      "char_start": 56,
+      "char_end": 58
+    },
+    {
+      "id": 10,
+      "text": "express",
+      "normalized": "express",
+      "char_start": 59,
+      "char_end": 66
+    },
+    {
+      "id": 11,
+      "text": "my",
+      "normalized": "my",
+      "char_start": 67,
+      "char_end": 69
+    },
+    {
+      "id": 12,
+      "text": "gratitude",
+      "normalized": "gratitude",
+      "char_start": 70,
+      "char_end": 79
+    },
+    {
+      "id": 13,
+      "text": "to",
+      "normalized": "to",
+      "char_start": 80,
+      "char_end": 82
+    },
+    {
+      "id": 14,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 83,
+      "char_end": 86
+    },
+    {
+      "id": 15,
+      "text": "radio",
+      "normalized": "radio",
+      "char_start": 87,
+      "char_end": 92
+    },
+    {
+      "id": 16,
+      "text": "and",
+      "normalized": "and",
+      "char_start": 93,
+      "char_end": 96
+    },
+    {
+      "id": 17,
+      "text": "television",
+      "normalized": "television",
+      "char_start": 97,
+      "char_end": 107
+    },
+    {
+      "id": 18,
+      "text": "networks",
+      "normalized": "networks",
+      "char_start": 108,
+      "char_end": 116
+    },
+    {
+      "id": 19,
+      "text": "for",
+      "normalized": "for",
+      "char_start": 117,
+      "char_end": 120
+    },
+    {
+      "id": 20,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 121,
+      "char_end": 124
+    },
+    {
+      "id": 21,
+      "text": "opportunities",
+      "normalized": "opportunities",
+      "char_start": 125,
+      "char_end": 138
+    },
+    {
+      "id": 22,
+      "text": "they",
+      "normalized": "they",
+      "char_start": 139,
+      "char_end": 143
+    },
+    {
+      "id": 23,
+      "text": "have",
+      "normalized": "have",
+      "char_start": 144,
+      "char_end": 148
+    },
+    {
+      "id": 24,
+      "text": "given",
+      "normalized": "given",
+      "char_start": 149,
+      "char_end": 154
+    },
+    {
+      "id": 25,
+      "text": "me",
+      "normalized": "me",
+      "char_start": 155,
+      "char_end": 157
+    },
+    {
+      "id": 26,
+      "text": "over",
+      "normalized": "over",
+      "char_start": 158,
+      "char_end": 162
+    },
+    {
+      "id": 27,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 163,
+      "char_end": 166
+    },
+    {
+      "id": 28,
+      "text": "years",
+      "normalized": "years",
+      "char_start": 167,
+      "char_end": 172
+    },
+    {
+      "id": 29,
+      "text": "to",
+      "normalized": "to",
+      "char_start": 173,
+      "char_end": 175
+    },
+    {
+      "id": 30,
+      "text": "bring",
+      "normalized": "bring",
+      "char_start": 176,
+      "char_end": 181
+    },
+    {
+      "id": 31,
+      "text": "reports",
+      "normalized": "reports",
+      "char_start": 182,
+      "char_end": 189
+    },
+    {
+      "id": 32,
+      "text": "and",
+      "normalized": "and",
+      "char_start": 190,
+      "char_end": 193
+    },
+    {
+      "id": 33,
+      "text": "messages",
+      "normalized": "messages",
+      "char_start": 194,
+      "char_end": 202
+    },
+    {
+      "id": 34,
+      "text": "to",
+      "normalized": "to",
+      "char_start": 203,
+      "char_end": 205
+    },
+    {
+      "id": 35,
+      "text": "our",
+      "normalized": "our",
+      "char_start": 206,
+      "char_end": 209
+    },
+    {
+      "id": 36,
+      "text": "nation",
+      "normalized": "nation",
+      "char_start": 210,
+      "char_end": 216
+    },
+    {
+      "id": 37,
+      "text": "My",
+      "normalized": "my",
+      "char_start": 218,
+      "char_end": 220
+    },
+    {
+      "id": 38,
+      "text": "special",
+      "normalized": "special",
+      "char_start": 221,
+      "char_end": 228
+    },
+    {
+      "id": 39,
+      "text": "thanks",
+      "normalized": "thanks",
+      "char_start": 229,
+      "char_end": 235
+    },
+    {
+      "id": 40,
+      "text": "go",
+      "normalized": "go",
+      "char_start": 236,
+      "char_end": 238
+    },
+    {
+      "id": 41,
+      "text": "to",
+      "normalized": "to",
+      "char_start": 239,
+      "char_end": 241
+    },
+    {
+      "id": 42,
+      "text": "them",
+      "normalized": "them",
+      "char_start": 242,
+      "char_end": 246
+    },
+    {
+      "id": 43,
+      "text": "for",
+      "normalized": "for",
+      "char_start": 247,
+      "char_end": 250
+    },
+    {
+      "id": 44,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 251,
+      "char_end": 254
+    },
+    {
+      "id": 45,
+      "text": "opportunity",
+      "normalized": "opportunity",
+      "char_start": 255,
+      "char_end": 266
+    },
+    {
+      "id": 46,
+      "text": "of",
+      "normalized": "of",
+      "char_start": 267,
+      "char_end": 269
+    },
+    {
+      "id": 47,
+      "text": "addressing",
+      "normalized": "addressing",
+      "char_start": 270,
+      "char_end": 280
+    },
+    {
+      "id": 48,
+      "text": "you",
+      "normalized": "you",
+      "char_start": 281,
+      "char_end": 284
+    },
+    {
+      "id": 49,
+      "text": "this",
+      "normalized": "this",
+      "char_start": 285,
+      "char_end": 289
+    },
+    {
+      "id": 50,
+      "text": "evening",
+      "normalized": "evening",
+      "char_start": 290,
+      "char_end": 297
+    }
+  ],
+  "canonical_text": "good evening my fellow americans first i should like to express my gratitude to the radio and television networks for the opportunities they have given me over the years to bring reports and messages to our nation my special thanks go to them for the opportunity of addressing you this evening",
+  "sha256": "1ce0c87ed5c07ca4a5e4a512cb8dc3d6b9f2799e6aba0c6ea1e82a972f2a3d18",
+  "language": "en",
+  "provenance": "https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/farewell-address/1961-01-17-farewell-address.pdf",
+  "review_status": "source_text_machine_alignment_human_correction_pending"
+}

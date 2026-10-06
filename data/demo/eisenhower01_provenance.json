@@ -1,0 +1,18 @@
+{
+  "id": "eisenhower",
+  "speaker": "Dwight D. Eisenhower",
+  "title": "Eisenhower farewell address.ogg",
+  "url": "https://commons.wikimedia.org/wiki/File:Eisenhower_farewell_address.ogg",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Eisenhower_farewell_address.ogg",
+  "recording_sha256": "220b342a83842c31a416597f237bcbea0bd73cd5d4699c3514d70c41b2e5b12a",
+  "retrieved_date": "2026-10-05",
+  "license": "PD-USGov",
+  "recording_rights_evidence": "https://commons.wikimedia.org/wiki/File:Eisenhower_farewell_address.ogg",
+  "evidence_sha256": "aead542bff2ed84304fa0c8e8c10d13d75fd02c12bdc576d4ad7a707e57baf33",
+  "transcript_url": "https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/farewell-address/1961-01-17-farewell-address.pdf",
+  "transcript_rights": "US federal official speech; public-domain original text",
+  "language": "en",
+  "independent_review_status": "pending",
+  "selection_rationale": "Clear rhetorical clause boundaries, deliberate pacing and public address context; selected as one delivery example, not a unique optimum.",
+  "quality_review": "Machine DSP QA only; historical recording channel and any applause remain potential confounds."
+}

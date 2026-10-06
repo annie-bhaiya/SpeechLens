@@ -1,0 +1,3462 @@
+[
+  {
+    "recording_id": "jfk01_good",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "accepted",
+    "level": 0,
+    "coverage": 0.96,
+    "asr_match_fraction": 0.92,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_good",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "accepted",
+    "level": 0,
+    "coverage": 0.9552238805970149,
+    "asr_match_fraction": 0.9104477611940298,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_good",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "accepted",
+    "level": 0,
+    "coverage": 0.9361702127659575,
+    "asr_match_fraction": 0.8404255319148937,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_good",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "accepted",
+    "level": 0,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9607843137254902,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_good",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "accepted",
+    "level": 0,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9682539682539683,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_good",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "accepted",
+    "level": 0,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9591836734693877,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_good",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "accepted",
+    "level": 0,
+    "coverage": 0.9821428571428571,
+    "asr_match_fraction": 0.9642857142857143,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_good",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "accepted",
+    "level": 0,
+    "coverage": 0.75,
+    "asr_match_fraction": 0.5657894736842105,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_good",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "accepted",
+    "level": 0,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9836065573770492,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_good",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "accepted",
+    "level": 0,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9487179487179487,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_good",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "accepted",
+    "level": 0,
+    "coverage": 0.9791666666666666,
+    "asr_match_fraction": 0.875,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_good",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "accepted",
+    "level": 0,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9487179487179487,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_good",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "accepted",
+    "level": 0,
+    "coverage": 0.9104477611940298,
+    "asr_match_fraction": 0.835820895522388,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_pace_level1",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pace",
+    "level": 1,
+    "coverage": 0.82,
+    "asr_match_fraction": 0.76,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_pace_level2",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pace",
+    "level": 2,
+    "coverage": 0.8,
+    "asr_match_fraction": 0.72,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_pace_level3",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pace",
+    "level": 3,
+    "coverage": 0.84,
+    "asr_match_fraction": 0.76,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_pace_level4",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pace",
+    "level": 4,
+    "coverage": 0.76,
+    "asr_match_fraction": 0.64,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_intonation_level1",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "intonation",
+    "level": 1,
+    "coverage": 0.96,
+    "asr_match_fraction": 0.9,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_intonation_level2",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "intonation",
+    "level": 2,
+    "coverage": 0.96,
+    "asr_match_fraction": 0.9,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_intonation_level3",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "intonation",
+    "level": 3,
+    "coverage": 0.96,
+    "asr_match_fraction": 0.92,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_intonation_level4",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "intonation",
+    "level": 4,
+    "coverage": 0.96,
+    "asr_match_fraction": 0.9,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_pauses_level1",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pauses",
+    "level": 1,
+    "coverage": 0.96,
+    "asr_match_fraction": 0.88,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_pauses_level2",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pauses",
+    "level": 2,
+    "coverage": 0.94,
+    "asr_match_fraction": 0.9,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_pauses_level3",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pauses",
+    "level": 3,
+    "coverage": 0.94,
+    "asr_match_fraction": 0.86,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_pauses_level4",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pauses",
+    "level": 4,
+    "coverage": 0.94,
+    "asr_match_fraction": 0.9,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_energy_level1",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "energy",
+    "level": 1,
+    "coverage": 0.96,
+    "asr_match_fraction": 0.9,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_energy_level2",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "energy",
+    "level": 2,
+    "coverage": 0.96,
+    "asr_match_fraction": 0.9,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_energy_level3",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "energy",
+    "level": 3,
+    "coverage": 0.94,
+    "asr_match_fraction": 0.86,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_energy_level4",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "energy",
+    "level": 4,
+    "coverage": 0.94,
+    "asr_match_fraction": 0.84,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_clarity_proxy_level1",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 1,
+    "coverage": 0.96,
+    "asr_match_fraction": 0.9,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_clarity_proxy_level2",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 2,
+    "coverage": 0.94,
+    "asr_match_fraction": 0.86,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_clarity_proxy_level3",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 3,
+    "coverage": 0.86,
+    "asr_match_fraction": 0.78,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_clarity_proxy_level4",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 4,
+    "coverage": 0.68,
+    "asr_match_fraction": 0.6,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_accepted_gain_level0",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "accepted_gain",
+    "level": 0,
+    "coverage": 0.96,
+    "asr_match_fraction": 0.92,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_sham_stretch_level0",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "sham_stretch",
+    "level": 0,
+    "coverage": 0.96,
+    "asr_match_fraction": 0.92,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_sham_world_level0",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "sham_world",
+    "level": 0,
+    "coverage": 0.96,
+    "asr_match_fraction": 0.9,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_compound2_level2",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "compound2",
+    "level": 2,
+    "coverage": 0.86,
+    "asr_match_fraction": 0.72,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk01_compound4_level4",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "compound4",
+    "level": 4,
+    "coverage": 0.8,
+    "asr_match_fraction": 0.68,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_pace_level1",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pace",
+    "level": 1,
+    "coverage": 0.8507462686567164,
+    "asr_match_fraction": 0.7611940298507462,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_pace_level2",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pace",
+    "level": 2,
+    "coverage": 0.9104477611940298,
+    "asr_match_fraction": 0.8059701492537313,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_pace_level3",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pace",
+    "level": 3,
+    "coverage": 0.8656716417910447,
+    "asr_match_fraction": 0.7910447761194029,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_pace_level4",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pace",
+    "level": 4,
+    "coverage": 0.8059701492537313,
+    "asr_match_fraction": 0.7313432835820896,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_intonation_level1",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "intonation",
+    "level": 1,
+    "coverage": 0.9552238805970149,
+    "asr_match_fraction": 0.8955223880597015,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_intonation_level2",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "intonation",
+    "level": 2,
+    "coverage": 0.9552238805970149,
+    "asr_match_fraction": 0.9104477611940298,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_intonation_level3",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "intonation",
+    "level": 3,
+    "coverage": 0.9552238805970149,
+    "asr_match_fraction": 0.9104477611940298,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_intonation_level4",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "intonation",
+    "level": 4,
+    "coverage": 0.9552238805970149,
+    "asr_match_fraction": 0.9104477611940298,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_pauses_level1",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pauses",
+    "level": 1,
+    "coverage": 0.9552238805970149,
+    "asr_match_fraction": 0.9104477611940298,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_pauses_level2",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pauses",
+    "level": 2,
+    "coverage": 0.9552238805970149,
+    "asr_match_fraction": 0.9104477611940298,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_pauses_level3",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pauses",
+    "level": 3,
+    "coverage": 0.9552238805970149,
+    "asr_match_fraction": 0.9104477611940298,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_pauses_level4",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pauses",
+    "level": 4,
+    "coverage": 0.9552238805970149,
+    "asr_match_fraction": 0.9104477611940298,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_energy_level1",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "energy",
+    "level": 1,
+    "coverage": 0.9402985074626866,
+    "asr_match_fraction": 0.8955223880597015,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_energy_level2",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "energy",
+    "level": 2,
+    "coverage": 0.9402985074626866,
+    "asr_match_fraction": 0.8805970149253731,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_energy_level3",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "energy",
+    "level": 3,
+    "coverage": 0.9402985074626866,
+    "asr_match_fraction": 0.8805970149253731,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_energy_level4",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "energy",
+    "level": 4,
+    "coverage": 0.9104477611940298,
+    "asr_match_fraction": 0.8507462686567164,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_clarity_proxy_level1",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 1,
+    "coverage": 0.9552238805970149,
+    "asr_match_fraction": 0.9104477611940298,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_clarity_proxy_level2",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 2,
+    "coverage": 0.9552238805970149,
+    "asr_match_fraction": 0.8955223880597015,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_clarity_proxy_level3",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 3,
+    "coverage": 0.9552238805970149,
+    "asr_match_fraction": 0.8955223880597015,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_clarity_proxy_level4",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 4,
+    "coverage": 0.8208955223880597,
+    "asr_match_fraction": 0.746268656716418,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_accepted_gain_level0",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "accepted_gain",
+    "level": 0,
+    "coverage": 0.9552238805970149,
+    "asr_match_fraction": 0.9104477611940298,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_sham_stretch_level0",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "sham_stretch",
+    "level": 0,
+    "coverage": 0.9552238805970149,
+    "asr_match_fraction": 0.9104477611940298,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_sham_world_level0",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "sham_world",
+    "level": 0,
+    "coverage": 0.9552238805970149,
+    "asr_match_fraction": 0.9104477611940298,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_compound2_level2",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "compound2",
+    "level": 2,
+    "coverage": 0.835820895522388,
+    "asr_match_fraction": 0.7761194029850746,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk02_compound4_level4",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "compound4",
+    "level": 4,
+    "coverage": 0.8656716417910447,
+    "asr_match_fraction": 0.7761194029850746,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_pace_level1",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pace",
+    "level": 1,
+    "coverage": 0.8723404255319149,
+    "asr_match_fraction": 0.776595744680851,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_pace_level2",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pace",
+    "level": 2,
+    "coverage": 0.8829787234042553,
+    "asr_match_fraction": 0.7872340425531915,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_pace_level3",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pace",
+    "level": 3,
+    "coverage": 0.851063829787234,
+    "asr_match_fraction": 0.7659574468085106,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_pace_level4",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pace",
+    "level": 4,
+    "coverage": 0.8404255319148937,
+    "asr_match_fraction": 0.7340425531914894,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_intonation_level1",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "intonation",
+    "level": 1,
+    "coverage": 0.9361702127659575,
+    "asr_match_fraction": 0.8404255319148937,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_intonation_level2",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "intonation",
+    "level": 2,
+    "coverage": 0.9361702127659575,
+    "asr_match_fraction": 0.851063829787234,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_intonation_level3",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "intonation",
+    "level": 3,
+    "coverage": 0.9361702127659575,
+    "asr_match_fraction": 0.8404255319148937,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_intonation_level4",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "intonation",
+    "level": 4,
+    "coverage": 0.9361702127659575,
+    "asr_match_fraction": 0.8297872340425532,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_pauses_level1",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pauses",
+    "level": 1,
+    "coverage": 0.925531914893617,
+    "asr_match_fraction": 0.8404255319148937,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_pauses_level2",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pauses",
+    "level": 2,
+    "coverage": 0.925531914893617,
+    "asr_match_fraction": 0.8617021276595744,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_pauses_level3",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pauses",
+    "level": 3,
+    "coverage": 0.9574468085106383,
+    "asr_match_fraction": 0.8723404255319149,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_pauses_level4",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "pauses",
+    "level": 4,
+    "coverage": 0.9680851063829787,
+    "asr_match_fraction": 0.8723404255319149,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_energy_level1",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "energy",
+    "level": 1,
+    "coverage": 0.9361702127659575,
+    "asr_match_fraction": 0.8404255319148937,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_energy_level2",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "energy",
+    "level": 2,
+    "coverage": 0.9361702127659575,
+    "asr_match_fraction": 0.8404255319148937,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_energy_level3",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "energy",
+    "level": 3,
+    "coverage": 0.9148936170212766,
+    "asr_match_fraction": 0.8297872340425532,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_energy_level4",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "energy",
+    "level": 4,
+    "coverage": 0.9148936170212766,
+    "asr_match_fraction": 0.8297872340425532,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_clarity_proxy_level1",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 1,
+    "coverage": 0.9468085106382979,
+    "asr_match_fraction": 0.8404255319148937,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_clarity_proxy_level2",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 2,
+    "coverage": 0.9361702127659575,
+    "asr_match_fraction": 0.851063829787234,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_clarity_proxy_level3",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 3,
+    "coverage": 0.9148936170212766,
+    "asr_match_fraction": 0.8085106382978723,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_clarity_proxy_level4",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 4,
+    "coverage": 0.8297872340425532,
+    "asr_match_fraction": 0.7446808510638298,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_accepted_gain_level0",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "accepted_gain",
+    "level": 0,
+    "coverage": 0.925531914893617,
+    "asr_match_fraction": 0.8297872340425532,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_sham_stretch_level0",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "sham_stretch",
+    "level": 0,
+    "coverage": 0.9361702127659575,
+    "asr_match_fraction": 0.8404255319148937,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_sham_world_level0",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "sham_world",
+    "level": 0,
+    "coverage": 0.9361702127659575,
+    "asr_match_fraction": 0.8404255319148937,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_compound2_level2",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "compound2",
+    "level": 2,
+    "coverage": 0.8829787234042553,
+    "asr_match_fraction": 0.7978723404255319,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "jfk03_compound4_level4",
+    "speaker_id": "jfk",
+    "split": "train",
+    "condition": "compound4",
+    "level": 4,
+    "coverage": 0.8829787234042553,
+    "asr_match_fraction": 0.776595744680851,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_pace_level1",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "pace",
+    "level": 1,
+    "coverage": 0.9607843137254902,
+    "asr_match_fraction": 0.9019607843137255,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_pace_level2",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "pace",
+    "level": 2,
+    "coverage": 0.9607843137254902,
+    "asr_match_fraction": 0.9019607843137255,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_pace_level3",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "pace",
+    "level": 3,
+    "coverage": 0.9607843137254902,
+    "asr_match_fraction": 0.9019607843137255,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_pace_level4",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "pace",
+    "level": 4,
+    "coverage": 0.9803921568627451,
+    "asr_match_fraction": 0.9411764705882353,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_intonation_level1",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "intonation",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9607843137254902,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_intonation_level2",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "intonation",
+    "level": 2,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9607843137254902,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_intonation_level3",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "intonation",
+    "level": 3,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9607843137254902,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_intonation_level4",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "intonation",
+    "level": 4,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9607843137254902,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_pauses_level1",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "pauses",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9607843137254902,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_pauses_level2",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "pauses",
+    "level": 2,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9607843137254902,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_pauses_level3",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "pauses",
+    "level": 3,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9607843137254902,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_pauses_level4",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "pauses",
+    "level": 4,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9607843137254902,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_energy_level1",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "energy",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9607843137254902,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_energy_level2",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "energy",
+    "level": 2,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9607843137254902,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_energy_level3",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "energy",
+    "level": 3,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9607843137254902,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_energy_level4",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "energy",
+    "level": 4,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9607843137254902,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_clarity_proxy_level1",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9607843137254902,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_clarity_proxy_level2",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 2,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9607843137254902,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_clarity_proxy_level3",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 3,
+    "coverage": 0.9411764705882353,
+    "asr_match_fraction": 0.8627450980392157,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_clarity_proxy_level4",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 4,
+    "coverage": 0.8823529411764706,
+    "asr_match_fraction": 0.8431372549019608,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_accepted_gain_level0",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "accepted_gain",
+    "level": 0,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9607843137254902,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_sham_stretch_level0",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "sham_stretch",
+    "level": 0,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9607843137254902,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_sham_world_level0",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "sham_world",
+    "level": 0,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9607843137254902,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_compound2_level2",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "compound2",
+    "level": 2,
+    "coverage": 0.9411764705882353,
+    "asr_match_fraction": 0.9019607843137255,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower01_compound4_level4",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "compound4",
+    "level": 4,
+    "coverage": 0.9803921568627451,
+    "asr_match_fraction": 0.9215686274509803,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_pace_level1",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "pace",
+    "level": 1,
+    "coverage": 0.9841269841269841,
+    "asr_match_fraction": 0.9523809523809523,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_pace_level2",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "pace",
+    "level": 2,
+    "coverage": 0.9841269841269841,
+    "asr_match_fraction": 0.9523809523809523,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_pace_level3",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "pace",
+    "level": 3,
+    "coverage": 0.9841269841269841,
+    "asr_match_fraction": 0.9523809523809523,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_pace_level4",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "pace",
+    "level": 4,
+    "coverage": 0.9682539682539683,
+    "asr_match_fraction": 0.9365079365079365,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_intonation_level1",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "intonation",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9682539682539683,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_intonation_level2",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "intonation",
+    "level": 2,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9682539682539683,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_intonation_level3",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "intonation",
+    "level": 3,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9682539682539683,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_intonation_level4",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "intonation",
+    "level": 4,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9682539682539683,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_pauses_level1",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "pauses",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9682539682539683,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_pauses_level2",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "pauses",
+    "level": 2,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9682539682539683,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_pauses_level3",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "pauses",
+    "level": 3,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9682539682539683,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_pauses_level4",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "pauses",
+    "level": 4,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9682539682539683,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_energy_level1",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "energy",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9682539682539683,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_energy_level2",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "energy",
+    "level": 2,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9682539682539683,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_energy_level3",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "energy",
+    "level": 3,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9682539682539683,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_energy_level4",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "energy",
+    "level": 4,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9682539682539683,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_clarity_proxy_level1",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9682539682539683,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_clarity_proxy_level2",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 2,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9682539682539683,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_clarity_proxy_level3",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 3,
+    "coverage": 0.9365079365079365,
+    "asr_match_fraction": 0.9047619047619048,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_clarity_proxy_level4",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 4,
+    "coverage": 0.9365079365079365,
+    "asr_match_fraction": 0.9047619047619048,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_accepted_gain_level0",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "accepted_gain",
+    "level": 0,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9682539682539683,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_sham_stretch_level0",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "sham_stretch",
+    "level": 0,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9682539682539683,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_sham_world_level0",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "sham_world",
+    "level": 0,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9682539682539683,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_compound2_level2",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "compound2",
+    "level": 2,
+    "coverage": 0.9841269841269841,
+    "asr_match_fraction": 0.9523809523809523,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "eisenhower02_compound4_level4",
+    "speaker_id": "eisenhower",
+    "split": "train",
+    "condition": "compound4",
+    "level": 4,
+    "coverage": 0.9682539682539683,
+    "asr_match_fraction": 0.9365079365079365,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_pace_level1",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "pace",
+    "level": 1,
+    "coverage": 0.9387755102040817,
+    "asr_match_fraction": 0.8775510204081632,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_pace_level2",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "pace",
+    "level": 2,
+    "coverage": 0.9183673469387755,
+    "asr_match_fraction": 0.8979591836734694,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_pace_level3",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "pace",
+    "level": 3,
+    "coverage": 0.9183673469387755,
+    "asr_match_fraction": 0.8571428571428571,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_pace_level4",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "pace",
+    "level": 4,
+    "coverage": 0.8775510204081632,
+    "asr_match_fraction": 0.7755102040816326,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_intonation_level1",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "intonation",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9591836734693877,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_intonation_level2",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "intonation",
+    "level": 2,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9591836734693877,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_intonation_level3",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "intonation",
+    "level": 3,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9591836734693877,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_intonation_level4",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "intonation",
+    "level": 4,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9591836734693877,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_pauses_level1",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "pauses",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9795918367346939,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_pauses_level2",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "pauses",
+    "level": 2,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9795918367346939,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_pauses_level3",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "pauses",
+    "level": 3,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9795918367346939,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_pauses_level4",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "pauses",
+    "level": 4,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9795918367346939,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_energy_level1",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "energy",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9591836734693877,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_energy_level2",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "energy",
+    "level": 2,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9795918367346939,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_energy_level3",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "energy",
+    "level": 3,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9795918367346939,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_energy_level4",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "energy",
+    "level": 4,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9795918367346939,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_clarity_proxy_level1",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9591836734693877,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_clarity_proxy_level2",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 2,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9591836734693877,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_clarity_proxy_level3",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 3,
+    "coverage": 0.8367346938775511,
+    "asr_match_fraction": 0.7959183673469388,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_clarity_proxy_level4",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 4,
+    "coverage": 0.7551020408163265,
+    "asr_match_fraction": 0.7142857142857143,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_accepted_gain_level0",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "accepted_gain",
+    "level": 0,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9591836734693877,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_sham_stretch_level0",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "sham_stretch",
+    "level": 0,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9591836734693877,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_sham_world_level0",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "sham_world",
+    "level": 0,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9591836734693877,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_compound2_level2",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "compound2",
+    "level": 2,
+    "coverage": 0.9183673469387755,
+    "asr_match_fraction": 0.8979591836734694,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon01_compound4_level4",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "compound4",
+    "level": 4,
+    "coverage": 0.9591836734693877,
+    "asr_match_fraction": 0.8775510204081632,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_pace_level1",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "pace",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9642857142857143,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_pace_level2",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "pace",
+    "level": 2,
+    "coverage": 0.9821428571428571,
+    "asr_match_fraction": 0.9464285714285714,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_pace_level3",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "pace",
+    "level": 3,
+    "coverage": 0.9107142857142857,
+    "asr_match_fraction": 0.875,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_pace_level4",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "pace",
+    "level": 4,
+    "coverage": 0.8928571428571429,
+    "asr_match_fraction": 0.8571428571428571,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_intonation_level1",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "intonation",
+    "level": 1,
+    "coverage": 0.9821428571428571,
+    "asr_match_fraction": 0.9464285714285714,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_intonation_level2",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "intonation",
+    "level": 2,
+    "coverage": 0.9821428571428571,
+    "asr_match_fraction": 0.9642857142857143,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_intonation_level3",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "intonation",
+    "level": 3,
+    "coverage": 0.9821428571428571,
+    "asr_match_fraction": 0.9642857142857143,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_intonation_level4",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "intonation",
+    "level": 4,
+    "coverage": 0.9821428571428571,
+    "asr_match_fraction": 0.9464285714285714,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_pauses_level1",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "pauses",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9642857142857143,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_pauses_level2",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "pauses",
+    "level": 2,
+    "coverage": 0.9821428571428571,
+    "asr_match_fraction": 0.9642857142857143,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_pauses_level3",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "pauses",
+    "level": 3,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9642857142857143,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_pauses_level4",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "pauses",
+    "level": 4,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9821428571428571,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_energy_level1",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "energy",
+    "level": 1,
+    "coverage": 0.9821428571428571,
+    "asr_match_fraction": 0.9642857142857143,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_energy_level2",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "energy",
+    "level": 2,
+    "coverage": 0.9821428571428571,
+    "asr_match_fraction": 0.9642857142857143,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_energy_level3",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "energy",
+    "level": 3,
+    "coverage": 0.9821428571428571,
+    "asr_match_fraction": 0.9642857142857143,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_energy_level4",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "energy",
+    "level": 4,
+    "coverage": 0.9821428571428571,
+    "asr_match_fraction": 0.9285714285714286,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_clarity_proxy_level1",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 1,
+    "coverage": 0.9821428571428571,
+    "asr_match_fraction": 0.9642857142857143,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_clarity_proxy_level2",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 2,
+    "coverage": 0.9821428571428571,
+    "asr_match_fraction": 0.9464285714285714,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_clarity_proxy_level3",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 3,
+    "coverage": 0.9285714285714286,
+    "asr_match_fraction": 0.9107142857142857,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_clarity_proxy_level4",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 4,
+    "coverage": 0.8392857142857143,
+    "asr_match_fraction": 0.8214285714285714,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_accepted_gain_level0",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "accepted_gain",
+    "level": 0,
+    "coverage": 0.9821428571428571,
+    "asr_match_fraction": 0.9642857142857143,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_sham_stretch_level0",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "sham_stretch",
+    "level": 0,
+    "coverage": 0.9821428571428571,
+    "asr_match_fraction": 0.9642857142857143,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_sham_world_level0",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "sham_world",
+    "level": 0,
+    "coverage": 0.9821428571428571,
+    "asr_match_fraction": 0.9642857142857143,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_compound2_level2",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "compound2",
+    "level": 2,
+    "coverage": 0.9464285714285714,
+    "asr_match_fraction": 0.9107142857142857,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "nixon02_compound4_level4",
+    "speaker_id": "nixon",
+    "split": "train",
+    "condition": "compound4",
+    "level": 4,
+    "coverage": 0.9464285714285714,
+    "asr_match_fraction": 0.9107142857142857,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_pace_level1",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "pace",
+    "level": 1,
+    "coverage": 0.6578947368421053,
+    "asr_match_fraction": 0.4605263157894737,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_pace_level2",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "pace",
+    "level": 2,
+    "coverage": 0.6710526315789473,
+    "asr_match_fraction": 0.5131578947368421,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_pace_level3",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "pace",
+    "level": 3,
+    "coverage": 0.6710526315789473,
+    "asr_match_fraction": 0.5131578947368421,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_pace_level4",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "pace",
+    "level": 4,
+    "coverage": 0.6447368421052632,
+    "asr_match_fraction": 0.5,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_intonation_level1",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "intonation",
+    "level": 1,
+    "coverage": 0.75,
+    "asr_match_fraction": 0.5526315789473685,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_intonation_level2",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "intonation",
+    "level": 2,
+    "coverage": 0.75,
+    "asr_match_fraction": 0.5394736842105263,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_intonation_level3",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "intonation",
+    "level": 3,
+    "coverage": 0.75,
+    "asr_match_fraction": 0.5657894736842105,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_intonation_level4",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "intonation",
+    "level": 4,
+    "coverage": 0.75,
+    "asr_match_fraction": 0.5657894736842105,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_pauses_level1",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "pauses",
+    "level": 1,
+    "coverage": 0.7763157894736842,
+    "asr_match_fraction": 0.631578947368421,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_pauses_level2",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "pauses",
+    "level": 2,
+    "coverage": 0.75,
+    "asr_match_fraction": 0.5657894736842105,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_pauses_level3",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "pauses",
+    "level": 3,
+    "coverage": 0.75,
+    "asr_match_fraction": 0.631578947368421,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_pauses_level4",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "pauses",
+    "level": 4,
+    "coverage": 0.7894736842105263,
+    "asr_match_fraction": 0.618421052631579,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_energy_level1",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "energy",
+    "level": 1,
+    "coverage": 0.75,
+    "asr_match_fraction": 0.5657894736842105,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_energy_level2",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "energy",
+    "level": 2,
+    "coverage": 0.75,
+    "asr_match_fraction": 0.5789473684210527,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_energy_level3",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "energy",
+    "level": 3,
+    "coverage": 0.75,
+    "asr_match_fraction": 0.5789473684210527,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_energy_level4",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "energy",
+    "level": 4,
+    "coverage": 0.75,
+    "asr_match_fraction": 0.5657894736842105,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_clarity_proxy_level1",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 1,
+    "coverage": 0.75,
+    "asr_match_fraction": 0.5789473684210527,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_clarity_proxy_level2",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 2,
+    "coverage": 0.7368421052631579,
+    "asr_match_fraction": 0.5789473684210527,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_clarity_proxy_level3",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 3,
+    "coverage": 0.7105263157894737,
+    "asr_match_fraction": 0.5263157894736842,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_clarity_proxy_level4",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 4,
+    "coverage": 0.5657894736842105,
+    "asr_match_fraction": 0.40789473684210525,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_accepted_gain_level0",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "accepted_gain",
+    "level": 0,
+    "coverage": 0.75,
+    "asr_match_fraction": 0.5657894736842105,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_sham_stretch_level0",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "sham_stretch",
+    "level": 0,
+    "coverage": 0.75,
+    "asr_match_fraction": 0.5657894736842105,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_sham_world_level0",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "sham_world",
+    "level": 0,
+    "coverage": 0.75,
+    "asr_match_fraction": 0.5526315789473685,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_compound2_level2",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "compound2",
+    "level": 2,
+    "coverage": 0.6447368421052632,
+    "asr_match_fraction": 0.5,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr01_compound4_level4",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "compound4",
+    "level": 4,
+    "coverage": 0.6578947368421053,
+    "asr_match_fraction": 0.4605263157894737,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_pace_level1",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "pace",
+    "level": 1,
+    "coverage": 0.9508196721311475,
+    "asr_match_fraction": 0.8360655737704918,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_pace_level2",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "pace",
+    "level": 2,
+    "coverage": 0.9016393442622951,
+    "asr_match_fraction": 0.8032786885245902,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_pace_level3",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "pace",
+    "level": 3,
+    "coverage": 0.9180327868852459,
+    "asr_match_fraction": 0.8360655737704918,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_pace_level4",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "pace",
+    "level": 4,
+    "coverage": 0.9180327868852459,
+    "asr_match_fraction": 0.8360655737704918,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_intonation_level1",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "intonation",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9508196721311475,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_intonation_level2",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "intonation",
+    "level": 2,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9508196721311475,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_intonation_level3",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "intonation",
+    "level": 3,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9180327868852459,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_intonation_level4",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "intonation",
+    "level": 4,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9508196721311475,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_pauses_level1",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "pauses",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9836065573770492,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_pauses_level2",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "pauses",
+    "level": 2,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9672131147540983,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_pauses_level3",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "pauses",
+    "level": 3,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9508196721311475,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_pauses_level4",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "pauses",
+    "level": 4,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9672131147540983,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_energy_level1",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "energy",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9836065573770492,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_energy_level2",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "energy",
+    "level": 2,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9836065573770492,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_energy_level3",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "energy",
+    "level": 3,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9672131147540983,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_energy_level4",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "energy",
+    "level": 4,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9672131147540983,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_clarity_proxy_level1",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "clarity_proxy",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9344262295081968,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_clarity_proxy_level2",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "clarity_proxy",
+    "level": 2,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9508196721311475,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_clarity_proxy_level3",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "clarity_proxy",
+    "level": 3,
+    "coverage": 0.9672131147540983,
+    "asr_match_fraction": 0.8852459016393442,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_clarity_proxy_level4",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "clarity_proxy",
+    "level": 4,
+    "coverage": 0.819672131147541,
+    "asr_match_fraction": 0.8032786885245902,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_accepted_gain_level0",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "accepted_gain",
+    "level": 0,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9836065573770492,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_sham_stretch_level0",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "sham_stretch",
+    "level": 0,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9836065573770492,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_sham_world_level0",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "sham_world",
+    "level": 0,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9508196721311475,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_compound2_level2",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "compound2",
+    "level": 2,
+    "coverage": 0.9016393442622951,
+    "asr_match_fraction": 0.8360655737704918,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan01_compound4_level4",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "compound4",
+    "level": 4,
+    "coverage": 0.9016393442622951,
+    "asr_match_fraction": 0.8360655737704918,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_pace_level1",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "pace",
+    "level": 1,
+    "coverage": 0.9487179487179487,
+    "asr_match_fraction": 0.8974358974358975,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_pace_level2",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "pace",
+    "level": 2,
+    "coverage": 0.9487179487179487,
+    "asr_match_fraction": 0.8974358974358975,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_pace_level3",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "pace",
+    "level": 3,
+    "coverage": 0.9230769230769231,
+    "asr_match_fraction": 0.8589743589743589,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_pace_level4",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "pace",
+    "level": 4,
+    "coverage": 0.9230769230769231,
+    "asr_match_fraction": 0.8461538461538461,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_intonation_level1",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "intonation",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9358974358974359,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_intonation_level2",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "intonation",
+    "level": 2,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9358974358974359,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_intonation_level3",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "intonation",
+    "level": 3,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9358974358974359,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_intonation_level4",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "intonation",
+    "level": 4,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9358974358974359,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_pauses_level1",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "pauses",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9487179487179487,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_pauses_level2",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "pauses",
+    "level": 2,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9358974358974359,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_pauses_level3",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "pauses",
+    "level": 3,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9230769230769231,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_pauses_level4",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "pauses",
+    "level": 4,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9230769230769231,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_energy_level1",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "energy",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9487179487179487,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_energy_level2",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "energy",
+    "level": 2,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9487179487179487,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_energy_level3",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "energy",
+    "level": 3,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9358974358974359,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_energy_level4",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "energy",
+    "level": 4,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9358974358974359,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_clarity_proxy_level1",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "clarity_proxy",
+    "level": 1,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9358974358974359,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_clarity_proxy_level2",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "clarity_proxy",
+    "level": 2,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9358974358974359,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_clarity_proxy_level3",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "clarity_proxy",
+    "level": 3,
+    "coverage": 0.9743589743589743,
+    "asr_match_fraction": 0.9230769230769231,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_clarity_proxy_level4",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "clarity_proxy",
+    "level": 4,
+    "coverage": 0.8589743589743589,
+    "asr_match_fraction": 0.8076923076923077,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_accepted_gain_level0",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "accepted_gain",
+    "level": 0,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9487179487179487,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_sham_stretch_level0",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "sham_stretch",
+    "level": 0,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9487179487179487,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_sham_world_level0",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "sham_world",
+    "level": 0,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9358974358974359,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_compound2_level2",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "compound2",
+    "level": 2,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9358974358974359,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "reagan02_compound4_level4",
+    "speaker_id": "reagan",
+    "split": "validation",
+    "condition": "compound4",
+    "level": 4,
+    "coverage": 0.9743589743589743,
+    "asr_match_fraction": 0.9230769230769231,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_pace_level1",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "pace",
+    "level": 1,
+    "coverage": 0.8333333333333334,
+    "asr_match_fraction": 0.75,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_pace_level2",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "pace",
+    "level": 2,
+    "coverage": 0.8541666666666666,
+    "asr_match_fraction": 0.7291666666666666,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_pace_level3",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "pace",
+    "level": 3,
+    "coverage": 0.75,
+    "asr_match_fraction": 0.7291666666666666,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_pace_level4",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "pace",
+    "level": 4,
+    "coverage": 0.75,
+    "asr_match_fraction": 0.6875,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_intonation_level1",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "intonation",
+    "level": 1,
+    "coverage": 0.9791666666666666,
+    "asr_match_fraction": 0.875,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_intonation_level2",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "intonation",
+    "level": 2,
+    "coverage": 0.9791666666666666,
+    "asr_match_fraction": 0.8541666666666666,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_intonation_level3",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "intonation",
+    "level": 3,
+    "coverage": 0.9791666666666666,
+    "asr_match_fraction": 0.8541666666666666,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_intonation_level4",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "intonation",
+    "level": 4,
+    "coverage": 0.9791666666666666,
+    "asr_match_fraction": 0.8541666666666666,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_pauses_level1",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "pauses",
+    "level": 1,
+    "coverage": 0.9791666666666666,
+    "asr_match_fraction": 0.875,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_pauses_level2",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "pauses",
+    "level": 2,
+    "coverage": 0.9791666666666666,
+    "asr_match_fraction": 0.875,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_pauses_level3",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "pauses",
+    "level": 3,
+    "coverage": 0.9791666666666666,
+    "asr_match_fraction": 0.875,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_pauses_level4",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "pauses",
+    "level": 4,
+    "coverage": 0.9791666666666666,
+    "asr_match_fraction": 0.875,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_energy_level1",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "energy",
+    "level": 1,
+    "coverage": 0.9791666666666666,
+    "asr_match_fraction": 0.8958333333333334,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_energy_level2",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "energy",
+    "level": 2,
+    "coverage": 0.9791666666666666,
+    "asr_match_fraction": 0.875,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_energy_level3",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "energy",
+    "level": 3,
+    "coverage": 0.9791666666666666,
+    "asr_match_fraction": 0.875,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_energy_level4",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "energy",
+    "level": 4,
+    "coverage": 0.9791666666666666,
+    "asr_match_fraction": 0.875,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_clarity_proxy_level1",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "clarity_proxy",
+    "level": 1,
+    "coverage": 0.9791666666666666,
+    "asr_match_fraction": 0.8541666666666666,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_clarity_proxy_level2",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "clarity_proxy",
+    "level": 2,
+    "coverage": 0.9791666666666666,
+    "asr_match_fraction": 0.7916666666666666,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_clarity_proxy_level3",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "clarity_proxy",
+    "level": 3,
+    "coverage": 0.9166666666666666,
+    "asr_match_fraction": 0.7916666666666666,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_clarity_proxy_level4",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "clarity_proxy",
+    "level": 4,
+    "coverage": 0.7291666666666666,
+    "asr_match_fraction": 0.6458333333333334,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_accepted_gain_level0",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "accepted_gain",
+    "level": 0,
+    "coverage": 0.9791666666666666,
+    "asr_match_fraction": 0.875,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_sham_stretch_level0",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "sham_stretch",
+    "level": 0,
+    "coverage": 0.9791666666666666,
+    "asr_match_fraction": 0.875,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_sham_world_level0",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "sham_world",
+    "level": 0,
+    "coverage": 0.9791666666666666,
+    "asr_match_fraction": 0.8958333333333334,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_compound2_level2",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "compound2",
+    "level": 2,
+    "coverage": 0.8125,
+    "asr_match_fraction": 0.75,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_compound4_level4",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "compound4",
+    "level": 4,
+    "coverage": 0.8125,
+    "asr_match_fraction": 0.7291666666666666,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_pace_level1",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "pace",
+    "level": 1,
+    "coverage": 0.9615384615384616,
+    "asr_match_fraction": 0.8589743589743589,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_pace_level2",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "pace",
+    "level": 2,
+    "coverage": 0.9487179487179487,
+    "asr_match_fraction": 0.8589743589743589,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_pace_level3",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "pace",
+    "level": 3,
+    "coverage": 0.9487179487179487,
+    "asr_match_fraction": 0.8589743589743589,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_pace_level4",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "pace",
+    "level": 4,
+    "coverage": 0.9102564102564102,
+    "asr_match_fraction": 0.8461538461538461,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_intonation_level1",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "intonation",
+    "level": 1,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9230769230769231,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_intonation_level2",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "intonation",
+    "level": 2,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9230769230769231,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_intonation_level3",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "intonation",
+    "level": 3,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9230769230769231,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_intonation_level4",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "intonation",
+    "level": 4,
+    "coverage": 1.0,
+    "asr_match_fraction": 0.9230769230769231,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_pauses_level1",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "pauses",
+    "level": 1,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9487179487179487,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_pauses_level2",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "pauses",
+    "level": 2,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9487179487179487,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_pauses_level3",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "pauses",
+    "level": 3,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9487179487179487,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_pauses_level4",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "pauses",
+    "level": 4,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9487179487179487,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_energy_level1",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "energy",
+    "level": 1,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9487179487179487,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_energy_level2",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "energy",
+    "level": 2,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9487179487179487,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_energy_level3",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "energy",
+    "level": 3,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9487179487179487,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_energy_level4",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "energy",
+    "level": 4,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9358974358974359,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_clarity_proxy_level1",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "clarity_proxy",
+    "level": 1,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9358974358974359,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_clarity_proxy_level2",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "clarity_proxy",
+    "level": 2,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9358974358974359,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_clarity_proxy_level3",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "clarity_proxy",
+    "level": 3,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9358974358974359,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_clarity_proxy_level4",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "clarity_proxy",
+    "level": 4,
+    "coverage": 0.8974358974358975,
+    "asr_match_fraction": 0.8589743589743589,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_accepted_gain_level0",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "accepted_gain",
+    "level": 0,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9487179487179487,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_sham_stretch_level0",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "sham_stretch",
+    "level": 0,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9487179487179487,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_sham_world_level0",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "sham_world",
+    "level": 0,
+    "coverage": 0.9871794871794872,
+    "asr_match_fraction": 0.9230769230769231,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_compound2_level2",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "compound2",
+    "level": 2,
+    "coverage": 0.9230769230769231,
+    "asr_match_fraction": 0.8461538461538461,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_compound4_level4",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "compound4",
+    "level": 4,
+    "coverage": 0.9102564102564102,
+    "asr_match_fraction": 0.8461538461538461,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_pace_level1",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "pace",
+    "level": 1,
+    "coverage": 0.8955223880597015,
+    "asr_match_fraction": 0.8059701492537313,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_pace_level2",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "pace",
+    "level": 2,
+    "coverage": 0.8656716417910447,
+    "asr_match_fraction": 0.746268656716418,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_pace_level3",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "pace",
+    "level": 3,
+    "coverage": 0.8656716417910447,
+    "asr_match_fraction": 0.7761194029850746,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_pace_level4",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "pace",
+    "level": 4,
+    "coverage": 0.835820895522388,
+    "asr_match_fraction": 0.746268656716418,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_intonation_level1",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "intonation",
+    "level": 1,
+    "coverage": 0.8955223880597015,
+    "asr_match_fraction": 0.7761194029850746,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_intonation_level2",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "intonation",
+    "level": 2,
+    "coverage": 0.9104477611940298,
+    "asr_match_fraction": 0.7910447761194029,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_intonation_level3",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "intonation",
+    "level": 3,
+    "coverage": 0.8955223880597015,
+    "asr_match_fraction": 0.7910447761194029,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_intonation_level4",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "intonation",
+    "level": 4,
+    "coverage": 0.8955223880597015,
+    "asr_match_fraction": 0.8059701492537313,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_pauses_level1",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "pauses",
+    "level": 1,
+    "coverage": 0.9104477611940298,
+    "asr_match_fraction": 0.8507462686567164,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_pauses_level2",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "pauses",
+    "level": 2,
+    "coverage": 0.9104477611940298,
+    "asr_match_fraction": 0.8656716417910447,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_pauses_level3",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "pauses",
+    "level": 3,
+    "coverage": 0.9104477611940298,
+    "asr_match_fraction": 0.8507462686567164,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_pauses_level4",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "pauses",
+    "level": 4,
+    "coverage": 0.9104477611940298,
+    "asr_match_fraction": 0.8507462686567164,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_energy_level1",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "energy",
+    "level": 1,
+    "coverage": 0.9104477611940298,
+    "asr_match_fraction": 0.835820895522388,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_energy_level2",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "energy",
+    "level": 2,
+    "coverage": 0.9104477611940298,
+    "asr_match_fraction": 0.8208955223880597,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_energy_level3",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "energy",
+    "level": 3,
+    "coverage": 0.9104477611940298,
+    "asr_match_fraction": 0.835820895522388,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_energy_level4",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "energy",
+    "level": 4,
+    "coverage": 0.9104477611940298,
+    "asr_match_fraction": 0.8507462686567164,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_clarity_proxy_level1",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 1,
+    "coverage": 0.9104477611940298,
+    "asr_match_fraction": 0.8208955223880597,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_clarity_proxy_level2",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 2,
+    "coverage": 0.8955223880597015,
+    "asr_match_fraction": 0.8208955223880597,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_clarity_proxy_level3",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 3,
+    "coverage": 0.8507462686567164,
+    "asr_match_fraction": 0.7611940298507462,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_clarity_proxy_level4",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "clarity_proxy",
+    "level": 4,
+    "coverage": 0.835820895522388,
+    "asr_match_fraction": 0.7611940298507462,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_accepted_gain_level0",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "accepted_gain",
+    "level": 0,
+    "coverage": 0.9104477611940298,
+    "asr_match_fraction": 0.8507462686567164,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_sham_stretch_level0",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "sham_stretch",
+    "level": 0,
+    "coverage": 0.9104477611940298,
+    "asr_match_fraction": 0.835820895522388,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_sham_world_level0",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "sham_world",
+    "level": 0,
+    "coverage": 0.8955223880597015,
+    "asr_match_fraction": 0.7910447761194029,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_compound2_level2",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "compound2",
+    "level": 2,
+    "coverage": 0.8507462686567164,
+    "asr_match_fraction": 0.7910447761194029,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "fdr02_compound4_level4",
+    "speaker_id": "fdr",
+    "split": "train",
+    "condition": "compound4",
+    "level": 4,
+    "coverage": 0.7761194029850746,
+    "asr_match_fraction": 0.7014925373134329,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_heldout_noise_level1",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "clarity_proxy",
+    "level": 1,
+    "coverage": 0.9583333333333334,
+    "asr_match_fraction": 0.875,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_heldout_noise_level2",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "clarity_proxy",
+    "level": 2,
+    "coverage": 0.9583333333333334,
+    "asr_match_fraction": 0.8541666666666666,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_heldout_noise_level3",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "clarity_proxy",
+    "level": 3,
+    "coverage": 0.9166666666666666,
+    "asr_match_fraction": 0.7916666666666666,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama01_heldout_noise_level4",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "clarity_proxy",
+    "level": 4,
+    "coverage": 0.6666666666666666,
+    "asr_match_fraction": 0.5625,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_heldout_noise_level1",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "clarity_proxy",
+    "level": 1,
+    "coverage": 0.9743589743589743,
+    "asr_match_fraction": 0.9358974358974359,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_heldout_noise_level2",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "clarity_proxy",
+    "level": 2,
+    "coverage": 0.9743589743589743,
+    "asr_match_fraction": 0.9230769230769231,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_heldout_noise_level3",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "clarity_proxy",
+    "level": 3,
+    "coverage": 0.9615384615384616,
+    "asr_match_fraction": 0.8974358974358975,
+    "independent_boundary_error": null
+  },
+  {
+    "recording_id": "obama02_heldout_noise_level4",
+    "speaker_id": "obama",
+    "split": "test",
+    "condition": "clarity_proxy",
+    "level": 4,
+    "coverage": 0.8461538461538461,
+    "asr_match_fraction": 0.782051282051282,
+    "independent_boundary_error": null
+  }
+]

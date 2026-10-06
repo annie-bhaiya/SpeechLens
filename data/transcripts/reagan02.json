@@ -1,0 +1,556 @@
+{
+  "display_text": "In the eyes of many in the world, this every four year ceremony we accept as normal is nothing less than a miracle. Mr. President, I want our fellow citizens to know how much you did to carry on this tradition. By your gracious cooperation in the transition process, you have shown a watching world that we are a united people pledged to maintaining a political system which guarantees individual liberty to a greater degree than any other.",
+  "tokens": [
+    {
+      "id": 0,
+      "text": "In",
+      "normalized": "in",
+      "char_start": 0,
+      "char_end": 2
+    },
+    {
+      "id": 1,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 3,
+      "char_end": 6
+    },
+    {
+      "id": 2,
+      "text": "eyes",
+      "normalized": "eyes",
+      "char_start": 7,
+      "char_end": 11
+    },
+    {
+      "id": 3,
+      "text": "of",
+      "normalized": "of",
+      "char_start": 12,
+      "char_end": 14
+    },
+    {
+      "id": 4,
+      "text": "many",
+      "normalized": "many",
+      "char_start": 15,
+      "char_end": 19
+    },
+    {
+      "id": 5,
+      "text": "in",
+      "normalized": "in",
+      "char_start": 20,
+      "char_end": 22
+    },
+    {
+      "id": 6,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 23,
+      "char_end": 26
+    },
+    {
+      "id": 7,
+      "text": "world",
+      "normalized": "world",
+      "char_start": 27,
+      "char_end": 32
+    },
+    {
+      "id": 8,
+      "text": "this",
+      "normalized": "this",
+      "char_start": 34,
+      "char_end": 38
+    },
+    {
+      "id": 9,
+      "text": "every",
+      "normalized": "every",
+      "char_start": 39,
+      "char_end": 44
+    },
+    {
+      "id": 10,
+      "text": "four",
+      "normalized": "four",
+      "char_start": 45,
+      "char_end": 49
+    },
+    {
+      "id": 11,
+      "text": "year",
+      "normalized": "year",
+      "char_start": 50,
+      "char_end": 54
+    },
+    {
+      "id": 12,
+      "text": "ceremony",
+      "normalized": "ceremony",
+      "char_start": 55,
+      "char_end": 63
+    },
+    {
+      "id": 13,
+      "text": "we",
+      "normalized": "we",
+      "char_start": 64,
+      "char_end": 66
+    },
+    {
+      "id": 14,
+      "text": "accept",
+      "normalized": "accept",
+      "char_start": 67,
+      "char_end": 73
+    },
+    {
+      "id": 15,
+      "text": "as",
+      "normalized": "as",
+      "char_start": 74,
+      "char_end": 76
+    },
+    {
+      "id": 16,
+      "text": "normal",
+      "normalized": "normal",
+      "char_start": 77,
+      "char_end": 83
+    },
+    {
+      "id": 17,
+      "text": "is",
+      "normalized": "is",
+      "char_start": 84,
+      "char_end": 86
+    },
+    {
+      "id": 18,
+      "text": "nothing",
+      "normalized": "nothing",
+      "char_start": 87,
+      "char_end": 94
+    },
+    {
+      "id": 19,
+      "text": "less",
+      "normalized": "less",
+      "char_start": 95,
+      "char_end": 99
+    },
+    {
+      "id": 20,
+      "text": "than",
+      "normalized": "than",
+      "char_start": 100,
+      "char_end": 104
+    },
+    {
+      "id": 21,
+      "text": "a",
+      "normalized": "a",
+      "char_start": 105,
+      "char_end": 106
+    },
+    {
+      "id": 22,
+      "text": "miracle",
+      "normalized": "miracle",
+      "char_start": 107,
+      "char_end": 114
+    },
+    {
+      "id": 23,
+      "text": "Mr",
+      "normalized": "mr",
+      "char_start": 116,
+      "char_end": 118
+    },
+    {
+      "id": 24,
+      "text": "President",
+      "normalized": "president",
+      "char_start": 120,
+      "char_end": 129
+    },
+    {
+      "id": 25,
+      "text": "I",
+      "normalized": "i",
+      "char_start": 131,
+      "char_end": 132
+    },
+    {
+      "id": 26,
+      "text": "want",
+      "normalized": "want",
+      "char_start": 133,
+      "char_end": 137
+    },
+    {
+      "id": 27,
+      "text": "our",
+      "normalized": "our",
+      "char_start": 138,
+      "char_end": 141
+    },
+    {
+      "id": 28,
+      "text": "fellow",
+      "normalized": "fellow",
+      "char_start": 142,
+      "char_end": 148
+    },
+    {
+      "id": 29,
+      "text": "citizens",
+      "normalized": "citizens",
+      "char_start": 149,
+      "char_end": 157
+    },
+    {
+      "id": 30,
+      "text": "to",
+      "normalized": "to",
+      "char_start": 158,
+      "char_end": 160
+    },
+    {
+      "id": 31,
+      "text": "know",
+      "normalized": "know",
+      "char_start": 161,
+      "char_end": 165
+    },
+    {
+      "id": 32,
+      "text": "how",
+      "normalized": "how",
+      "char_start": 166,
+      "char_end": 169
+    },
+    {
+      "id": 33,
+      "text": "much",
+      "normalized": "much",
+      "char_start": 170,
+      "char_end": 174
+    },
+    {
+      "id": 34,
+      "text": "you",
+      "normalized": "you",
+      "char_start": 175,
+      "char_end": 178
+    },
+    {
+      "id": 35,
+      "text": "did",
+      "normalized": "did",
+      "char_start": 179,
+      "char_end": 182
+    },
+    {
+      "id": 36,
+      "text": "to",
+      "normalized": "to",
+      "char_start": 183,
+      "char_end": 185
+    },
+    {
+      "id": 37,
+      "text": "carry",
+      "normalized": "carry",
+      "char_start": 186,
+      "char_end": 191
+    },
+    {
+      "id": 38,
+      "text": "on",
+      "normalized": "on",
+      "char_start": 192,
+      "char_end": 194
+    },
+    {
+      "id": 39,
+      "text": "this",
+      "normalized": "this",
+      "char_start": 195,
+      "char_end": 199
+    },
+    {
+      "id": 40,
+      "text": "tradition",
+      "normalized": "tradition",
+      "char_start": 200,
+      "char_end": 209
+    },
+    {
+      "id": 41,
+      "text": "By",
+      "normalized": "by",
+      "char_start": 211,
+      "char_end": 213
+    },
+    {
+      "id": 42,
+      "text": "your",
+      "normalized": "your",
+      "char_start": 214,
+      "char_end": 218
+    },
+    {
+      "id": 43,
+      "text": "gracious",
+      "normalized": "gracious",
+      "char_start": 219,
+      "char_end": 227
+    },
+    {
+      "id": 44,
+      "text": "cooperation",
+      "normalized": "cooperation",
+      "char_start": 228,
+      "char_end": 239
+    },
+    {
+      "id": 45,
+      "text": "in",
+      "normalized": "in",
+      "char_start": 240,
+      "char_end": 242
+    },
+    {
+      "id": 46,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 243,
+      "char_end": 246
+    },
+    {
+      "id": 47,
+      "text": "transition",
+      "normalized": "transition",
+      "char_start": 247,
+      "char_end": 257
+    },
+    {
+      "id": 48,
+      "text": "process",
+      "normalized": "process",
+      "char_start": 258,
+      "char_end": 265
+    },
+    {
+      "id": 49,
+      "text": "you",
+      "normalized": "you",
+      "char_start": 267,
+      "char_end": 270
+    },
+    {
+      "id": 50,
+      "text": "have",
+      "normalized": "have",
+      "char_start": 271,
+      "char_end": 275
+    },
+    {
+      "id": 51,
+      "text": "shown",
+      "normalized": "shown",
+      "char_start": 276,
+      "char_end": 281
+    },
+    {
+      "id": 52,
+      "text": "a",
+      "normalized": "a",
+      "char_start": 282,
+      "char_end": 283
+    },
+    {
+      "id": 53,
+      "text": "watching",
+      "normalized": "watching",
+      "char_start": 284,
+      "char_end": 292
+    },
+    {
+      "id": 54,
+      "text": "world",
+      "normalized": "world",
+      "char_start": 293,
+      "char_end": 298
+    },
+    {
+      "id": 55,
+      "text": "that",
+      "normalized": "that",
+      "char_start": 299,
+      "char_end": 303
+    },
+    {
+      "id": 56,
+      "text": "we",
+      "normalized": "we",
+      "char_start": 304,
+      "char_end": 306
+    },
+    {
+      "id": 57,
+      "text": "are",
+      "normalized": "are",
+      "char_start": 307,
+      "char_end": 310
+    },
+    {
+      "id": 58,
+      "text": "a",
+      "normalized": "a",
+      "char_start": 311,
+      "char_end": 312
+    },
+    {
+      "id": 59,
+      "text": "united",
+      "normalized": "united",
+      "char_start": 313,
+      "char_end": 319
+    },
+    {
+      "id": 60,
+      "text": "people",
+      "normalized": "people",
+      "char_start": 320,
+      "char_end": 326
+    },
+    {
+      "id": 61,
+      "text": "pledged",
+      "normalized": "pledged",
+      "char_start": 327,
+      "char_end": 334
+    },
+    {
+      "id": 62,
+      "text": "to",
+      "normalized": "to",
+      "char_start": 335,
+      "char_end": 337
+    },
+    {
+      "id": 63,
+      "text": "maintaining",
+      "normalized": "maintaining",
+      "char_start": 338,
+      "char_end": 349
+    },
+    {
+      "id": 64,
+      "text": "a",
+      "normalized": "a",
+      "char_start": 350,
+      "char_end": 351
+    },
+    {
+      "id": 65,
+      "text": "political",
+      "normalized": "political",
+      "char_start": 352,
+      "char_end": 361
+    },
+    {
+      "id": 66,
+      "text": "system",
+      "normalized": "system",
+      "char_start": 362,
+      "char_end": 368
+    },
+    {
+      "id": 67,
+      "text": "which",
+      "normalized": "which",
+      "char_start": 369,
+      "char_end": 374
+    },
+    {
+      "id": 68,
+      "text": "guarantees",
+      "normalized": "guarantees",
+      "char_start": 375,
+      "char_end": 385
+    },
+    {
+      "id": 69,
+      "text": "individual",
+      "normalized": "individual",
+      "char_start": 386,
+      "char_end": 396
+    },
+    {
+      "id": 70,
+      "text": "liberty",
+      "normalized": "liberty",
+      "char_start": 397,
+      "char_end": 404
+    },
+    {
+      "id": 71,
+      "text": "to",
+      "normalized": "to",
+      "char_start": 405,
+      "char_end": 407
+    },
+    {
+      "id": 72,
+      "text": "a",
+      "normalized": "a",
+      "char_start": 408,
+      "char_end": 409
+    },
+    {
+      "id": 73,
+      "text": "greater",
+      "normalized": "greater",
+      "char_start": 410,
+      "char_end": 417
+    },
+    {
+      "id": 74,
+      "text": "degree",
+      "normalized": "degree",
+      "char_start": 418,
+      "char_end": 424
+    },
+    {
+      "id": 75,
+      "text": "than",
+      "normalized": "than",
+      "char_start": 425,
+      "char_end": 429
+    },
+    {
+      "id": 76,
+      "text": "any",
+      "normalized": "any",
+      "char_start": 430,
+      "char_end": 433
+    },
+    {
+      "id": 77,
+      "text": "other",
+      "normalized": "other",
+      "char_start": 434,
+      "char_end": 439
+    }
+  ],
+  "canonical_text": "in the eyes of many in the world this every four year ceremony we accept as normal is nothing less than a miracle mr president i want our fellow citizens to know how much you did to carry on this tradition by your gracious cooperation in the transition process you have shown a watching world that we are a united people pledged to maintaining a political system which guarantees individual liberty to a greater degree than any other",
+  "sha256": "65d84b30aafd10d30135f7ff294b5f959255118ba454f7328af585a6fa56d731",
+  "language": "en",
+  "provenance": "https://en.wikisource.org/wiki/Ronald_Reagan%27s_First_Inaugural_Address",
+  "review_status": "source_text_machine_alignment_human_correction_pending"
+}

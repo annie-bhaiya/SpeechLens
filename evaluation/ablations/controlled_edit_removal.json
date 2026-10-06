@@ -1,0 +1,1783 @@
+[
+  {
+    "pair_group_id": "jfk01",
+    "split": "train",
+    "conditions": {
+      "accepted": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.981859410430839,
+        "cache_hit": true
+      },
+      "pace": {
+        "score": 96.4,
+        "events": 1,
+        "category_scores": {
+          "pacing": 87.2,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.7382668200811482,
+        "cache_hit": true
+      },
+      "intonation": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.981859410430839,
+        "cache_hit": false
+      },
+      "pauses": {
+        "score": 97.3,
+        "events": 1,
+        "category_scores": {
+          "pacing": 90.3,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.977324263038549,
+        "cache_hit": false
+      },
+      "energy": {
+        "score": 97.5,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 88.6,
+          "clarity": null
+        },
+        "coverage": 0.9727891156462587,
+        "cache_hit": false
+      },
+      "clarity_proxy": {
+        "score": null,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.5393679727083711,
+        "cache_hit": false
+      },
+      "accepted_gain": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.981859410430839,
+        "cache_hit": false
+      },
+      "sham_stretch": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.981859410430839,
+        "cache_hit": false
+      },
+      "sham_world": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.981859410430839,
+        "cache_hit": false
+      },
+      "compound4": {
+        "score": 93.6,
+        "events": 2,
+        "category_scores": {
+          "pacing": 84.7,
+          "pauses": 100.0,
+          "intonation": 92.1,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.7518722622580191,
+        "cache_hit": false
+      }
+    },
+    "note": "Same source/text, intervention present versus removed (reference), compounds and identity shams. These are synthetic controlled comparisons, not human causal ratings."
+  },
+  {
+    "pair_group_id": "jfk02",
+    "split": "train",
+    "conditions": {
+      "accepted": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9361042828379512,
+        "cache_hit": true
+      },
+      "pace": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.8042569751112466,
+        "cache_hit": false
+      },
+      "intonation": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9361042828379512,
+        "cache_hit": false
+      },
+      "pauses": {
+        "score": 99.6,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 98.4,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9361042828379512,
+        "cache_hit": false
+      },
+      "energy": {
+        "score": 98.9,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 95.0,
+          "clarity": null
+        },
+        "coverage": 0.9192692660029345,
+        "cache_hit": false
+      },
+      "clarity_proxy": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.8076239784782498,
+        "cache_hit": false
+      },
+      "accepted_gain": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9361042828379512,
+        "cache_hit": false
+      },
+      "sham_stretch": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9361042828379512,
+        "cache_hit": false
+      },
+      "sham_world": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9361042828379512,
+        "cache_hit": false
+      },
+      "compound4": {
+        "score": 97.8,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 92.1,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.7708238160499465,
+        "cache_hit": false
+      }
+    },
+    "note": "Same source/text, intervention present versus removed (reference), compounds and identity shams. These are synthetic controlled comparisons, not human causal ratings."
+  },
+  {
+    "pair_group_id": "jfk03",
+    "split": "train",
+    "conditions": {
+      "accepted": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9368265403567291,
+        "cache_hit": true
+      },
+      "pace": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.837480935108687,
+        "cache_hit": false
+      },
+      "intonation": {
+        "score": 97.4,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 90.5,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9368265403567291,
+        "cache_hit": false
+      },
+      "pauses": {
+        "score": 99.6,
+        "events": 2,
+        "category_scores": {
+          "pacing": 99.5,
+          "pauses": 98.8,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9368265403567291,
+        "cache_hit": false
+      },
+      "energy": {
+        "score": 99.6,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 98.4,
+          "clarity": null
+        },
+        "coverage": 0.9272685953149131,
+        "cache_hit": false
+      },
+      "clarity_proxy": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.8398704213691411,
+        "cache_hit": false
+      },
+      "accepted_gain": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9344370540962751,
+        "cache_hit": false
+      },
+      "sham_stretch": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9368265403567291,
+        "cache_hit": false
+      },
+      "sham_world": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9368265403567291,
+        "cache_hit": false
+      },
+      "compound4": {
+        "score": 95.2,
+        "events": 2,
+        "category_scores": {
+          "pacing": 99.5,
+          "pauses": 100.0,
+          "intonation": 83.4,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.8398704213691411,
+        "cache_hit": false
+      }
+    },
+    "note": "Same source/text, intervention present versus removed (reference), compounds and identity shams. These are synthetic controlled comparisons, not human causal ratings."
+  },
+  {
+    "pair_group_id": "eisenhower01",
+    "split": "train",
+    "conditions": {
+      "accepted": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 1.0,
+        "cache_hit": true
+      },
+      "pace": {
+        "score": 95.5,
+        "events": 2,
+        "category_scores": {
+          "pacing": 84.3,
+          "pauses": 99.5,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.991111111111111,
+        "cache_hit": true
+      },
+      "intonation": {
+        "score": 95.6,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 84.3,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 1.0,
+        "cache_hit": false
+      },
+      "pauses": {
+        "score": 99.6,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 98.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 1.0,
+        "cache_hit": false
+      },
+      "energy": {
+        "score": 99.0,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 95.6,
+          "clarity": null
+        },
+        "coverage": 1.0,
+        "cache_hit": false
+      },
+      "clarity_proxy": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.8515127175368139,
+        "cache_hit": false
+      },
+      "accepted_gain": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 1.0,
+        "cache_hit": false
+      },
+      "sham_stretch": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 1.0,
+        "cache_hit": false
+      },
+      "sham_world": {
+        "score": 98.6,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 95.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 1.0,
+        "cache_hit": false
+      },
+      "compound4": {
+        "score": 89.5,
+        "events": 3,
+        "category_scores": {
+          "pacing": 84.5,
+          "pauses": 99.5,
+          "intonation": 78.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.991111111111111,
+        "cache_hit": false
+      }
+    },
+    "note": "Same source/text, intervention present versus removed (reference), compounds and identity shams. These are synthetic controlled comparisons, not human causal ratings."
+  },
+  {
+    "pair_group_id": "eisenhower02",
+    "split": "train",
+    "conditions": {
+      "accepted": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 1.0,
+        "cache_hit": true
+      },
+      "pace": {
+        "score": 98.2,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 93.7,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9559456943208213,
+        "cache_hit": false
+      },
+      "intonation": {
+        "score": 98.8,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 95.7,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 1.0,
+        "cache_hit": false
+      },
+      "pauses": {
+        "score": 98.0,
+        "events": 2,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 98.4,
+          "intonation": 93.9,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 1.0,
+        "cache_hit": false
+      },
+      "energy": {
+        "score": 99.0,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 95.7,
+          "clarity": null
+        },
+        "coverage": 1.0,
+        "cache_hit": false
+      },
+      "clarity_proxy": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9523614649301403,
+        "cache_hit": false
+      },
+      "accepted_gain": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 1.0,
+        "cache_hit": false
+      },
+      "sham_stretch": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 1.0,
+        "cache_hit": false
+      },
+      "sham_world": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 1.0,
+        "cache_hit": false
+      },
+      "compound4": {
+        "score": 96.1,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 85.9,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9559456943208213,
+        "cache_hit": false
+      }
+    },
+    "note": "Same source/text, intervention present versus removed (reference), compounds and identity shams. These are synthetic controlled comparisons, not human causal ratings."
+  },
+  {
+    "pair_group_id": "nixon01",
+    "split": "train",
+    "conditions": {
+      "accepted": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9696735062588723,
+        "cache_hit": true
+      },
+      "pace": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.7681152406762163,
+        "cache_hit": false
+      },
+      "intonation": {
+        "score": 93.8,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 77.5,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9696735062588723,
+        "cache_hit": false
+      },
+      "pauses": {
+        "score": 99.5,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 97.9,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9696735062588723,
+        "cache_hit": false
+      },
+      "energy": {
+        "score": 98.3,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 92.4,
+          "clarity": null
+        },
+        "coverage": 0.9696735062588723,
+        "cache_hit": false
+      },
+      "clarity_proxy": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.7495967221576977,
+        "cache_hit": false
+      },
+      "accepted_gain": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9696735062588723,
+        "cache_hit": false
+      },
+      "sham_stretch": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9696735062588723,
+        "cache_hit": false
+      },
+      "sham_world": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9696735062588723,
+        "cache_hit": false
+      },
+      "compound4": {
+        "score": 84.5,
+        "events": 2,
+        "category_scores": {
+          "pacing": 79.7,
+          "pauses": 100.0,
+          "intonation": 64.4,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9557846173699834,
+        "cache_hit": false
+      }
+    },
+    "note": "Same source/text, intervention present versus removed (reference), compounds and identity shams. These are synthetic controlled comparisons, not human causal ratings."
+  },
+  {
+    "pair_group_id": "nixon02",
+    "split": "train",
+    "conditions": {
+      "accepted": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9800515165001147,
+        "cache_hit": true
+      },
+      "pace": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.8376555946649407,
+        "cache_hit": false
+      },
+      "intonation": {
+        "score": 95.9,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 85.2,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9800515165001147,
+        "cache_hit": false
+      },
+      "pauses": {
+        "score": 99.4,
+        "events": 2,
+        "category_scores": {
+          "pacing": 99.2,
+          "pauses": 98.1,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9800515165001147,
+        "cache_hit": false
+      },
+      "energy": {
+        "score": 96.8,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 85.8,
+          "clarity": null
+        },
+        "coverage": 0.9800515165001147,
+        "cache_hit": false
+      },
+      "clarity_proxy": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.8336151906245366,
+        "cache_hit": false
+      },
+      "accepted_gain": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9800515165001147,
+        "cache_hit": false
+      },
+      "sham_stretch": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9800515165001147,
+        "cache_hit": false
+      },
+      "sham_world": {
+        "score": 100.0,
+        "events": 2,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9800515165001147,
+        "cache_hit": false
+      },
+      "compound4": {
+        "score": 94.2,
+        "events": 4,
+        "category_scores": {
+          "pacing": 99.1,
+          "pauses": 100.0,
+          "intonation": 79.9,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.8497768067861527,
+        "cache_hit": false
+      }
+    },
+    "note": "Same source/text, intervention present versus removed (reference), compounds and identity shams. These are synthetic controlled comparisons, not human causal ratings."
+  },
+  {
+    "pair_group_id": "fdr01",
+    "split": "train",
+    "conditions": {
+      "accepted": {
+        "score": null,
+        "events": 0,
+        "category_scores": {
+          "pacing": null,
+          "pauses": null,
+          "intonation": null,
+          "energy": null,
+          "clarity": null
+        },
+        "coverage": 0.0,
+        "cache_hit": true
+      },
+      "pace": {
+        "score": null,
+        "events": 0,
+        "category_scores": {
+          "pacing": null,
+          "pauses": null,
+          "intonation": null,
+          "energy": null,
+          "clarity": null
+        },
+        "coverage": 0.0,
+        "cache_hit": false
+      },
+      "intonation": {
+        "score": null,
+        "events": 0,
+        "category_scores": {
+          "pacing": null,
+          "pauses": null,
+          "intonation": null,
+          "energy": null,
+          "clarity": null
+        },
+        "coverage": 0.0,
+        "cache_hit": false
+      },
+      "pauses": {
+        "score": null,
+        "events": 0,
+        "category_scores": {
+          "pacing": null,
+          "pauses": null,
+          "intonation": null,
+          "energy": null,
+          "clarity": null
+        },
+        "coverage": 0.0,
+        "cache_hit": false
+      },
+      "energy": {
+        "score": null,
+        "events": 0,
+        "category_scores": {
+          "pacing": null,
+          "pauses": null,
+          "intonation": null,
+          "energy": null,
+          "clarity": null
+        },
+        "coverage": 0.0,
+        "cache_hit": false
+      },
+      "clarity_proxy": {
+        "score": null,
+        "events": 0,
+        "category_scores": {
+          "pacing": null,
+          "pauses": null,
+          "intonation": null,
+          "energy": null,
+          "clarity": null
+        },
+        "coverage": 0.0,
+        "cache_hit": false
+      },
+      "accepted_gain": {
+        "score": null,
+        "events": 0,
+        "category_scores": {
+          "pacing": null,
+          "pauses": null,
+          "intonation": null,
+          "energy": null,
+          "clarity": null
+        },
+        "coverage": 0.0,
+        "cache_hit": false
+      },
+      "sham_stretch": {
+        "score": null,
+        "events": 0,
+        "category_scores": {
+          "pacing": null,
+          "pauses": null,
+          "intonation": null,
+          "energy": null,
+          "clarity": null
+        },
+        "coverage": 0.0,
+        "cache_hit": false
+      },
+      "sham_world": {
+        "score": null,
+        "events": 0,
+        "category_scores": {
+          "pacing": null,
+          "pauses": null,
+          "intonation": null,
+          "energy": null,
+          "clarity": null
+        },
+        "coverage": 0.0,
+        "cache_hit": false
+      },
+      "compound4": {
+        "score": null,
+        "events": 0,
+        "category_scores": {
+          "pacing": null,
+          "pauses": null,
+          "intonation": null,
+          "energy": null,
+          "clarity": null
+        },
+        "coverage": 0.0,
+        "cache_hit": false
+      }
+    },
+    "note": "Same source/text, intervention present versus removed (reference), compounds and identity shams. These are synthetic controlled comparisons, not human causal ratings."
+  },
+  {
+    "pair_group_id": "reagan01",
+    "split": "validation",
+    "conditions": {
+      "accepted": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 1.0,
+        "cache_hit": true
+      },
+      "pace": {
+        "score": 99.9,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 99.7,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.7852368647717486,
+        "cache_hit": false
+      },
+      "intonation": {
+        "score": 93.2,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 75.7,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 1.0,
+        "cache_hit": false
+      },
+      "pauses": {
+        "score": 99.6,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 98.3,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 1.0,
+        "cache_hit": false
+      },
+      "energy": {
+        "score": 95.6,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 80.4,
+          "clarity": null
+        },
+        "coverage": 1.0,
+        "cache_hit": false
+      },
+      "clarity_proxy": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.7667183462532302,
+        "cache_hit": false
+      },
+      "accepted_gain": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 1.0,
+        "cache_hit": false
+      },
+      "sham_stretch": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 1.0,
+        "cache_hit": false
+      },
+      "sham_world": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 1.0,
+        "cache_hit": false
+      },
+      "compound4": {
+        "score": 97.5,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 90.9,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.7778294573643412,
+        "cache_hit": false
+      }
+    },
+    "note": "Same source/text, intervention present versus removed (reference), compounds and identity shams. These are synthetic controlled comparisons, not human causal ratings."
+  },
+  {
+    "pair_group_id": "reagan02",
+    "split": "validation",
+    "conditions": {
+      "accepted": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9873383200872682,
+        "cache_hit": true
+      },
+      "pace": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.8566424614811714,
+        "cache_hit": false
+      },
+      "intonation": {
+        "score": 96.1,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 85.9,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9873383200872682,
+        "cache_hit": false
+      },
+      "pauses": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9815663143152624,
+        "cache_hit": false
+      },
+      "energy": {
+        "score": 98.7,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 94.3,
+          "clarity": null
+        },
+        "coverage": 0.9873383200872682,
+        "cache_hit": false
+      },
+      "clarity_proxy": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.8479844528231629,
+        "cache_hit": false
+      },
+      "accepted_gain": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9873383200872682,
+        "cache_hit": false
+      },
+      "sham_stretch": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9873383200872682,
+        "cache_hit": false
+      },
+      "sham_world": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9873383200872682,
+        "cache_hit": false
+      },
+      "compound4": {
+        "score": 94.3,
+        "events": 5,
+        "category_scores": {
+          "pacing": 88.5,
+          "pauses": 99.7,
+          "intonation": 91.9,
+          "energy": 99.3,
+          "clarity": null
+        },
+        "coverage": 0.9757943085432567,
+        "cache_hit": false
+      }
+    },
+    "note": "Same source/text, intervention present versus removed (reference), compounds and identity shams. These are synthetic controlled comparisons, not human causal ratings."
+  },
+  {
+    "pair_group_id": "obama01",
+    "split": "test",
+    "conditions": {
+      "accepted": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9905437352245865,
+        "cache_hit": true
+      },
+      "pace": {
+        "score": 100.0,
+        "events": 1,
+        "category_scores": {
+          "pacing": 99.9,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.7473320620901915,
+        "cache_hit": false
+      },
+      "intonation": {
+        "score": 93.7,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 77.2,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9905437352245865,
+        "cache_hit": false
+      },
+      "pauses": {
+        "score": 99.5,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 97.8,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9905437352245865,
+        "cache_hit": false
+      },
+      "energy": {
+        "score": 95.3,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 78.9,
+          "clarity": null
+        },
+        "coverage": 0.9905437352245865,
+        "cache_hit": false
+      },
+      "clarity_proxy": {
+        "score": null,
+        "events": 0,
+        "category_scores": {
+          "pacing": null,
+          "pauses": null,
+          "intonation": null,
+          "energy": null,
+          "clarity": null
+        },
+        "coverage": 0.0,
+        "cache_hit": false
+      },
+      "accepted_gain": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9905437352245865,
+        "cache_hit": false
+      },
+      "sham_stretch": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9905437352245865,
+        "cache_hit": false
+      },
+      "sham_world": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9905437352245865,
+        "cache_hit": false
+      },
+      "compound4": {
+        "score": 86.6,
+        "events": 2,
+        "category_scores": {
+          "pacing": 99.9,
+          "pauses": 100.0,
+          "intonation": 51.9,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.7615164592533121,
+        "cache_hit": false
+      }
+    },
+    "note": "Same source/text, intervention present versus removed (reference), compounds and identity shams. These are synthetic controlled comparisons, not human causal ratings."
+  },
+  {
+    "pair_group_id": "obama02",
+    "split": "test",
+    "conditions": {
+      "accepted": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9942279942279942,
+        "cache_hit": true
+      },
+      "pace": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9165210426678316,
+        "cache_hit": false
+      },
+      "intonation": {
+        "score": 99.4,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 98.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9942279942279942,
+        "cache_hit": false
+      },
+      "pauses": {
+        "score": 99.7,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 98.7,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9942279942279942,
+        "cache_hit": false
+      },
+      "energy": {
+        "score": 98.5,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 93.3,
+          "clarity": null
+        },
+        "coverage": 0.9942279942279942,
+        "cache_hit": false
+      },
+      "clarity_proxy": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.8585086337379918,
+        "cache_hit": false
+      },
+      "accepted_gain": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9942279942279942,
+        "cache_hit": false
+      },
+      "sham_stretch": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9942279942279942,
+        "cache_hit": false
+      },
+      "sham_world": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9942279942279942,
+        "cache_hit": false
+      },
+      "compound4": {
+        "score": 96.1,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 86.1,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.9165210426678316,
+        "cache_hit": false
+      }
+    },
+    "note": "Same source/text, intervention present versus removed (reference), compounds and identity shams. These are synthetic controlled comparisons, not human causal ratings."
+  },
+  {
+    "pair_group_id": "fdr02",
+    "split": "train",
+    "conditions": {
+      "accepted": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.8312802152234159,
+        "cache_hit": true
+      },
+      "pace": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.750003218053464,
+        "cache_hit": false
+      },
+      "intonation": {
+        "score": 99.9,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 99.7,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.8245462084894091,
+        "cache_hit": false
+      },
+      "pauses": {
+        "score": 99.6,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 98.2,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.8312802152234159,
+        "cache_hit": false
+      },
+      "energy": {
+        "score": 98.2,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 92.1,
+          "clarity": null
+        },
+        "coverage": 0.8312802152234159,
+        "cache_hit": false
+      },
+      "clarity_proxy": {
+        "score": 99.9,
+        "events": 1,
+        "category_scores": {
+          "pacing": 99.8,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.7533702214204674,
+        "cache_hit": false
+      },
+      "accepted_gain": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.8312802152234159,
+        "cache_hit": false
+      },
+      "sham_stretch": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.8312802152234159,
+        "cache_hit": false
+      },
+      "sham_world": {
+        "score": 100.0,
+        "events": 0,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.8245462084894091,
+        "cache_hit": false
+      },
+      "compound4": {
+        "score": 100.0,
+        "events": 1,
+        "category_scores": {
+          "pacing": 100.0,
+          "pauses": 100.0,
+          "intonation": 100.0,
+          "energy": 100.0,
+          "clarity": null
+        },
+        "coverage": 0.6655651729381933,
+        "cache_hit": false
+      }
+    },
+    "note": "Same source/text, intervention present versus removed (reference), compounds and identity shams. These are synthetic controlled comparisons, not human causal ratings."
+  }
+]

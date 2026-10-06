@@ -1,0 +1,1194 @@
+[
+  {
+    "recording_id": "jfk01_pace_level3",
+    "event_id": "af16ae0f233dfc2e",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk01_pace_level4",
+    "event_id": "a291c53168187cf8",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk01_pauses_level2",
+    "event_id": "622d4dc09905e01c",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk01_pauses_level3",
+    "event_id": "47d337b163892151",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk01_pauses_level4",
+    "event_id": "edc3fc2d103c8984",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk01_energy_level3",
+    "event_id": "edb1211db9448d79",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk01_energy_level4",
+    "event_id": "edb1211db9448d79",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk01_compound2_level2",
+    "event_id": "b2422b50d7fa107a",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk01_compound4_level4",
+    "event_id": "40a399e0278b6257",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk01_compound4_level4",
+    "event_id": "143213fc336afbb5",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk02_pauses_level3",
+    "event_id": "6cd0faefba1271b1",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk02_pauses_level4",
+    "event_id": "c60279b7dc91514d",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk02_energy_level3",
+    "event_id": "ca9628682bb3ddf7",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk02_energy_level4",
+    "event_id": "ca9628682bb3ddf7",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk02_compound2_level2",
+    "event_id": "eeb77dcd4f49a662",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk02_compound4_level4",
+    "event_id": "eeb77dcd4f49a662",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk03_pace_level2",
+    "event_id": "4e05cd019da8bf9b",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk03_intonation_level2",
+    "event_id": "382bca8da242a4b7",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk03_intonation_level3",
+    "event_id": "382bca8da242a4b7",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk03_intonation_level4",
+    "event_id": "382bca8da242a4b7",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk03_pauses_level3",
+    "event_id": "9e55705fd1a118a7",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk03_pauses_level3",
+    "event_id": "23bc40781e95edfe",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk03_pauses_level4",
+    "event_id": "70a4358998813d35",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk03_pauses_level4",
+    "event_id": "20b325aa90ab5187",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk03_energy_level4",
+    "event_id": "98260c1e8c3b4174",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk03_compound2_level2",
+    "event_id": "6cd3fb7b1bb7e17f",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk03_compound4_level4",
+    "event_id": "49373a0a24053c99",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "jfk03_compound4_level4",
+    "event_id": "2b11838c857d1c2c",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower01_pace_level4",
+    "event_id": "1137edfb4a2d0447",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower01_pace_level4",
+    "event_id": "c13b0146b2aed6c6",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower01_intonation_level2",
+    "event_id": "3d171d948b496b53",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower01_intonation_level3",
+    "event_id": "3d171d948b496b53",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower01_intonation_level4",
+    "event_id": "3d171d948b496b53",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower01_pauses_level3",
+    "event_id": "42fbdc483ecfee84",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower01_pauses_level4",
+    "event_id": "8ffd5a384ab3873a",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower01_energy_level3",
+    "event_id": "0e688df296630aca",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower01_energy_level4",
+    "event_id": "0e688df296630aca",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower01_sham_world_level0",
+    "event_id": "3d171d948b496b53",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower01_compound2_level2",
+    "event_id": "a3682009bddda34e",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower01_compound4_level4",
+    "event_id": "151ddf885c73c54c",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower01_compound4_level4",
+    "event_id": "1954051131e658e8",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower01_compound4_level4",
+    "event_id": "be4c99fa027780c2",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower02_pace_level1",
+    "event_id": "e8801ce373af51ed",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower02_pace_level2",
+    "event_id": "baaf771469cd170d",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower02_pace_level3",
+    "event_id": "76df5f4a793ee3b5",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower02_pace_level4",
+    "event_id": "52ccbea2ac87ffbd",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower02_intonation_level3",
+    "event_id": "83756a9111e5a2ea",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower02_intonation_level4",
+    "event_id": "83756a9111e5a2ea",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower02_pauses_level2",
+    "event_id": "dde1083aa00d5768",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower02_pauses_level4",
+    "event_id": "f7adb20c3a3e6cdb",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower02_pauses_level4",
+    "event_id": "3f7c43d45f32c71c",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower02_energy_level3",
+    "event_id": "b2785aee8e8dba59",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower02_energy_level4",
+    "event_id": "b2785aee8e8dba59",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower02_compound2_level2",
+    "event_id": "2d5579d3c1ce66df",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "eisenhower02_compound4_level4",
+    "event_id": "b64c96d373053f07",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon01_intonation_level3",
+    "event_id": "3f6fe9d587659a1d",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon01_intonation_level4",
+    "event_id": "3f6fe9d587659a1d",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon01_pauses_level3",
+    "event_id": "7882148a91d60c6a",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon01_pauses_level4",
+    "event_id": "4956fdd157217105",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon01_energy_level3",
+    "event_id": "22bfc58d54594061",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon01_energy_level4",
+    "event_id": "f8df2a5e6a7e37f9",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon01_compound4_level4",
+    "event_id": "9bcf4dcf32cbff01",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon01_compound4_level4",
+    "event_id": "cafbb9119a8fd698",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_pace_level1",
+    "event_id": "2295020fac00903f",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_intonation_level1",
+    "event_id": "d9a58902fc41bb66",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_intonation_level1",
+    "event_id": "607d5ca23227d544",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_intonation_level2",
+    "event_id": "d9a58902fc41bb66",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_intonation_level2",
+    "event_id": "607d5ca23227d544",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_intonation_level3",
+    "event_id": "0ea4454de44b39e0",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_intonation_level4",
+    "event_id": "0ea4454de44b39e0",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_pauses_level1",
+    "event_id": "d7f90a6594a61be2",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_pauses_level3",
+    "event_id": "7dbfbf8a32b29b9c",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_pauses_level4",
+    "event_id": "4676ae920bed6120",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_pauses_level4",
+    "event_id": "53db4690b5ecfaee",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_energy_level2",
+    "event_id": "ddeba8e426b5d116",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_energy_level3",
+    "event_id": "d0b2be742e594474",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_energy_level4",
+    "event_id": "d0b2be742e594474",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_sham_world_level0",
+    "event_id": "d9a58902fc41bb66",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_sham_world_level0",
+    "event_id": "607d5ca23227d544",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_compound2_level2",
+    "event_id": "2a5240d73c9d2d01",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_compound2_level2",
+    "event_id": "da9d8f35306f7841",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_compound2_level2",
+    "event_id": "35785453462798e8",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_compound2_level2",
+    "event_id": "37f886962dd1b9e8",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_compound4_level4",
+    "event_id": "2a5240d73c9d2d01",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_compound4_level4",
+    "event_id": "8ade352d442c4076",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_compound4_level4",
+    "event_id": "d181b570e201c555",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "nixon02_compound4_level4",
+    "event_id": "47806b736b576212",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan01_pace_level1",
+    "event_id": "aeb8c70c379b3a95",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan01_pace_level4",
+    "event_id": "445283ad050172aa",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan01_intonation_level3",
+    "event_id": "0875c766d7282b9a",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan01_intonation_level4",
+    "event_id": "0875c766d7282b9a",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan01_pauses_level3",
+    "event_id": "c90cff40cd57a2b8",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan01_pauses_level4",
+    "event_id": "b5209f112ca5a337",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan01_energy_level2",
+    "event_id": "5a4a206f2bc79258",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan01_energy_level3",
+    "event_id": "5a4a206f2bc79258",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan01_energy_level4",
+    "event_id": "5a4a206f2bc79258",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan01_clarity_proxy_level3",
+    "event_id": "a2b8827ac54361a3",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan01_compound2_level2",
+    "event_id": "7f652405270dc5f9",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan01_compound4_level4",
+    "event_id": "7f652405270dc5f9",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan02_intonation_level3",
+    "event_id": "e14f2f5f3f6e0d09",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan02_intonation_level4",
+    "event_id": "e14f2f5f3f6e0d09",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan02_energy_level3",
+    "event_id": "741d6ed5344d58d5",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan02_energy_level4",
+    "event_id": "741d6ed5344d58d5",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan02_clarity_proxy_level3",
+    "event_id": "1340e30423c0bff2",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan02_compound2_level2",
+    "event_id": "d667ff71da78fba0",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan02_compound2_level2",
+    "event_id": "ee727d99c3f93b24",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan02_compound4_level4",
+    "event_id": "d667ff71da78fba0",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan02_compound4_level4",
+    "event_id": "72679b994030928e",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan02_compound4_level4",
+    "event_id": "16eba99a1f0e7cab",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan02_compound4_level4",
+    "event_id": "6fdd1e5f6f7217ad",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "reagan02_compound4_level4",
+    "event_id": "06c7ef555bcaaf6c",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama01_pace_level4",
+    "event_id": "21673bf688d46dac",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama01_intonation_level3",
+    "event_id": "8aedfd9bf2729393",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama01_intonation_level4",
+    "event_id": "8aedfd9bf2729393",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama01_pauses_level4",
+    "event_id": "16e330a4458a13b9",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama01_energy_level3",
+    "event_id": "673da9b5a62c7418",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama01_energy_level4",
+    "event_id": "6003e3cf7a97601c",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama01_clarity_proxy_level2",
+    "event_id": "236205e728f26994",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama01_clarity_proxy_level3",
+    "event_id": "21673bf688d46dac",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama01_clarity_proxy_level3",
+    "event_id": "236205e728f26994",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama01_clarity_proxy_level4",
+    "event_id": "21673bf688d46dac",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama01_compound2_level2",
+    "event_id": "21673bf688d46dac",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama01_compound4_level4",
+    "event_id": "21673bf688d46dac",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama01_compound4_level4",
+    "event_id": "6b926830568d4a95",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama02_intonation_level4",
+    "event_id": "49f6236c11df0f6f",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama02_pauses_level4",
+    "event_id": "90fdad73069ab2eb",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama02_energy_level2",
+    "event_id": "8451cb282a75a2d6",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama02_energy_level3",
+    "event_id": "8451cb282a75a2d6",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama02_energy_level4",
+    "event_id": "8451cb282a75a2d6",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama02_clarity_proxy_level2",
+    "event_id": "30b9ca07d537ead5",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama02_clarity_proxy_level3",
+    "event_id": "30b9ca07d537ead5",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama02_compound2_level2",
+    "event_id": "67235a2de37664ef",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama02_compound4_level4",
+    "event_id": "67235a2de37664ef",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "fdr02_pace_level3",
+    "event_id": "1048460ab6be4206",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "fdr02_pace_level3",
+    "event_id": "92c3525339910255",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "fdr02_intonation_level1",
+    "event_id": "2e0c05aa91f37d5f",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "fdr02_intonation_level4",
+    "event_id": "bd271547c561508d",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "fdr02_pauses_level4",
+    "event_id": "6b491792213fe653",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "fdr02_energy_level3",
+    "event_id": "2190244ce9917ae2",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "fdr02_energy_level4",
+    "event_id": "bcb149d103fb99dd",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "fdr02_clarity_proxy_level3",
+    "event_id": "1048460ab6be4206",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "fdr02_clarity_proxy_level4",
+    "event_id": "1048460ab6be4206",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "fdr02_compound2_level2",
+    "event_id": "bb3b106b0d4f8fff",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "fdr02_compound2_level2",
+    "event_id": "0359c14a92ad6f81",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "fdr02_compound4_level4",
+    "event_id": "bb3b106b0d4f8fff",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama01_heldout_noise_level1",
+    "event_id": "21673bf688d46dac",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama01_heldout_noise_level2",
+    "event_id": "21673bf688d46dac",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama01_heldout_noise_level3",
+    "event_id": "dbf8ae67bfe45d92",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  },
+  {
+    "recording_id": "obama01_heldout_noise_level3",
+    "event_id": "a8556119241612d3",
+    "quote_matches": true,
+    "native_interval_valid": true,
+    "numeric_values_present": true,
+    "rule_and_thresholds_present": true
+  }
+]

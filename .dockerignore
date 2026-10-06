@@ -1,0 +1,12 @@
+.git
+.venv
+.cache
+storage
+frontend/node_modules
+frontend/dist
+data/originals
+demo
+releases
+tmp
+test-results
+*.egg-info

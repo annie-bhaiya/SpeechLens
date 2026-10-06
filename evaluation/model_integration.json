@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "reference_id": "eisenhower01_good",
+  "unpaired_score": null,
+  "unpaired_reference_absent": true,
+  "severe_mismatch_score": null,
+  "severe_mismatch_match_fraction": 0.09090909090909091,
+  "repeated_token_edit_report": [
+    {
+      "operation": "delete",
+      "intended_word_span": [
+        3,
+        4
+      ],
+      "recognized_words": []
+    },
+    {
+      "operation": "replace",
+      "intended_word_span": [
+        18,
+        20
+      ],
+      "recognized_words": [
+        "telivision",
+        "at",
+        "works"
+      ]
+    }
+  ],
+  "mismatched_reference_rejected": true,
+  "model_revision": "22aad52d435eb6dbaf354bdad9b0da84ce7d6156"
+}

@@ -1,0 +1,5538 @@
+[
+  {
+    "recording_id": "jfk01_good",
+    "split": "train",
+    "duration_s": 31.4,
+    "wall_s": 0.39858589999494143,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1339.99609375,
+      "current_resident_mb": 1230.90234375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 33.989432000002125,
+    "cache_hit": true
+  },
+  {
+    "recording_id": "jfk02_good",
+    "split": "train",
+    "duration_s": 34.66,
+    "wall_s": 0.44153899999218993,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1339.99609375,
+      "current_resident_mb": 903.4921875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 29.720830300007947,
+    "cache_hit": true
+  },
+  {
+    "recording_id": "jfk03_good",
+    "split": "train",
+    "duration_s": 52.66,
+    "wall_s": 0.6676181000075303,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1339.99609375,
+      "current_resident_mb": 917.55859375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 45.266352400009055,
+    "cache_hit": true
+  },
+  {
+    "recording_id": "eisenhower01_good",
+    "split": "train",
+    "duration_s": 19.88,
+    "wall_s": 0.45260240000789054,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 130.91015625,
+      "current_resident_mb": 118.875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 0.26883519999682903,
+    "cache_hit": true
+  },
+  {
+    "recording_id": "eisenhower02_good",
+    "split": "train",
+    "duration_s": 26.68,
+    "wall_s": 0.8485244000039529,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1339.99609375,
+      "current_resident_mb": 898.65234375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 26.780459500005236,
+    "cache_hit": true
+  },
+  {
+    "recording_id": "nixon01_good",
+    "split": "train",
+    "duration_s": 20.3,
+    "wall_s": 0.7236105999909341,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1339.99609375,
+      "current_resident_mb": 916.19140625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 28.453712299990002,
+    "cache_hit": true
+  },
+  {
+    "recording_id": "nixon02_good",
+    "split": "train",
+    "duration_s": 21.02,
+    "wall_s": 0.7713565999874845,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1339.99609375,
+      "current_resident_mb": 947.07421875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 23.082623100024648,
+    "cache_hit": true
+  },
+  {
+    "recording_id": "fdr01_good",
+    "split": "train",
+    "duration_s": 45.16,
+    "wall_s": 2.270626599987736,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 379.22265625,
+      "current_resident_mb": 226.91796875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 22.32738609999069,
+    "cache_hit": true
+  },
+  {
+    "recording_id": "reagan01_good",
+    "split": "validation",
+    "duration_s": 24.76,
+    "wall_s": 0.8413149999978486,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 962.4453125,
+      "current_resident_mb": 871.40625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.362720400007674,
+    "cache_hit": true
+  },
+  {
+    "recording_id": "reagan02_good",
+    "split": "validation",
+    "duration_s": 33.96,
+    "wall_s": 1.2277257999812718,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1181.65234375,
+      "current_resident_mb": 896.35546875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 23.998714300018037,
+    "cache_hit": true
+  },
+  {
+    "recording_id": "obama01_good",
+    "split": "test",
+    "duration_s": 19.4,
+    "wall_s": 0.7097158000105992,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1181.65234375,
+      "current_resident_mb": 908.87109375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 10.877019800012931,
+    "cache_hit": true
+  },
+  {
+    "recording_id": "obama02_good",
+    "split": "test",
+    "duration_s": 32.98,
+    "wall_s": 1.4490861999802291,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1354.05859375,
+      "current_resident_mb": 1227.19921875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 9.990897200012114,
+    "cache_hit": true
+  },
+  {
+    "recording_id": "fdr02_good",
+    "split": "train",
+    "duration_s": 46.16,
+    "wall_s": 1.605035599990515,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1407.640625,
+      "current_resident_mb": 1243.25,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 26.044883499998832,
+    "cache_hit": true
+  },
+  {
+    "recording_id": "jfk01_pace_level1",
+    "split": "train",
+    "duration_s": 30.97975,
+    "wall_s": 0.5103590000071563,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 2250.0703125,
+      "current_resident_mb": 1128.5546875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 71.81794839998474,
+    "cache_hit": true
+  },
+  {
+    "recording_id": "jfk01_pace_level2",
+    "split": "train",
+    "duration_s": 30.38875,
+    "wall_s": 0.4975437000102829,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 2250.0703125,
+      "current_resident_mb": 1380.09375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 52.56206189998193,
+    "cache_hit": true
+  },
+  {
+    "recording_id": "jfk01_pace_level3",
+    "split": "train",
+    "duration_s": 29.7608125,
+    "wall_s": 0.4997428999922704,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 2250.0703125,
+      "current_resident_mb": 2008.359375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 40.48068880001665,
+    "cache_hit": true
+  },
+  {
+    "recording_id": "jfk01_pace_level4",
+    "split": "train",
+    "duration_s": 29.0685625,
+    "wall_s": 0.4867894999915734,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 2250.0703125,
+      "current_resident_mb": 1999.41796875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 38.94616950000636,
+    "cache_hit": true
+  },
+  {
+    "recording_id": "jfk01_intonation_level1",
+    "split": "train",
+    "duration_s": 31.4,
+    "wall_s": 0.48889549999148585,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 2250.0703125,
+      "current_resident_mb": 1148.30859375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 60.31837839999935,
+    "cache_hit": true
+  },
+  {
+    "recording_id": "jfk01_intonation_level2",
+    "split": "train",
+    "duration_s": 31.4,
+    "wall_s": 0.4788756000052672,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 2250.0703125,
+      "current_resident_mb": 1696.84375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 44.211633900005836,
+    "cache_hit": true
+  },
+  {
+    "recording_id": "jfk01_intonation_level3",
+    "split": "train",
+    "duration_s": 31.4,
+    "wall_s": 15.651960199989844,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 325.5234375,
+      "current_resident_mb": 215.47265625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.521420300006866,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk01_intonation_level4",
+    "split": "train",
+    "duration_s": 31.4,
+    "wall_s": 15.564748500008136,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 325.8671875,
+      "current_resident_mb": 215.73046875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.438845800003037,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk01_pauses_level1",
+    "split": "train",
+    "duration_s": 31.5518125,
+    "wall_s": 29.121510099997977,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 992.9375,
+      "current_resident_mb": 882.91015625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 29.04080299998168,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk01_pauses_level2",
+    "split": "train",
+    "duration_s": 31.9061875,
+    "wall_s": 29.288159499992616,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 993.23046875,
+      "current_resident_mb": 883.75,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 29.20350890001282,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk01_pauses_level3",
+    "split": "train",
+    "duration_s": 32.49975,
+    "wall_s": 24.818877500016242,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1088.3125,
+      "current_resident_mb": 974.671875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.729468900011852,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk01_pauses_level4",
+    "split": "train",
+    "duration_s": 33.3979375,
+    "wall_s": 25.11526550000417,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1076.12109375,
+      "current_resident_mb": 885.72265625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 25.009450999990804,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk01_energy_level1",
+    "split": "train",
+    "duration_s": 31.4,
+    "wall_s": 15.090140099986456,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1264.22265625,
+      "current_resident_mb": 1145.62109375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.958100699994247,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk01_energy_level2",
+    "split": "train",
+    "duration_s": 31.4,
+    "wall_s": 15.347690800001146,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1262.35546875,
+      "current_resident_mb": 1144.63671875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.20029579999391,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk01_energy_level3",
+    "split": "train",
+    "duration_s": 31.4,
+    "wall_s": 17.06449469999643,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1176.421875,
+      "current_resident_mb": 886.55859375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 16.9800610000093,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk01_energy_level4",
+    "split": "train",
+    "duration_s": 31.4,
+    "wall_s": 17.469710100005614,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1171.90625,
+      "current_resident_mb": 869.22265625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 17.376402599998983,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk01_clarity_proxy_level1",
+    "split": "train",
+    "duration_s": 31.4,
+    "wall_s": 16.532299000013154,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1264.22265625,
+      "current_resident_mb": 893.94921875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 16.449974299990572,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk01_clarity_proxy_level2",
+    "split": "train",
+    "duration_s": 31.4,
+    "wall_s": 16.277838500012876,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1262.35546875,
+      "current_resident_mb": 891.87890625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 16.193711600004463,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk01_clarity_proxy_level3",
+    "split": "train",
+    "duration_s": 31.4,
+    "wall_s": 14.032320600003004,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1263.8828125,
+      "current_resident_mb": 1144.1171875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 13.949508799996693,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk01_clarity_proxy_level4",
+    "split": "train",
+    "duration_s": 31.4,
+    "wall_s": 14.093304000009084,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1199.6328125,
+      "current_resident_mb": 1079.8671875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.00398160002078,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk01_accepted_gain_level0",
+    "split": "train",
+    "duration_s": 31.4,
+    "wall_s": 14.322259800013853,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1266.515625,
+      "current_resident_mb": 1145.140625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.231168099999195,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk01_sham_stretch_level0",
+    "split": "train",
+    "duration_s": 31.4,
+    "wall_s": 14.236777299985988,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1262.35546875,
+      "current_resident_mb": 1082.01171875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.146643900021445,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk01_sham_world_level0",
+    "split": "train",
+    "duration_s": 31.4,
+    "wall_s": 14.209662300010677,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1263.8828125,
+      "current_resident_mb": 1081.05859375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.126909500017064,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk01_compound2_level2",
+    "split": "train",
+    "duration_s": 32.68,
+    "wall_s": 15.58202820000588,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1292.09765625,
+      "current_resident_mb": 1167.1953125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.440322599984938,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk01_compound4_level4",
+    "split": "train",
+    "duration_s": 35.24,
+    "wall_s": 17.925147499976447,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1342.57421875,
+      "current_resident_mb": 1208.83984375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 17.78606819998822,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_pace_level1",
+    "split": "train",
+    "duration_s": 34.278625,
+    "wall_s": 17.639143000007607,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1327.46875,
+      "current_resident_mb": 1195.5859375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 17.487311800010502,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_pace_level2",
+    "split": "train",
+    "duration_s": 34.0044375,
+    "wall_s": 24.749070399993798,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1263.8828125,
+      "current_resident_mb": 896.0546875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.585155000007944,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_pace_level3",
+    "split": "train",
+    "duration_s": 33.4803125,
+    "wall_s": 24.80781399999978,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1292.09765625,
+      "current_resident_mb": 982.49609375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.654748999979347,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_pace_level4",
+    "split": "train",
+    "duration_s": 32.8703125,
+    "wall_s": 24.49797180001042,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1327.46875,
+      "current_resident_mb": 909.01171875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.34831940001459,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_intonation_level1",
+    "split": "train",
+    "duration_s": 34.66,
+    "wall_s": 25.644758500013268,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1342.57421875,
+      "current_resident_mb": 919.328125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 25.490376300003845,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_intonation_level2",
+    "split": "train",
+    "duration_s": 34.66,
+    "wall_s": 20.970247599994764,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1263.8828125,
+      "current_resident_mb": 915.87109375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 20.877898199978517,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_intonation_level3",
+    "split": "train",
+    "duration_s": 34.66,
+    "wall_s": 19.869290799979353,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1292.09765625,
+      "current_resident_mb": 907.28125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 19.76282840000931,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_intonation_level4",
+    "split": "train",
+    "duration_s": 34.66,
+    "wall_s": 17.34627010000986,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1327.46875,
+      "current_resident_mb": 1137.08203125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 17.229663200007053,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_pauses_level1",
+    "split": "train",
+    "duration_s": 34.8125625,
+    "wall_s": 16.53002320000087,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1342.57421875,
+      "current_resident_mb": 1208.08984375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 16.415742699988186,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_pauses_level2",
+    "split": "train",
+    "duration_s": 35.159625,
+    "wall_s": 20.698708100011572,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1349.99609375,
+      "current_resident_mb": 1216.203125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 20.52838370000245,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_pauses_level3",
+    "split": "train",
+    "duration_s": 35.750125,
+    "wall_s": 21.627075900003547,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1361.38671875,
+      "current_resident_mb": 1224.5390625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 21.470057800004724,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_pauses_level4",
+    "split": "train",
+    "duration_s": 36.692,
+    "wall_s": 22.84532169997692,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1374.7734375,
+      "current_resident_mb": 1237.90234375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 22.685146300005727,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_energy_level1",
+    "split": "train",
+    "duration_s": 34.66,
+    "wall_s": 21.77076990000205,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1347.40625,
+      "current_resident_mb": 1213.62109375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 21.62500430000364,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_energy_level2",
+    "split": "train",
+    "duration_s": 34.66,
+    "wall_s": 24.76257460002671,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1349.99609375,
+      "current_resident_mb": 920.21484375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.604275099991355,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_energy_level3",
+    "split": "train",
+    "duration_s": 34.66,
+    "wall_s": 25.00679330001003,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1361.38671875,
+      "current_resident_mb": 917.984375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.843274300015764,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_energy_level4",
+    "split": "train",
+    "duration_s": 34.66,
+    "wall_s": 25.01054970000405,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1347.40625,
+      "current_resident_mb": 917.86328125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.869699600007152,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_clarity_proxy_level1",
+    "split": "train",
+    "duration_s": 34.66,
+    "wall_s": 25.056509899994126,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1374.7734375,
+      "current_resident_mb": 923.67578125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.900004299997818,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_clarity_proxy_level2",
+    "split": "train",
+    "duration_s": 34.66,
+    "wall_s": 24.575742100016214,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1349.99609375,
+      "current_resident_mb": 919.4296875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.40461480000522,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_clarity_proxy_level3",
+    "split": "train",
+    "duration_s": 34.66,
+    "wall_s": 25.08221439999761,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1361.38671875,
+      "current_resident_mb": 919.140625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.91880260000471,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_clarity_proxy_level4",
+    "split": "train",
+    "duration_s": 34.66,
+    "wall_s": 25.138600200007204,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1347.40625,
+      "current_resident_mb": 913.3515625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.995811000000685,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_accepted_gain_level0",
+    "split": "train",
+    "duration_s": 34.66,
+    "wall_s": 25.246736900007818,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1374.7734375,
+      "current_resident_mb": 921.61328125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 25.088762600003975,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_sham_stretch_level0",
+    "split": "train",
+    "duration_s": 34.66,
+    "wall_s": 24.920812399999704,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1349.99609375,
+      "current_resident_mb": 915.76953125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.758587400021497,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_sham_world_level0",
+    "split": "train",
+    "duration_s": 34.66,
+    "wall_s": 25.457142600003863,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1361.38671875,
+      "current_resident_mb": 914.35546875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 25.30786599998828,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_compound2_level2",
+    "split": "train",
+    "duration_s": 35.604,
+    "wall_s": 25.680549600016093,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1347.40625,
+      "current_resident_mb": 913.12890625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 25.574589900003048,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk02_compound4_level4",
+    "split": "train",
+    "duration_s": 37.492,
+    "wall_s": 27.162799500016263,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1374.7734375,
+      "current_resident_mb": 919.0703125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 27.00873140001204,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_pace_level1",
+    "split": "train",
+    "duration_s": 52.389875,
+    "wall_s": 33.822119999997085,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1384.65625,
+      "current_resident_mb": 1194.125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 33.697523800015915,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_pace_level2",
+    "split": "train",
+    "duration_s": 52.1525,
+    "wall_s": 32.73921490000794,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1361.38671875,
+      "current_resident_mb": 1024.46484375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 32.59899530000985,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_pace_level3",
+    "split": "train",
+    "duration_s": 51.722625,
+    "wall_s": 33.236214300006395,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1347.40625,
+      "current_resident_mb": 1024.69140625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 33.09005860000616,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_pace_level4",
+    "split": "train",
+    "duration_s": 51.33575,
+    "wall_s": 32.56100350001361,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1374.7734375,
+      "current_resident_mb": 921.56640625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 32.42066950001754,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_intonation_level1",
+    "split": "train",
+    "duration_s": 52.66,
+    "wall_s": 24.506638199993176,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1259.109375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.377244100003736,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_intonation_level2",
+    "split": "train",
+    "duration_s": 52.66,
+    "wall_s": 24.859387300006347,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1263.28125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.71620460000122,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_intonation_level3",
+    "split": "train",
+    "duration_s": 52.66,
+    "wall_s": 25.578618900006404,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1455.79296875,
+      "current_resident_mb": 1265.234375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 25.376292100001592,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_intonation_level4",
+    "split": "train",
+    "duration_s": 52.66,
+    "wall_s": 25.461252999986755,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1455.1640625,
+      "current_resident_mb": 1265.74609375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 25.248077899974305,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_pauses_level1",
+    "split": "train",
+    "duration_s": 52.8093125,
+    "wall_s": 32.45602499999222,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 966.0546875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 32.24014189999434,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_pauses_level2",
+    "split": "train",
+    "duration_s": 53.1661875,
+    "wall_s": 36.321237199997995,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1019.4609375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 36.1046803999925,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_pauses_level3",
+    "split": "train",
+    "duration_s": 53.77275,
+    "wall_s": 37.15950409998186,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1455.79296875,
+      "current_resident_mb": 970.64453125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 36.96212900002138,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_pauses_level4",
+    "split": "train",
+    "duration_s": 54.693,
+    "wall_s": 37.60353100000066,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1455.1640625,
+      "current_resident_mb": 944.3515625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 37.37866099999519,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_energy_level1",
+    "split": "train",
+    "duration_s": 52.66,
+    "wall_s": 35.81494109999039,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1022.7734375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 35.590903300006175,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_energy_level2",
+    "split": "train",
+    "duration_s": 52.66,
+    "wall_s": 36.08579680000548,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1044.828125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 35.87270410000929,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_energy_level3",
+    "split": "train",
+    "duration_s": 52.66,
+    "wall_s": 36.23188219999429,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1455.79296875,
+      "current_resident_mb": 1048.984375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 36.0338308000064,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_energy_level4",
+    "split": "train",
+    "duration_s": 52.66,
+    "wall_s": 35.99269290000666,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1455.1640625,
+      "current_resident_mb": 1052.6640625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 35.77206900002784,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_clarity_proxy_level1",
+    "split": "train",
+    "duration_s": 52.66,
+    "wall_s": 35.769875500001945,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1023.76953125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 35.55222879999201,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_clarity_proxy_level2",
+    "split": "train",
+    "duration_s": 52.66,
+    "wall_s": 36.25311859999783,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1019.953125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 36.032266400026856,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_clarity_proxy_level3",
+    "split": "train",
+    "duration_s": 52.66,
+    "wall_s": 35.939920400007395,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1455.79296875,
+      "current_resident_mb": 1024.87109375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 35.806325100013055,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_clarity_proxy_level4",
+    "split": "train",
+    "duration_s": 52.66,
+    "wall_s": 35.52119629998924,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1455.1640625,
+      "current_resident_mb": 1027.78125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 35.374440199986566,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_accepted_gain_level0",
+    "split": "train",
+    "duration_s": 52.66,
+    "wall_s": 29.4138047999877,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1023.5546875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 29.290618600003654,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_sham_stretch_level0",
+    "split": "train",
+    "duration_s": 52.66,
+    "wall_s": 26.13157660001889,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1136.421875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 25.914858200005256,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_sham_world_level0",
+    "split": "train",
+    "duration_s": 52.66,
+    "wall_s": 24.60578529999475,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1273.390625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.402932600001805,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_compound2_level2",
+    "split": "train",
+    "duration_s": 53.388,
+    "wall_s": 24.880195899982937,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1278.8125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.657854999997653,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "jfk03_compound4_level4",
+    "split": "train",
+    "duration_s": 54.844,
+    "wall_s": 35.41859580000164,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 944.79296875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 35.1963989000069,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_pace_level1",
+    "split": "train",
+    "duration_s": 20.104875,
+    "wall_s": 13.667696599994088,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 940.40234375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 13.56188170000678,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_pace_level2",
+    "split": "train",
+    "duration_s": 20.450375,
+    "wall_s": 14.707929399999557,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 962.19140625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.591980400000466,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_pace_level3",
+    "split": "train",
+    "duration_s": 20.8850625,
+    "wall_s": 14.881723900005454,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 942.35546875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.774773400014965,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_pace_level4",
+    "split": "train",
+    "duration_s": 21.632375,
+    "wall_s": 10.155109799990896,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1303.60546875,
+      "current_resident_mb": 1214.44140625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 20.86372389999451,
+    "cache_hit": true
+  },
+  {
+    "recording_id": "eisenhower01_intonation_level1",
+    "split": "train",
+    "duration_s": 19.88,
+    "wall_s": 13.44893189999857,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 958.4140625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 13.348130699974718,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_intonation_level2",
+    "split": "train",
+    "duration_s": 19.88,
+    "wall_s": 13.551336999982595,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 963.640625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 13.45635819999734,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_intonation_level3",
+    "split": "train",
+    "duration_s": 19.88,
+    "wall_s": 13.25323629999184,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 955.8671875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 13.14832700000261,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_intonation_level4",
+    "split": "train",
+    "duration_s": 19.88,
+    "wall_s": 13.660982099972898,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 953.7734375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 13.552611899998737,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_pauses_level1",
+    "split": "train",
+    "duration_s": 20.0316875,
+    "wall_s": 14.018221500009531,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 944.47265625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 13.9062292999879,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_pauses_level2",
+    "split": "train",
+    "duration_s": 20.373875,
+    "wall_s": 14.556996799976332,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 955.9765625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.43889640000998,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_pauses_level3",
+    "split": "train",
+    "duration_s": 20.9713125,
+    "wall_s": 14.858938100020168,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 944.1875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.754045100009535,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_pauses_level4",
+    "split": "train",
+    "duration_s": 21.8675625,
+    "wall_s": 15.821924599993508,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 969.3828125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.721311200002674,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_energy_level1",
+    "split": "train",
+    "duration_s": 19.88,
+    "wall_s": 14.456334799993783,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 934.70703125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.361975400010124,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_energy_level2",
+    "split": "train",
+    "duration_s": 19.88,
+    "wall_s": 14.171022199996514,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 969.41015625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.069664899987401,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_energy_level3",
+    "split": "train",
+    "duration_s": 19.88,
+    "wall_s": 13.278939199983142,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 960.03125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 13.222038400010206,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_energy_level4",
+    "split": "train",
+    "duration_s": 19.88,
+    "wall_s": 10.130048400023952,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 963.6640625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 10.073701700021047,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_clarity_proxy_level1",
+    "split": "train",
+    "duration_s": 19.88,
+    "wall_s": 9.887238099996466,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 962.16015625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 9.824871999997413,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_clarity_proxy_level2",
+    "split": "train",
+    "duration_s": 19.88,
+    "wall_s": 9.419130800000858,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1113.6484375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 9.278924000012921,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_clarity_proxy_level3",
+    "split": "train",
+    "duration_s": 19.88,
+    "wall_s": 9.557313400000567,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1104.7421875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 9.462845100002596,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_clarity_proxy_level4",
+    "split": "train",
+    "duration_s": 19.88,
+    "wall_s": 14.728015000000596,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 933.65234375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.613176499988185,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_accepted_gain_level0",
+    "split": "train",
+    "duration_s": 19.88,
+    "wall_s": 15.047154600004433,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 935.5546875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.941214399994351,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_sham_stretch_level0",
+    "split": "train",
+    "duration_s": 19.88,
+    "wall_s": 15.108801900001708,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 968.79296875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.998160799994366,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_sham_world_level0",
+    "split": "train",
+    "duration_s": 19.88,
+    "wall_s": 15.763296300021466,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 933.5703125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.593693300004816,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_compound2_level2",
+    "split": "train",
+    "duration_s": 20.452,
+    "wall_s": 17.056468399998266,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 951.51171875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 16.950731499993708,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower01_compound4_level4",
+    "split": "train",
+    "duration_s": 21.596,
+    "wall_s": 18.514899799978593,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 971.82421875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 18.38890829999582,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_pace_level1",
+    "split": "train",
+    "duration_s": 26.7625625,
+    "wall_s": 22.730379499989795,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 930.71484375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 22.58751990000019,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_pace_level2",
+    "split": "train",
+    "duration_s": 26.827875,
+    "wall_s": 21.66719170002034,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 935.9296875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 21.531163299980108,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_pace_level3",
+    "split": "train",
+    "duration_s": 26.999375,
+    "wall_s": 18.7663232999912,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 936.0390625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 18.6938255999994,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_pace_level4",
+    "split": "train",
+    "duration_s": 27.215,
+    "wall_s": 18.46758709999267,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 937.23046875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 18.381931200012332,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_intonation_level1",
+    "split": "train",
+    "duration_s": 26.68,
+    "wall_s": 15.494772500009276,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1041.73046875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.401538599980995,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_intonation_level2",
+    "split": "train",
+    "duration_s": 26.68,
+    "wall_s": 14.041168399999151,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1034.17578125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 13.946425900008762,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_intonation_level3",
+    "split": "train",
+    "duration_s": 26.68,
+    "wall_s": 15.448961199988844,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1127.3046875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.320561900007306,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_intonation_level4",
+    "split": "train",
+    "duration_s": 26.68,
+    "wall_s": 16.040006299997913,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1125.9921875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.909496200009016,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_pauses_level1",
+    "split": "train",
+    "duration_s": 26.8286875,
+    "wall_s": 17.692127699992852,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 947.03515625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 17.56176250000135,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_pauses_level2",
+    "split": "train",
+    "duration_s": 27.185,
+    "wall_s": 19.315241900010733,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 943.078125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 19.165034999983618,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_pauses_level3",
+    "split": "train",
+    "duration_s": 27.7993125,
+    "wall_s": 19.94566319999285,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 948.51953125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 19.822691999987,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_pauses_level4",
+    "split": "train",
+    "duration_s": 28.7153125,
+    "wall_s": 20.9863139000081,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 953.39453125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 20.860568899981445,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_energy_level1",
+    "split": "train",
+    "duration_s": 26.68,
+    "wall_s": 19.670386800018605,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 949.80078125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 19.53769349999493,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_energy_level2",
+    "split": "train",
+    "duration_s": 26.68,
+    "wall_s": 19.39056690002326,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 938.6328125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 19.29547419998562,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_energy_level3",
+    "split": "train",
+    "duration_s": 26.68,
+    "wall_s": 17.407039000012446,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 953.0625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 17.323012699984247,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_energy_level4",
+    "split": "train",
+    "duration_s": 26.68,
+    "wall_s": 16.921607800002676,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 950.01171875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 16.828352899989113,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_clarity_proxy_level1",
+    "split": "train",
+    "duration_s": 26.68,
+    "wall_s": 15.494618800003082,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1047.23046875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.403200800006744,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_clarity_proxy_level2",
+    "split": "train",
+    "duration_s": 26.68,
+    "wall_s": 14.784636300028069,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1125.54296875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.679972099984298,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_clarity_proxy_level3",
+    "split": "train",
+    "duration_s": 26.68,
+    "wall_s": 14.82335800002329,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1134.60546875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.743280199996661,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_clarity_proxy_level4",
+    "split": "train",
+    "duration_s": 26.68,
+    "wall_s": 14.952420300018275,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1133.703125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.864773999986937,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_accepted_gain_level0",
+    "split": "train",
+    "duration_s": 26.68,
+    "wall_s": 15.24114090000512,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1133.515625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.128229699999793,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_sham_stretch_level0",
+    "split": "train",
+    "duration_s": 26.68,
+    "wall_s": 14.954736600018805,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1125.54296875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.864517900015926,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_sham_world_level0",
+    "split": "train",
+    "duration_s": 26.68,
+    "wall_s": 14.248340099991765,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1134.57421875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.167801700008567,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_compound2_level2",
+    "split": "train",
+    "duration_s": 26.86,
+    "wall_s": 15.277425699983723,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 955.296875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.18859939998947,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "eisenhower02_compound4_level4",
+    "split": "train",
+    "duration_s": 27.22,
+    "wall_s": 14.944513599999482,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 944.0703125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.849513300025137,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_pace_level1",
+    "split": "train",
+    "duration_s": 20.0435625,
+    "wall_s": 11.106681200006278,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1120.75,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 11.044452000001911,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_pace_level2",
+    "split": "train",
+    "duration_s": 19.77825,
+    "wall_s": 11.426181299990276,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1047.66015625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 11.310313800000586,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_pace_level3",
+    "split": "train",
+    "duration_s": 19.421625,
+    "wall_s": 12.455699600017397,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1121.5625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 12.355103699985193,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_pace_level4",
+    "split": "train",
+    "duration_s": 18.938875,
+    "wall_s": 12.459892999992007,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1120.46484375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 12.349998799996683,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_intonation_level1",
+    "split": "train",
+    "duration_s": 20.3,
+    "wall_s": 13.656689399998868,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1135.578125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 13.53748880000785,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_intonation_level2",
+    "split": "train",
+    "duration_s": 20.3,
+    "wall_s": 15.196015599998645,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 970.71484375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.09023089997936,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_intonation_level3",
+    "split": "train",
+    "duration_s": 20.3,
+    "wall_s": 15.274371299979975,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 966.08984375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.17028879999998,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_intonation_level4",
+    "split": "train",
+    "duration_s": 20.3,
+    "wall_s": 15.108565600006841,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 995.63671875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.009240799990948,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_pauses_level1",
+    "split": "train",
+    "duration_s": 20.4524375,
+    "wall_s": 14.928783200011821,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 982.84375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.798509100015508,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_pauses_level2",
+    "split": "train",
+    "duration_s": 20.801375,
+    "wall_s": 15.28591440001037,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 972.2578125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.181180199986557,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_pauses_level3",
+    "split": "train",
+    "duration_s": 21.4040625,
+    "wall_s": 16.330938900006004,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 986.765625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 16.2306452000048,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_pauses_level4",
+    "split": "train",
+    "duration_s": 22.290875,
+    "wall_s": 17.016209699999308,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 952.04296875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 16.905151899991324,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_energy_level1",
+    "split": "train",
+    "duration_s": 20.3,
+    "wall_s": 15.517683699988993,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1000.55078125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.40400859998772,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_energy_level2",
+    "split": "train",
+    "duration_s": 20.3,
+    "wall_s": 14.683871900022496,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1001.7578125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.580583700007992,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_energy_level3",
+    "split": "train",
+    "duration_s": 20.3,
+    "wall_s": 14.917871800018474,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 997.57421875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.818478300003335,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_energy_level4",
+    "split": "train",
+    "duration_s": 20.3,
+    "wall_s": 15.18596350000007,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 980.453125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.08082080000895,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_clarity_proxy_level1",
+    "split": "train",
+    "duration_s": 20.3,
+    "wall_s": 15.085933299997123,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1001.49609375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.982124700007262,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_clarity_proxy_level2",
+    "split": "train",
+    "duration_s": 20.3,
+    "wall_s": 15.199342200008687,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 977.87890625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.091799499990884,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_clarity_proxy_level3",
+    "split": "train",
+    "duration_s": 20.3,
+    "wall_s": 16.331491200020537,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 972.51953125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 16.219950900005642,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_clarity_proxy_level4",
+    "split": "train",
+    "duration_s": 20.3,
+    "wall_s": 16.166753700003028,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1003.2890625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 16.05862419999903,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_accepted_gain_level0",
+    "split": "train",
+    "duration_s": 20.3,
+    "wall_s": 16.244722000003094,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 977.60546875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 16.11380379999173,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_sham_stretch_level0",
+    "split": "train",
+    "duration_s": 20.3,
+    "wall_s": 15.551697999995667,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 976.6640625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.452897700015455,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_sham_world_level0",
+    "split": "train",
+    "duration_s": 20.3,
+    "wall_s": 15.650197900016792,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 996.36328125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.531981200008886,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_compound2_level2",
+    "split": "train",
+    "duration_s": 21.008,
+    "wall_s": 16.541457299987087,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 994.87109375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 16.422182300011627,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon01_compound4_level4",
+    "split": "train",
+    "duration_s": 22.424,
+    "wall_s": 17.641270299995085,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 954.36328125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 17.52519369998481,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_pace_level1",
+    "split": "train",
+    "duration_s": 20.9018125,
+    "wall_s": 15.84929519999423,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 978.69140625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.745222500001546,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_pace_level2",
+    "split": "train",
+    "duration_s": 20.6695,
+    "wall_s": 15.69966100002057,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 989.34375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.597601799992844,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_pace_level3",
+    "split": "train",
+    "duration_s": 20.482375,
+    "wall_s": 15.665338299993891,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1010.66796875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.554650500009302,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_pace_level4",
+    "split": "train",
+    "duration_s": 20.21425,
+    "wall_s": 15.264247700019041,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 988.6484375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.144248200027505,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_intonation_level1",
+    "split": "train",
+    "duration_s": 21.02,
+    "wall_s": 15.298676400008844,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1008.34765625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.229904899984831,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_intonation_level2",
+    "split": "train",
+    "duration_s": 21.02,
+    "wall_s": 15.249712699995143,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 953.26171875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.134572900016792,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_intonation_level3",
+    "split": "train",
+    "duration_s": 21.02,
+    "wall_s": 14.192796000017552,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1016.07421875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.085153099993477,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_intonation_level4",
+    "split": "train",
+    "duration_s": 21.02,
+    "wall_s": 13.598994599975413,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1163.39453125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 13.483370700007072,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_pauses_level1",
+    "split": "train",
+    "duration_s": 21.1699375,
+    "wall_s": 14.29410959998495,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1011.5625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.211724900000263,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_pauses_level2",
+    "split": "train",
+    "duration_s": 21.51275,
+    "wall_s": 15.480121200002031,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1010.33984375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.382698100002017,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_pauses_level3",
+    "split": "train",
+    "duration_s": 22.10625,
+    "wall_s": 15.618259500013664,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 971.79296875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.529592900013085,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_pauses_level4",
+    "split": "train",
+    "duration_s": 23.0095,
+    "wall_s": 16.342895500012673,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1049.8203125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 16.053828200005228,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_energy_level1",
+    "split": "train",
+    "duration_s": 21.02,
+    "wall_s": 14.865368300001137,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1160.25,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.64630959997885,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_energy_level2",
+    "split": "train",
+    "duration_s": 21.02,
+    "wall_s": 18.650711800000863,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1157.55078125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 18.49089320001076,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_energy_level3",
+    "split": "train",
+    "duration_s": 21.02,
+    "wall_s": 20.959036499989452,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1014.06640625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 20.849750499997754,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_energy_level4",
+    "split": "train",
+    "duration_s": 21.02,
+    "wall_s": 22.279858599998988,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1010.70703125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 22.11543810000876,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_clarity_proxy_level1",
+    "split": "train",
+    "duration_s": 21.02,
+    "wall_s": 20.725597699987702,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1005.3828125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 20.650499600014882,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_clarity_proxy_level2",
+    "split": "train",
+    "duration_s": 21.02,
+    "wall_s": 20.507681599992793,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1009.40234375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 20.34318739999435,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_clarity_proxy_level3",
+    "split": "train",
+    "duration_s": 21.02,
+    "wall_s": 20.31157419999363,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1023.10546875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 20.19150010001613,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_clarity_proxy_level4",
+    "split": "train",
+    "duration_s": 21.02,
+    "wall_s": 19.583276899997145,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1168.76171875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 19.391130100004375,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_accepted_gain_level0",
+    "split": "train",
+    "duration_s": 21.02,
+    "wall_s": 21.975887000007788,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1011.89453125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 21.800550499989185,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_sham_stretch_level0",
+    "split": "train",
+    "duration_s": 21.02,
+    "wall_s": 20.880990300007397,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1002.87109375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 20.772289000015007,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_sham_world_level0",
+    "split": "train",
+    "duration_s": 21.02,
+    "wall_s": 19.774940100003732,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1015.6640625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 19.67442709999159,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_compound2_level2",
+    "split": "train",
+    "duration_s": 21.444,
+    "wall_s": 19.60535890000756,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1024.00390625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 19.487959500023862,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "nixon02_compound4_level4",
+    "split": "train",
+    "duration_s": 22.292,
+    "wall_s": 19.5435307000007,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 966.23828125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 19.396807099983562,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_pace_level1",
+    "split": "train",
+    "duration_s": 45.491375,
+    "wall_s": 36.27773810000508,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 982.734375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 36.088046699995175,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_pace_level2",
+    "split": "train",
+    "duration_s": 46.028125,
+    "wall_s": 36.470246299984865,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 994.1640625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 36.284234400023706,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_pace_level3",
+    "split": "train",
+    "duration_s": 46.9966875,
+    "wall_s": 36.99769570000353,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1004.73828125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 36.79720990001806,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_pace_level4",
+    "split": "train",
+    "duration_s": 48.4019375,
+    "wall_s": 38.32912939999369,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 997.2109375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 38.01093769998988,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_intonation_level1",
+    "split": "train",
+    "duration_s": 45.16,
+    "wall_s": 36.89577630002168,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 987.61328125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 36.699205899989465,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_intonation_level2",
+    "split": "train",
+    "duration_s": 45.16,
+    "wall_s": 37.33758900000248,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 999.81640625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 37.15427660002024,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_intonation_level3",
+    "split": "train",
+    "duration_s": 45.16,
+    "wall_s": 36.931155699974624,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1004.015625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 36.7438003999996,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_intonation_level4",
+    "split": "train",
+    "duration_s": 45.16,
+    "wall_s": 36.049673500005156,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 995.3125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 35.79055289999815,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_pauses_level1",
+    "split": "train",
+    "duration_s": 45.309625,
+    "wall_s": 34.584838699985994,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 992.046875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 34.454711600003066,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_pauses_level2",
+    "split": "train",
+    "duration_s": 45.6565,
+    "wall_s": 34.2888518999971,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1083.671875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 34.08786309999414,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_pauses_level3",
+    "split": "train",
+    "duration_s": 46.261125,
+    "wall_s": 34.59089530000347,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1186.390625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 34.38375889998861,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_pauses_level4",
+    "split": "train",
+    "duration_s": 47.1324375,
+    "wall_s": 34.10023130002082,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1006.109375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 33.89836500000092,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_energy_level1",
+    "split": "train",
+    "duration_s": 45.16,
+    "wall_s": 36.52501929999562,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 992.61328125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 36.30849379999563,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_energy_level2",
+    "split": "train",
+    "duration_s": 45.16,
+    "wall_s": 36.32672630000161,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1003.91796875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 36.17837259999942,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_energy_level3",
+    "split": "train",
+    "duration_s": 45.16,
+    "wall_s": 36.684545999974944,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1007.296875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 36.441504200018244,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_energy_level4",
+    "split": "train",
+    "duration_s": 45.16,
+    "wall_s": 36.21014300000388,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1001.40625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 36.029091100004734,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_clarity_proxy_level1",
+    "split": "train",
+    "duration_s": 45.16,
+    "wall_s": 31.61606479997863,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 995.5546875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 31.420898500015028,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_clarity_proxy_level2",
+    "split": "train",
+    "duration_s": 45.16,
+    "wall_s": 33.42363030000706,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1002.91796875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 33.23083559999941,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_clarity_proxy_level3",
+    "split": "train",
+    "duration_s": 45.16,
+    "wall_s": 34.7940166000044,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1007.484375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 34.578834500018274,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_clarity_proxy_level4",
+    "split": "train",
+    "duration_s": 45.16,
+    "wall_s": 33.892747599980794,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1000.02734375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 33.70515500000329,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_accepted_gain_level0",
+    "split": "train",
+    "duration_s": 45.16,
+    "wall_s": 33.32565280000563,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 994.6171875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 33.13753239999642,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_sham_stretch_level0",
+    "split": "train",
+    "duration_s": 45.16,
+    "wall_s": 33.893650499987416,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 999.2890625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 33.704555900010746,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_sham_world_level0",
+    "split": "train",
+    "duration_s": 45.16,
+    "wall_s": 34.07894839998335,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1007.16796875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 33.83692079997854,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_compound2_level2",
+    "split": "train",
+    "duration_s": 46.26,
+    "wall_s": 34.16688579999027,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1006.3046875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 34.01883379998617,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr01_compound4_level4",
+    "split": "train",
+    "duration_s": 48.46,
+    "wall_s": 35.64654539999901,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1009.4921875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 35.4425889000122,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_pace_level1",
+    "split": "validation",
+    "duration_s": 25.2576875,
+    "wall_s": 18.96736779998173,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1003.4375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 18.844946900004288,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_pace_level2",
+    "split": "validation",
+    "duration_s": 25.67725,
+    "wall_s": 17.146457499999087,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1181.43359375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 16.993664599984186,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_pace_level3",
+    "split": "validation",
+    "duration_s": 26.688,
+    "wall_s": 19.06586519998382,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 996.58203125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 18.94701060000807,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_pace_level4",
+    "split": "validation",
+    "duration_s": 27.8314375,
+    "wall_s": 19.946223600010853,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1005.66015625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 19.818860900006257,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_intonation_level1",
+    "split": "validation",
+    "duration_s": 24.76,
+    "wall_s": 18.031243100005668,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1006.3125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 17.82741279999027,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_intonation_level2",
+    "split": "validation",
+    "duration_s": 24.76,
+    "wall_s": 19.812475499988068,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 997.49609375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 19.65292959997896,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_intonation_level3",
+    "split": "validation",
+    "duration_s": 24.76,
+    "wall_s": 20.534687799983658,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 995.43359375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 20.410903400013922,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_intonation_level4",
+    "split": "validation",
+    "duration_s": 24.76,
+    "wall_s": 21.133775900001638,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1007.45703125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 21.01766799998586,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_pauses_level1",
+    "split": "validation",
+    "duration_s": 24.9098125,
+    "wall_s": 21.05063159999554,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1013.46875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 20.911838900006842,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_pauses_level2",
+    "split": "validation",
+    "duration_s": 25.2685625,
+    "wall_s": 21.06724309999845,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1010.96875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 20.9199166999897,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_pauses_level3",
+    "split": "validation",
+    "duration_s": 25.8654375,
+    "wall_s": 21.29324899998028,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 993.98828125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 21.16037050000159,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_pauses_level4",
+    "split": "validation",
+    "duration_s": 26.7726875,
+    "wall_s": 23.511047799984226,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1016.125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 23.336331600003177,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_energy_level1",
+    "split": "validation",
+    "duration_s": 24.76,
+    "wall_s": 21.979356499999994,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1008.328125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 21.851411300012842,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_energy_level2",
+    "split": "validation",
+    "duration_s": 24.76,
+    "wall_s": 21.73460489997524,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1014.16015625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 21.601590300007956,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_energy_level3",
+    "split": "validation",
+    "duration_s": 24.76,
+    "wall_s": 22.073096100008115,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 997.5546875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 21.86424980001175,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_energy_level4",
+    "split": "validation",
+    "duration_s": 24.76,
+    "wall_s": 20.251184099994134,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1012.27734375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 20.165930199989816,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_clarity_proxy_level1",
+    "split": "validation",
+    "duration_s": 24.76,
+    "wall_s": 20.118396200006828,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1012.27734375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 20.02292170000146,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_clarity_proxy_level2",
+    "split": "validation",
+    "duration_s": 24.76,
+    "wall_s": 18.229003799991915,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1014.09765625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 18.1508288999903,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_clarity_proxy_level3",
+    "split": "validation",
+    "duration_s": 24.76,
+    "wall_s": 16.37767850002274,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1000.78125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 16.28324670001166,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_clarity_proxy_level4",
+    "split": "validation",
+    "duration_s": 24.76,
+    "wall_s": 12.59174439997878,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1192.33984375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 12.497108299983665,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_accepted_gain_level0",
+    "split": "validation",
+    "duration_s": 24.76,
+    "wall_s": 13.05150689999573,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1201.5546875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 12.932752699998673,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_sham_stretch_level0",
+    "split": "validation",
+    "duration_s": 24.76,
+    "wall_s": 14.148973900009878,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1194.09765625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.033244999998715,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_sham_world_level0",
+    "split": "validation",
+    "duration_s": 24.76,
+    "wall_s": 15.001544800004922,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1183.34375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.847478500014404,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_compound2_level2",
+    "split": "validation",
+    "duration_s": 25.804,
+    "wall_s": 19.575913300010143,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1005.19140625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 19.451530200021807,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan01_compound4_level4",
+    "split": "validation",
+    "duration_s": 27.892,
+    "wall_s": 21.136094200017396,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1020.2578125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 21.00652579998132,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_pace_level1",
+    "split": "validation",
+    "duration_s": 33.693875,
+    "wall_s": 25.85329840000486,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1043.60546875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 25.691064200014807,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_pace_level2",
+    "split": "validation",
+    "duration_s": 33.3539375,
+    "wall_s": 25.81879140000092,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1025.25390625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 25.653456800006097,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_pace_level3",
+    "split": "validation",
+    "duration_s": 32.98625,
+    "wall_s": 25.209046900010435,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1027.625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 25.04593309998745,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_pace_level4",
+    "split": "validation",
+    "duration_s": 32.547375,
+    "wall_s": 24.75506180000957,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1034.7578125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.571630400023423,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_intonation_level1",
+    "split": "validation",
+    "duration_s": 33.96,
+    "wall_s": 26.194757599994773,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1032.4296875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 26.0322285000002,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_intonation_level2",
+    "split": "validation",
+    "duration_s": 33.96,
+    "wall_s": 26.926395399990724,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1034.30859375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 26.75561610001023,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_intonation_level3",
+    "split": "validation",
+    "duration_s": 33.96,
+    "wall_s": 26.958496399980504,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1026.34765625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 26.80331070002285,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_intonation_level4",
+    "split": "validation",
+    "duration_s": 33.96,
+    "wall_s": 26.775581699999748,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1056.87109375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 26.613708399992902,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_pauses_level1",
+    "split": "validation",
+    "duration_s": 34.10775,
+    "wall_s": 26.48712850001175,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1033.8671875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 26.30938089999836,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_pauses_level2",
+    "split": "validation",
+    "duration_s": 34.451125,
+    "wall_s": 26.13937540000188,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1031.32421875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 25.970488599996315,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_pauses_level3",
+    "split": "validation",
+    "duration_s": 35.071875,
+    "wall_s": 26.23814610001864,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1029.70703125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 26.087645799998427,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_pauses_level4",
+    "split": "validation",
+    "duration_s": 35.9540625,
+    "wall_s": 27.05057609998039,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1449.8046875,
+      "current_resident_mb": 1046.54296875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 26.919760199991288,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_energy_level1",
+    "split": "validation",
+    "duration_s": 33.96,
+    "wall_s": 24.07696209999267,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1042.09765625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 23.964398199983407,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_energy_level2",
+    "split": "validation",
+    "duration_s": 33.96,
+    "wall_s": 23.738239900005283,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1453.75390625,
+      "current_resident_mb": 1037.0546875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 23.624667600000976,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_energy_level3",
+    "split": "validation",
+    "duration_s": 33.96,
+    "wall_s": 21.276811799994903,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1247.77734375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 21.018353699997533,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_energy_level4",
+    "split": "validation",
+    "duration_s": 33.96,
+    "wall_s": 19.6932845999836,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1463.69921875,
+      "current_resident_mb": 1332.765625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 19.526441299996804,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_clarity_proxy_level1",
+    "split": "validation",
+    "duration_s": 33.96,
+    "wall_s": 20.901562899991404,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1328.4296875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 20.740125800017267,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_clarity_proxy_level2",
+    "split": "validation",
+    "duration_s": 33.96,
+    "wall_s": 21.937053900008323,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1454.30859375,
+      "current_resident_mb": 1323.375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 21.772595100017497,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_clarity_proxy_level3",
+    "split": "validation",
+    "duration_s": 33.96,
+    "wall_s": 24.50119249999989,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1038.1640625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.362466200022027,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_clarity_proxy_level4",
+    "split": "validation",
+    "duration_s": 33.96,
+    "wall_s": 24.208648599975277,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1463.69921875,
+      "current_resident_mb": 1050.41015625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.052777999982936,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_accepted_gain_level0",
+    "split": "validation",
+    "duration_s": 33.96,
+    "wall_s": 25.10430589999305,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1022.046875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.944146399997408,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_sham_stretch_level0",
+    "split": "validation",
+    "duration_s": 33.96,
+    "wall_s": 25.72154359999695,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1454.30859375,
+      "current_resident_mb": 1037.01953125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 25.517368700006045,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_sham_world_level0",
+    "split": "validation",
+    "duration_s": 33.96,
+    "wall_s": 26.12913360001403,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1032.76171875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 25.9751038000104,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_compound2_level2",
+    "split": "validation",
+    "duration_s": 34.728,
+    "wall_s": 27.09900089999428,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1463.69921875,
+      "current_resident_mb": 1039.08203125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 26.942521900025895,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "reagan02_compound4_level4",
+    "split": "validation",
+    "duration_s": 36.264,
+    "wall_s": 26.728342099988367,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1032.23828125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 26.55656490000547,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_pace_level1",
+    "split": "test",
+    "duration_s": 19.0788125,
+    "wall_s": 14.16769750000094,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1454.30859375,
+      "current_resident_mb": 1016.78515625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.072844199981773,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_pace_level2",
+    "split": "test",
+    "duration_s": 18.8668125,
+    "wall_s": 13.344314699992537,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1043.87890625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 13.245499600016046,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_pace_level3",
+    "split": "test",
+    "duration_s": 18.344125,
+    "wall_s": 13.097497899987502,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1463.69921875,
+      "current_resident_mb": 1029.37890625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 12.996117999980925,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_pace_level4",
+    "split": "test",
+    "duration_s": 17.978625,
+    "wall_s": 12.570642400009092,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1454.30859375,
+      "current_resident_mb": 1033.81640625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 12.471099600021262,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_intonation_level1",
+    "split": "test",
+    "duration_s": 19.4,
+    "wall_s": 12.460042999999132,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1031.2890625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 12.350235999998404,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_intonation_level2",
+    "split": "test",
+    "duration_s": 19.4,
+    "wall_s": 12.840537000010954,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1042.5625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 12.735122300015064,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_intonation_level3",
+    "split": "test",
+    "duration_s": 19.4,
+    "wall_s": 12.67815839999821,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1463.69921875,
+      "current_resident_mb": 1054.92578125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 12.573991099983687,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_intonation_level4",
+    "split": "test",
+    "duration_s": 19.4,
+    "wall_s": 11.821610800019698,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1454.30859375,
+      "current_resident_mb": 1045.15625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 11.642914399999427,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_pauses_level1",
+    "split": "test",
+    "duration_s": 19.5478125,
+    "wall_s": 14.034489800018491,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1040.2109375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 13.936489599989727,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_pauses_level2",
+    "split": "test",
+    "duration_s": 19.909125,
+    "wall_s": 14.731606399989687,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1017.23046875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.6351977000013,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_pauses_level3",
+    "split": "test",
+    "duration_s": 20.48575,
+    "wall_s": 15.309952400013572,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1463.69921875,
+      "current_resident_mb": 1061.5859375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.213560500007588,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_pauses_level4",
+    "split": "test",
+    "duration_s": 21.388,
+    "wall_s": 15.454795500001637,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1454.30859375,
+      "current_resident_mb": 1048.59765625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.351719400001457,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_energy_level1",
+    "split": "test",
+    "duration_s": 19.4,
+    "wall_s": 12.043960200011497,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1018.89453125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 11.98382589998073,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_energy_level2",
+    "split": "test",
+    "duration_s": 19.4,
+    "wall_s": 11.803038899990497,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1019.578125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 11.741045300004771,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_energy_level3",
+    "split": "test",
+    "duration_s": 19.4,
+    "wall_s": 10.552011399995536,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1463.69921875,
+      "current_resident_mb": 1056.13671875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 10.483526700001676,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_energy_level4",
+    "split": "test",
+    "duration_s": 19.4,
+    "wall_s": 9.917026599985547,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1454.30859375,
+      "current_resident_mb": 1178.8984375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 9.839955400006147,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_clarity_proxy_level1",
+    "split": "test",
+    "duration_s": 19.4,
+    "wall_s": 10.499410399992485,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1183.4296875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 10.39745300001232,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_clarity_proxy_level2",
+    "split": "test",
+    "duration_s": 19.4,
+    "wall_s": 11.394470800005365,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1184.15234375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 11.302647699980298,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_clarity_proxy_level3",
+    "split": "test",
+    "duration_s": 19.4,
+    "wall_s": 11.737146800005576,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1463.69921875,
+      "current_resident_mb": 1195.81640625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 11.62850749999052,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_clarity_proxy_level4",
+    "split": "test",
+    "duration_s": 19.4,
+    "wall_s": 11.809114500007126,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1454.30859375,
+      "current_resident_mb": 1182.296875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 11.698319099989021,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_accepted_gain_level0",
+    "split": "test",
+    "duration_s": 19.4,
+    "wall_s": 14.133130300004268,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1015.09765625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.038053900003433,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_sham_stretch_level0",
+    "split": "test",
+    "duration_s": 19.4,
+    "wall_s": 14.38483830000041,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1018.41796875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.28470320001361,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_sham_world_level0",
+    "split": "test",
+    "duration_s": 19.4,
+    "wall_s": 14.263642500009155,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1463.69921875,
+      "current_resident_mb": 1051.98828125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.161806499992963,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_compound2_level2",
+    "split": "test",
+    "duration_s": 20.172,
+    "wall_s": 14.95171580000897,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1454.30859375,
+      "current_resident_mb": 1047.2890625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.845315100013977,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_compound4_level4",
+    "split": "test",
+    "duration_s": 21.716,
+    "wall_s": 15.451914800010854,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1051.6015625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 15.346079800016014,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_pace_level1",
+    "split": "test",
+    "duration_s": 32.821875,
+    "wall_s": 25.129564100003336,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1029.390625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.872385399998166,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_pace_level2",
+    "split": "test",
+    "duration_s": 32.719875,
+    "wall_s": 25.21232819999568,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1463.69921875,
+      "current_resident_mb": 1128.703125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 25.0310513000004,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_pace_level3",
+    "split": "test",
+    "duration_s": 32.5225625,
+    "wall_s": 25.12157049999223,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1454.30859375,
+      "current_resident_mb": 1117.6171875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.960095899994485,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_pace_level4",
+    "split": "test",
+    "duration_s": 32.347875,
+    "wall_s": 26.632760100008454,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1136.57421875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 26.445677699986845,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_intonation_level1",
+    "split": "test",
+    "duration_s": 32.98,
+    "wall_s": 27.87320119998185,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1027.9609375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 27.705474899994442,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_intonation_level2",
+    "split": "test",
+    "duration_s": 32.98,
+    "wall_s": 27.95455610001227,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1463.69921875,
+      "current_resident_mb": 1039.96484375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 27.7431792000134,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_intonation_level3",
+    "split": "test",
+    "duration_s": 32.98,
+    "wall_s": 28.810265799984336,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1454.30859375,
+      "current_resident_mb": 1029.51953125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 28.562553900002968,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_intonation_level4",
+    "split": "test",
+    "duration_s": 32.98,
+    "wall_s": 26.39778570001363,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1308.8671875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 26.243005100026494,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_pauses_level1",
+    "split": "test",
+    "duration_s": 33.1323125,
+    "wall_s": 29.70383449998917,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1027.203125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 29.513599600002635,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_pauses_level2",
+    "split": "test",
+    "duration_s": 33.4858125,
+    "wall_s": 30.154411199997412,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1463.69921875,
+      "current_resident_mb": 1040.671875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 29.975404199998593,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_pauses_level3",
+    "split": "test",
+    "duration_s": 34.0985,
+    "wall_s": 30.161858799983747,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1454.30859375,
+      "current_resident_mb": 1048.94140625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 29.99298290000297,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_pauses_level4",
+    "split": "test",
+    "duration_s": 35.0050625,
+    "wall_s": 27.9749465000059,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1030.9375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 27.88076609998825,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_energy_level1",
+    "split": "test",
+    "duration_s": 32.98,
+    "wall_s": 23.645453099976294,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1113.8125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 23.49553630000446,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_energy_level2",
+    "split": "test",
+    "duration_s": 32.98,
+    "wall_s": 22.62268870000844,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1463.69921875,
+      "current_resident_mb": 1081.47265625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 22.444969000003766,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_energy_level3",
+    "split": "test",
+    "duration_s": 32.98,
+    "wall_s": 21.419787599996198,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1454.30859375,
+      "current_resident_mb": 1235.578125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 21.24012100000982,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_energy_level4",
+    "split": "test",
+    "duration_s": 32.98,
+    "wall_s": 25.03210479998961,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1043.91015625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.873101399978623,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_clarity_proxy_level1",
+    "split": "test",
+    "duration_s": 32.98,
+    "wall_s": 26.34293099999195,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1029.94921875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 26.190737299999455,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_clarity_proxy_level2",
+    "split": "test",
+    "duration_s": 32.98,
+    "wall_s": 26.360503600008087,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1463.69921875,
+      "current_resident_mb": 1041.48046875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 26.217252800008282,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_clarity_proxy_level3",
+    "split": "test",
+    "duration_s": 32.98,
+    "wall_s": 26.45750959997531,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1454.30859375,
+      "current_resident_mb": 1030.99609375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 26.282115200010594,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_clarity_proxy_level4",
+    "split": "test",
+    "duration_s": 32.98,
+    "wall_s": 23.439826599991648,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1114.47265625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 23.347396500001196,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_accepted_gain_level0",
+    "split": "test",
+    "duration_s": 32.98,
+    "wall_s": 18.95353349999641,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1114.875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 18.853049099998316,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_sham_stretch_level0",
+    "split": "test",
+    "duration_s": 32.98,
+    "wall_s": 18.442037300002994,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1463.69921875,
+      "current_resident_mb": 1246.96875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 18.32248190001701,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_sham_world_level0",
+    "split": "test",
+    "duration_s": 32.98,
+    "wall_s": 17.7512718999933,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1454.30859375,
+      "current_resident_mb": 1244.31640625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 17.63053409999702,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_compound2_level2",
+    "split": "test",
+    "duration_s": 33.328,
+    "wall_s": 20.42495039998903,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1312.69921875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 20.242114699998638,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_compound4_level4",
+    "split": "test",
+    "duration_s": 34.024,
+    "wall_s": 26.22851030001766,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1032.4375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 26.069708899973193,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_pace_level1",
+    "split": "train",
+    "duration_s": 46.340875,
+    "wall_s": 36.069692300021416,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1463.69921875,
+      "current_resident_mb": 1034.2421875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 35.95108509997954,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_pace_level2",
+    "split": "train",
+    "duration_s": 46.6039375,
+    "wall_s": 36.54298420000123,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1454.30859375,
+      "current_resident_mb": 1028.55078125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 36.40487639998901,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_pace_level3",
+    "split": "train",
+    "duration_s": 47.0055,
+    "wall_s": 33.819858500006376,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1466.109375,
+      "current_resident_mb": 1029.55078125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 33.694590200000675,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_pace_level4",
+    "split": "train",
+    "duration_s": 47.6570625,
+    "wall_s": 26.924103600002127,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1472.6953125,
+      "current_resident_mb": 1163.546875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 26.804231199988862,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_intonation_level1",
+    "split": "train",
+    "duration_s": 46.16,
+    "wall_s": 22.376044000004185,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1541.875,
+      "current_resident_mb": 1369.95703125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 22.199163799989037,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_intonation_level2",
+    "split": "train",
+    "duration_s": 46.16,
+    "wall_s": 22.439208700001473,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1537.26953125,
+      "current_resident_mb": 1365.390625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 22.252816499996698,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_intonation_level3",
+    "split": "train",
+    "duration_s": 46.16,
+    "wall_s": 23.84189619999961,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1534.14453125,
+      "current_resident_mb": 1363.50390625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 23.63666610000655,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_intonation_level4",
+    "split": "train",
+    "duration_s": 46.16,
+    "wall_s": 27.578470000007655,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1534.40625,
+      "current_resident_mb": 1362.48046875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 27.392991900007473,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_pauses_level1",
+    "split": "train",
+    "duration_s": 46.308625,
+    "wall_s": 32.62495779999881,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1541.875,
+      "current_resident_mb": 1032.5234375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 32.44481139999698,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_pauses_level2",
+    "split": "train",
+    "duration_s": 46.6660625,
+    "wall_s": 32.979975399997784,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1537.26953125,
+      "current_resident_mb": 1019.26953125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 32.784170099999756,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_pauses_level3",
+    "split": "train",
+    "duration_s": 47.2515,
+    "wall_s": 33.333213700010674,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1534.14453125,
+      "current_resident_mb": 1025.37890625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 33.14218530000653,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_pauses_level4",
+    "split": "train",
+    "duration_s": 48.151,
+    "wall_s": 33.27230809998582,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1534.40625,
+      "current_resident_mb": 960.6015625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 33.05777000001399,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_energy_level1",
+    "split": "train",
+    "duration_s": 46.16,
+    "wall_s": 33.32144069997594,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1541.875,
+      "current_resident_mb": 956.69921875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 33.141388000018196,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_energy_level2",
+    "split": "train",
+    "duration_s": 46.16,
+    "wall_s": 33.3463087999844,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1537.26953125,
+      "current_resident_mb": 956.4765625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 33.1558614000096,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_energy_level3",
+    "split": "train",
+    "duration_s": 46.16,
+    "wall_s": 32.37788779998664,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1534.14453125,
+      "current_resident_mb": 970.1484375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 32.19286190002458,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_energy_level4",
+    "split": "train",
+    "duration_s": 46.16,
+    "wall_s": 32.33897740000975,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1534.40625,
+      "current_resident_mb": 953.09765625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 32.14150600001449,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_clarity_proxy_level1",
+    "split": "train",
+    "duration_s": 46.16,
+    "wall_s": 32.88701970002148,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1541.875,
+      "current_resident_mb": 956.515625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 32.7107388000004,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_clarity_proxy_level2",
+    "split": "train",
+    "duration_s": 46.16,
+    "wall_s": 32.8062546000001,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1537.26953125,
+      "current_resident_mb": 955.60546875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 32.60830100000021,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_clarity_proxy_level3",
+    "split": "train",
+    "duration_s": 46.16,
+    "wall_s": 32.61760420000064,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1534.14453125,
+      "current_resident_mb": 969.2734375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 32.430018300015945,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_clarity_proxy_level4",
+    "split": "train",
+    "duration_s": 46.16,
+    "wall_s": 31.874332400009735,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1534.40625,
+      "current_resident_mb": 954.1171875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 31.682841700006975,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_accepted_gain_level0",
+    "split": "train",
+    "duration_s": 46.16,
+    "wall_s": 32.963836800016,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1541.875,
+      "current_resident_mb": 957.72265625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 32.77913060001447,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_sham_stretch_level0",
+    "split": "train",
+    "duration_s": 46.16,
+    "wall_s": 33.00821640001959,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1537.26953125,
+      "current_resident_mb": 955.609375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 32.8150024000206,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_sham_world_level0",
+    "split": "train",
+    "duration_s": 46.16,
+    "wall_s": 33.14805869999691,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1534.14453125,
+      "current_resident_mb": 969.29296875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 32.95213930000318,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_compound2_level2",
+    "split": "train",
+    "duration_s": 46.64,
+    "wall_s": 33.70718989998568,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1534.40625,
+      "current_resident_mb": 962.19921875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 33.51012089999858,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "fdr02_compound4_level4",
+    "split": "train",
+    "duration_s": 47.6,
+    "wall_s": 34.08363989999634,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1541.875,
+      "current_resident_mb": 965.6796875,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 33.91126619998249,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_heldout_noise_level1",
+    "split": "test",
+    "duration_s": 19.4,
+    "wall_s": 14.271056400000816,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1537.26953125,
+      "current_resident_mb": 985.0,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.171884000010323,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_heldout_noise_level2",
+    "split": "test",
+    "duration_s": 19.4,
+    "wall_s": 14.571845800004667,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1534.14453125,
+      "current_resident_mb": 972.8984375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.469640399998752,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_heldout_noise_level3",
+    "split": "test",
+    "duration_s": 19.4,
+    "wall_s": 14.221600499993656,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1537.26953125,
+      "current_resident_mb": 983.765625,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 14.12242279999191,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama01_heldout_noise_level4",
+    "split": "test",
+    "duration_s": 19.4,
+    "wall_s": 13.511659900017548,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1534.40625,
+      "current_resident_mb": 957.2734375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 13.41575179999927,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_heldout_noise_level1",
+    "split": "test",
+    "duration_s": 32.98,
+    "wall_s": 22.33755110000493,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1534.14453125,
+      "current_resident_mb": 1068.05859375,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 22.190273100015474,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_heldout_noise_level2",
+    "split": "test",
+    "duration_s": 32.98,
+    "wall_s": 22.1135837000038,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1537.26953125,
+      "current_resident_mb": 1055.61328125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 21.973984200012637,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_heldout_noise_level3",
+    "split": "test",
+    "duration_s": 32.98,
+    "wall_s": 23.957313499995507,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1541.875,
+      "current_resident_mb": 970.64453125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 23.7192302000185,
+    "cache_hit": false
+  },
+  {
+    "recording_id": "obama02_heldout_noise_level4",
+    "split": "test",
+    "duration_s": 32.98,
+    "wall_s": 24.168807300011395,
+    "memory": {
+      "process_lifetime_peak_resident_mb": 1534.40625,
+      "current_resident_mb": 1052.17578125,
+      "logical_cpu_count": 24,
+      "system_memory_gb": 31.710132598876953,
+      "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "torch_threads": 2
+    },
+    "processing_s": 24.035195800010115,
+    "cache_hit": false
+  }
+]

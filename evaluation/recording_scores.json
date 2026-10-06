@@ -1,0 +1,4500 @@
+{
+  "jfk01_good": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.981859410430839,
+    "cache_hit": true
+  },
+  "jfk02_good": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9361042828379512,
+    "cache_hit": true
+  },
+  "jfk03_good": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9368265403567291,
+    "cache_hit": true
+  },
+  "eisenhower01_good": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": true
+  },
+  "eisenhower02_good": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": true
+  },
+  "nixon01_good": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9696735062588723,
+    "cache_hit": true
+  },
+  "nixon02_good": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9800515165001147,
+    "cache_hit": true
+  },
+  "fdr01_good": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": true
+  },
+  "reagan01_good": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": true
+  },
+  "reagan02_good": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9873383200872682,
+    "cache_hit": true
+  },
+  "obama01_good": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9905437352245865,
+    "cache_hit": true
+  },
+  "obama02_good": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9942279942279942,
+    "cache_hit": true
+  },
+  "fdr02_good": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8312802152234159,
+    "cache_hit": true
+  },
+  "jfk01_pace_level1": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.5665788570621128,
+    "cache_hit": true
+  },
+  "jfk01_pace_level2": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.5575085622775321,
+    "cache_hit": true
+  },
+  "jfk01_pace_level3": {
+    "score": 95.8,
+    "events": 1,
+    "category_scores": {
+      "pacing": 84.7,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7609425570425994,
+    "cache_hit": true
+  },
+  "jfk01_pace_level4": {
+    "score": 96.4,
+    "events": 1,
+    "category_scores": {
+      "pacing": 87.2,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7382668200811482,
+    "cache_hit": true
+  },
+  "jfk01_intonation_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.981859410430839,
+    "cache_hit": true
+  },
+  "jfk01_intonation_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.981859410430839,
+    "cache_hit": true
+  },
+  "jfk01_intonation_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.981859410430839,
+    "cache_hit": false
+  },
+  "jfk01_intonation_level4": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.981859410430839,
+    "cache_hit": false
+  },
+  "jfk01_pauses_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.981859410430839,
+    "cache_hit": false
+  },
+  "jfk01_pauses_level2": {
+    "score": 97.2,
+    "events": 1,
+    "category_scores": {
+      "pacing": 89.9,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.977324263038549,
+    "cache_hit": false
+  },
+  "jfk01_pauses_level3": {
+    "score": 97.3,
+    "events": 1,
+    "category_scores": {
+      "pacing": 90.3,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.977324263038549,
+    "cache_hit": false
+  },
+  "jfk01_pauses_level4": {
+    "score": 97.3,
+    "events": 1,
+    "category_scores": {
+      "pacing": 90.3,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.977324263038549,
+    "cache_hit": false
+  },
+  "jfk01_energy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.981859410430839,
+    "cache_hit": false
+  },
+  "jfk01_energy_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.981859410430839,
+    "cache_hit": false
+  },
+  "jfk01_energy_level3": {
+    "score": 98.6,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 93.8,
+      "clarity": null
+    },
+    "coverage": 0.9727891156462587,
+    "cache_hit": false
+  },
+  "jfk01_energy_level4": {
+    "score": 97.5,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 88.6,
+      "clarity": null
+    },
+    "coverage": 0.9727891156462587,
+    "cache_hit": false
+  },
+  "jfk01_clarity_proxy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.981859410430839,
+    "cache_hit": false
+  },
+  "jfk01_clarity_proxy_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9727891156462587,
+    "cache_hit": false
+  },
+  "jfk01_clarity_proxy_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7654777044348897,
+    "cache_hit": false
+  },
+  "jfk01_clarity_proxy_level4": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.5393679727083711,
+    "cache_hit": false
+  },
+  "jfk01_accepted_gain_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.981859410430839,
+    "cache_hit": false
+  },
+  "jfk01_sham_stretch_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.981859410430839,
+    "cache_hit": false
+  },
+  "jfk01_sham_world_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.981859410430839,
+    "cache_hit": false
+  },
+  "jfk01_compound2_level2": {
+    "score": 95.9,
+    "events": 1,
+    "category_scores": {
+      "pacing": 85.1,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.77001285182718,
+    "cache_hit": false
+  },
+  "jfk01_compound4_level4": {
+    "score": 93.6,
+    "events": 2,
+    "category_scores": {
+      "pacing": 84.7,
+      "pauses": 100.0,
+      "intonation": 92.1,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7518722622580191,
+    "cache_hit": false
+  },
+  "jfk02_pace_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8109909818452534,
+    "cache_hit": false
+  },
+  "jfk02_pace_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9159022626359311,
+    "cache_hit": false
+  },
+  "jfk02_pace_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.81772498857926,
+    "cache_hit": false
+  },
+  "jfk02_pace_level4": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8042569751112466,
+    "cache_hit": false
+  },
+  "jfk02_intonation_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9361042828379512,
+    "cache_hit": false
+  },
+  "jfk02_intonation_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9361042828379512,
+    "cache_hit": false
+  },
+  "jfk02_intonation_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9361042828379512,
+    "cache_hit": false
+  },
+  "jfk02_intonation_level4": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9361042828379512,
+    "cache_hit": false
+  },
+  "jfk02_pauses_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9361042828379512,
+    "cache_hit": false
+  },
+  "jfk02_pauses_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9361042828379512,
+    "cache_hit": false
+  },
+  "jfk02_pauses_level3": {
+    "score": 99.8,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 99.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9361042828379512,
+    "cache_hit": false
+  },
+  "jfk02_pauses_level4": {
+    "score": 99.6,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 98.4,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9361042828379512,
+    "cache_hit": false
+  },
+  "jfk02_energy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9293702761039445,
+    "cache_hit": false
+  },
+  "jfk02_energy_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9293702761039445,
+    "cache_hit": false
+  },
+  "jfk02_energy_level3": {
+    "score": 99.6,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 98.4,
+      "clarity": null
+    },
+    "coverage": 0.9293702761039445,
+    "cache_hit": false
+  },
+  "jfk02_energy_level4": {
+    "score": 98.9,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 95.0,
+      "clarity": null
+    },
+    "coverage": 0.9192692660029345,
+    "cache_hit": false
+  },
+  "jfk02_clarity_proxy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9361042828379512,
+    "cache_hit": false
+  },
+  "jfk02_clarity_proxy_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9361042828379512,
+    "cache_hit": false
+  },
+  "jfk02_clarity_proxy_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9361042828379512,
+    "cache_hit": false
+  },
+  "jfk02_clarity_proxy_level4": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8076239784782498,
+    "cache_hit": false
+  },
+  "jfk02_accepted_gain_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9361042828379512,
+    "cache_hit": false
+  },
+  "jfk02_sham_stretch_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9361042828379512,
+    "cache_hit": false
+  },
+  "jfk02_sham_world_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9361042828379512,
+    "cache_hit": false
+  },
+  "jfk02_compound2_level2": {
+    "score": 100.0,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 99.9,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7607228059489364,
+    "cache_hit": false
+  },
+  "jfk02_compound4_level4": {
+    "score": 97.8,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 92.1,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7708238160499465,
+    "cache_hit": false
+  },
+  "jfk03_pace_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.847038880150503,
+    "cache_hit": false
+  },
+  "jfk03_pace_level2": {
+    "score": 99.9,
+    "events": 1,
+    "category_scores": {
+      "pacing": 99.5,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.847038880150503,
+    "cache_hit": false
+  },
+  "jfk03_pace_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8422599076295951,
+    "cache_hit": false
+  },
+  "jfk03_pace_level4": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.837480935108687,
+    "cache_hit": false
+  },
+  "jfk03_intonation_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9368265403567291,
+    "cache_hit": false
+  },
+  "jfk03_intonation_level2": {
+    "score": 100.0,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 99.9,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9368265403567291,
+    "cache_hit": false
+  },
+  "jfk03_intonation_level3": {
+    "score": 98.5,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 94.6,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9368265403567291,
+    "cache_hit": false
+  },
+  "jfk03_intonation_level4": {
+    "score": 97.4,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 90.5,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9368265403567291,
+    "cache_hit": false
+  },
+  "jfk03_pauses_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9344370540962751,
+    "cache_hit": false
+  },
+  "jfk03_pauses_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9344370540962751,
+    "cache_hit": false
+  },
+  "jfk03_pauses_level3": {
+    "score": 99.7,
+    "events": 2,
+    "category_scores": {
+      "pacing": 99.5,
+      "pauses": 99.2,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9368265403567291,
+    "cache_hit": false
+  },
+  "jfk03_pauses_level4": {
+    "score": 99.6,
+    "events": 2,
+    "category_scores": {
+      "pacing": 99.5,
+      "pauses": 98.8,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9368265403567291,
+    "cache_hit": false
+  },
+  "jfk03_energy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9368265403567291,
+    "cache_hit": false
+  },
+  "jfk03_energy_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9368265403567291,
+    "cache_hit": false
+  },
+  "jfk03_energy_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9272685953149131,
+    "cache_hit": false
+  },
+  "jfk03_energy_level4": {
+    "score": 99.6,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 98.4,
+      "clarity": null
+    },
+    "coverage": 0.9272685953149131,
+    "cache_hit": false
+  },
+  "jfk03_clarity_proxy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9368265403567291,
+    "cache_hit": false
+  },
+  "jfk03_clarity_proxy_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9368265403567291,
+    "cache_hit": false
+  },
+  "jfk03_clarity_proxy_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9296580815753671,
+    "cache_hit": false
+  },
+  "jfk03_clarity_proxy_level4": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8398704213691411,
+    "cache_hit": false
+  },
+  "jfk03_accepted_gain_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9344370540962751,
+    "cache_hit": false
+  },
+  "jfk03_sham_stretch_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9368265403567291,
+    "cache_hit": false
+  },
+  "jfk03_sham_world_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9368265403567291,
+    "cache_hit": false
+  },
+  "jfk03_compound2_level2": {
+    "score": 99.9,
+    "events": 1,
+    "category_scores": {
+      "pacing": 99.5,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8446493938900491,
+    "cache_hit": false
+  },
+  "jfk03_compound4_level4": {
+    "score": 95.2,
+    "events": 2,
+    "category_scores": {
+      "pacing": 99.5,
+      "pauses": 100.0,
+      "intonation": 83.4,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8398704213691411,
+    "cache_hit": false
+  },
+  "eisenhower01_pace_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8648460508701473,
+    "cache_hit": false
+  },
+  "eisenhower01_pace_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8648460508701473,
+    "cache_hit": false
+  },
+  "eisenhower01_pace_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8648460508701473,
+    "cache_hit": false
+  },
+  "eisenhower01_pace_level4": {
+    "score": 95.5,
+    "events": 2,
+    "category_scores": {
+      "pacing": 84.3,
+      "pauses": 99.5,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.991111111111111,
+    "cache_hit": true
+  },
+  "eisenhower01_intonation_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower01_intonation_level2": {
+    "score": 96.9,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 88.9,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower01_intonation_level3": {
+    "score": 97.4,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 90.6,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower01_intonation_level4": {
+    "score": 95.6,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 84.3,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower01_pauses_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower01_pauses_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower01_pauses_level3": {
+    "score": 99.7,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 98.7,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower01_pauses_level4": {
+    "score": 99.6,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 98.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower01_energy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower01_energy_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower01_energy_level3": {
+    "score": 99.4,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 97.4,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower01_energy_level4": {
+    "score": 99.0,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 95.6,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower01_clarity_proxy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower01_clarity_proxy_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower01_clarity_proxy_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8648460508701473,
+    "cache_hit": false
+  },
+  "eisenhower01_clarity_proxy_level4": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8515127175368139,
+    "cache_hit": false
+  },
+  "eisenhower01_accepted_gain_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower01_sham_stretch_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower01_sham_world_level0": {
+    "score": 98.6,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 95.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower01_compound2_level2": {
+    "score": 95.3,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 83.2,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8604016064257028,
+    "cache_hit": false
+  },
+  "eisenhower01_compound4_level4": {
+    "score": 89.5,
+    "events": 3,
+    "category_scores": {
+      "pacing": 84.5,
+      "pauses": 99.5,
+      "intonation": 78.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.991111111111111,
+    "cache_hit": false
+  },
+  "eisenhower02_pace_level1": {
+    "score": 97.3,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 90.2,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9928315412186381,
+    "cache_hit": false
+  },
+  "eisenhower02_pace_level2": {
+    "score": 98.8,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 95.5,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9928315412186381,
+    "cache_hit": false
+  },
+  "eisenhower02_pace_level3": {
+    "score": 99.6,
+    "events": 1,
+    "category_scores": {
+      "pacing": 98.5,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9928315412186381,
+    "cache_hit": false
+  },
+  "eisenhower02_pace_level4": {
+    "score": 98.2,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 93.7,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9559456943208213,
+    "cache_hit": false
+  },
+  "eisenhower02_intonation_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower02_intonation_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower02_intonation_level3": {
+    "score": 99.3,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 97.6,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower02_intonation_level4": {
+    "score": 98.8,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 95.7,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower02_pauses_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower02_pauses_level2": {
+    "score": 98.3,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 94.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower02_pauses_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower02_pauses_level4": {
+    "score": 98.0,
+    "events": 2,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 98.4,
+      "intonation": 93.9,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower02_energy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower02_energy_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower02_energy_level3": {
+    "score": 99.4,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 97.1,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower02_energy_level4": {
+    "score": 99.0,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 95.7,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower02_clarity_proxy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower02_clarity_proxy_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower02_clarity_proxy_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9523614649301403,
+    "cache_hit": false
+  },
+  "eisenhower02_clarity_proxy_level4": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9523614649301403,
+    "cache_hit": false
+  },
+  "eisenhower02_accepted_gain_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower02_sham_stretch_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower02_sham_world_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "eisenhower02_compound2_level2": {
+    "score": 97.8,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 92.2,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9928315412186381,
+    "cache_hit": false
+  },
+  "eisenhower02_compound4_level4": {
+    "score": 96.1,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 85.9,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9559456943208213,
+    "cache_hit": false
+  },
+  "nixon01_pace_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9465253581107241,
+    "cache_hit": false
+  },
+  "nixon01_pace_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7820041295651051,
+    "cache_hit": false
+  },
+  "nixon01_pace_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7773744999354755,
+    "cache_hit": false
+  },
+  "nixon01_pace_level4": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7681152406762163,
+    "cache_hit": false
+  },
+  "nixon01_intonation_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9696735062588723,
+    "cache_hit": false
+  },
+  "nixon01_intonation_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9696735062588723,
+    "cache_hit": false
+  },
+  "nixon01_intonation_level3": {
+    "score": 97.7,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 91.6,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9696735062588723,
+    "cache_hit": false
+  },
+  "nixon01_intonation_level4": {
+    "score": 93.8,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 77.5,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9696735062588723,
+    "cache_hit": false
+  },
+  "nixon01_pauses_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9696735062588723,
+    "cache_hit": false
+  },
+  "nixon01_pauses_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9696735062588723,
+    "cache_hit": false
+  },
+  "nixon01_pauses_level3": {
+    "score": 99.7,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 98.7,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9696735062588723,
+    "cache_hit": false
+  },
+  "nixon01_pauses_level4": {
+    "score": 99.5,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 97.9,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9696735062588723,
+    "cache_hit": false
+  },
+  "nixon01_energy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9696735062588723,
+    "cache_hit": false
+  },
+  "nixon01_energy_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9696735062588723,
+    "cache_hit": false
+  },
+  "nixon01_energy_level3": {
+    "score": 99.2,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 96.2,
+      "clarity": null
+    },
+    "coverage": 0.9696735062588723,
+    "cache_hit": false
+  },
+  "nixon01_energy_level4": {
+    "score": 98.3,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 92.4,
+      "clarity": null
+    },
+    "coverage": 0.9696735062588723,
+    "cache_hit": false
+  },
+  "nixon01_clarity_proxy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9696735062588723,
+    "cache_hit": false
+  },
+  "nixon01_clarity_proxy_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9696735062588723,
+    "cache_hit": false
+  },
+  "nixon01_clarity_proxy_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7588559814169571,
+    "cache_hit": false
+  },
+  "nixon01_clarity_proxy_level4": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7495967221576977,
+    "cache_hit": false
+  },
+  "nixon01_accepted_gain_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9696735062588723,
+    "cache_hit": false
+  },
+  "nixon01_sham_stretch_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9696735062588723,
+    "cache_hit": false
+  },
+  "nixon01_sham_world_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9696735062588723,
+    "cache_hit": false
+  },
+  "nixon01_compound2_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7820041295651051,
+    "cache_hit": false
+  },
+  "nixon01_compound4_level4": {
+    "score": 84.5,
+    "events": 2,
+    "category_scores": {
+      "pacing": 79.7,
+      "pauses": 100.0,
+      "intonation": 64.4,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9557846173699834,
+    "cache_hit": false
+  },
+  "nixon02_pace_level1": {
+    "score": 99.8,
+    "events": 1,
+    "category_scores": {
+      "pacing": 99.2,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9800515165001147,
+    "cache_hit": false
+  },
+  "nixon02_pace_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9760111124597106,
+    "cache_hit": false
+  },
+  "nixon02_pace_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8416959987053446,
+    "cache_hit": false
+  },
+  "nixon02_pace_level4": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8376555946649407,
+    "cache_hit": false
+  },
+  "nixon02_intonation_level1": {
+    "score": 100.0,
+    "events": 2,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9800515165001147,
+    "cache_hit": false
+  },
+  "nixon02_intonation_level2": {
+    "score": 100.0,
+    "events": 2,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9800515165001147,
+    "cache_hit": false
+  },
+  "nixon02_intonation_level3": {
+    "score": 97.9,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 92.6,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9800515165001147,
+    "cache_hit": false
+  },
+  "nixon02_intonation_level4": {
+    "score": 95.9,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 85.2,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9800515165001147,
+    "cache_hit": false
+  },
+  "nixon02_pauses_level1": {
+    "score": 99.8,
+    "events": 1,
+    "category_scores": {
+      "pacing": 99.2,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9800515165001147,
+    "cache_hit": false
+  },
+  "nixon02_pauses_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9760111124597106,
+    "cache_hit": false
+  },
+  "nixon02_pauses_level3": {
+    "score": 99.8,
+    "events": 1,
+    "category_scores": {
+      "pacing": 99.2,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9800515165001147,
+    "cache_hit": false
+  },
+  "nixon02_pauses_level4": {
+    "score": 99.4,
+    "events": 2,
+    "category_scores": {
+      "pacing": 99.2,
+      "pauses": 98.1,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9800515165001147,
+    "cache_hit": false
+  },
+  "nixon02_energy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9800515165001147,
+    "cache_hit": false
+  },
+  "nixon02_energy_level2": {
+    "score": 99.9,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 99.4,
+      "clarity": null
+    },
+    "coverage": 0.9800515165001147,
+    "cache_hit": false
+  },
+  "nixon02_energy_level3": {
+    "score": 97.9,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 90.5,
+      "clarity": null
+    },
+    "coverage": 0.9800515165001147,
+    "cache_hit": false
+  },
+  "nixon02_energy_level4": {
+    "score": 96.8,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 85.8,
+      "clarity": null
+    },
+    "coverage": 0.9800515165001147,
+    "cache_hit": false
+  },
+  "nixon02_clarity_proxy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9800515165001147,
+    "cache_hit": false
+  },
+  "nixon02_clarity_proxy_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9800515165001147,
+    "cache_hit": false
+  },
+  "nixon02_clarity_proxy_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8497768067861527,
+    "cache_hit": false
+  },
+  "nixon02_clarity_proxy_level4": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8336151906245366,
+    "cache_hit": false
+  },
+  "nixon02_accepted_gain_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9800515165001147,
+    "cache_hit": false
+  },
+  "nixon02_sham_stretch_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9800515165001147,
+    "cache_hit": false
+  },
+  "nixon02_sham_world_level0": {
+    "score": 100.0,
+    "events": 2,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9800515165001147,
+    "cache_hit": false
+  },
+  "nixon02_compound2_level2": {
+    "score": 99.5,
+    "events": 4,
+    "category_scores": {
+      "pacing": 98.9,
+      "pauses": 100.0,
+      "intonation": 99.3,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9598494962980946,
+    "cache_hit": false
+  },
+  "nixon02_compound4_level4": {
+    "score": 94.2,
+    "events": 4,
+    "category_scores": {
+      "pacing": 99.1,
+      "pauses": 100.0,
+      "intonation": 79.9,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8497768067861527,
+    "cache_hit": false
+  },
+  "fdr01_pace_level1": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_pace_level2": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_pace_level3": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_pace_level4": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_intonation_level1": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_intonation_level2": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_intonation_level3": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_intonation_level4": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_pauses_level1": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_pauses_level2": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_pauses_level3": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_pauses_level4": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_energy_level1": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_energy_level2": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_energy_level3": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_energy_level4": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_clarity_proxy_level1": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_clarity_proxy_level2": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_clarity_proxy_level3": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_clarity_proxy_level4": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_accepted_gain_level0": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_sham_stretch_level0": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_sham_world_level0": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_compound2_level2": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "fdr01_compound4_level4": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "reagan01_pace_level1": {
+    "score": 96.2,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 86.2,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9814814814814815,
+    "cache_hit": false
+  },
+  "reagan01_pace_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7815331610680449,
+    "cache_hit": false
+  },
+  "reagan01_pace_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7852368647717486,
+    "cache_hit": false
+  },
+  "reagan01_pace_level4": {
+    "score": 99.9,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 99.7,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7852368647717486,
+    "cache_hit": false
+  },
+  "reagan01_intonation_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "reagan01_intonation_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "reagan01_intonation_level3": {
+    "score": 96.9,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 89.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "reagan01_intonation_level4": {
+    "score": 93.2,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 75.7,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "reagan01_pauses_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "reagan01_pauses_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "reagan01_pauses_level3": {
+    "score": 99.8,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 98.9,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "reagan01_pauses_level4": {
+    "score": 99.6,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 98.3,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "reagan01_energy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "reagan01_energy_level2": {
+    "score": 99.9,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 99.5,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "reagan01_energy_level3": {
+    "score": 96.8,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 85.7,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "reagan01_energy_level4": {
+    "score": 95.6,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 80.4,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "reagan01_clarity_proxy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "reagan01_clarity_proxy_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "reagan01_clarity_proxy_level3": {
+    "score": 100.0,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9851851851851854,
+    "cache_hit": false
+  },
+  "reagan01_clarity_proxy_level4": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7667183462532302,
+    "cache_hit": false
+  },
+  "reagan01_accepted_gain_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "reagan01_sham_stretch_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "reagan01_sham_world_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 1.0,
+    "cache_hit": false
+  },
+  "reagan01_compound2_level2": {
+    "score": 100.0,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 99.9,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7815331610680449,
+    "cache_hit": false
+  },
+  "reagan01_compound4_level4": {
+    "score": 97.5,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 90.9,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7778294573643412,
+    "cache_hit": false
+  },
+  "reagan02_pace_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8624144672531772,
+    "cache_hit": false
+  },
+  "reagan02_pace_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8624144672531772,
+    "cache_hit": false
+  },
+  "reagan02_pace_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8566424614811714,
+    "cache_hit": false
+  },
+  "reagan02_pace_level4": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8566424614811714,
+    "cache_hit": false
+  },
+  "reagan02_intonation_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9873383200872682,
+    "cache_hit": false
+  },
+  "reagan02_intonation_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9873383200872682,
+    "cache_hit": false
+  },
+  "reagan02_intonation_level3": {
+    "score": 98.1,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 93.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9873383200872682,
+    "cache_hit": false
+  },
+  "reagan02_intonation_level4": {
+    "score": 96.1,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 85.9,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9873383200872682,
+    "cache_hit": false
+  },
+  "reagan02_pauses_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9873383200872682,
+    "cache_hit": false
+  },
+  "reagan02_pauses_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9815663143152624,
+    "cache_hit": false
+  },
+  "reagan02_pauses_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9815663143152624,
+    "cache_hit": false
+  },
+  "reagan02_pauses_level4": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9815663143152624,
+    "cache_hit": false
+  },
+  "reagan02_energy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9873383200872682,
+    "cache_hit": false
+  },
+  "reagan02_energy_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9873383200872682,
+    "cache_hit": false
+  },
+  "reagan02_energy_level3": {
+    "score": 99.1,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 96.1,
+      "clarity": null
+    },
+    "coverage": 0.9873383200872682,
+    "cache_hit": false
+  },
+  "reagan02_energy_level4": {
+    "score": 98.7,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 94.3,
+      "clarity": null
+    },
+    "coverage": 0.9873383200872682,
+    "cache_hit": false
+  },
+  "reagan02_clarity_proxy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9873383200872682,
+    "cache_hit": false
+  },
+  "reagan02_clarity_proxy_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9815663143152624,
+    "cache_hit": false
+  },
+  "reagan02_clarity_proxy_level3": {
+    "score": 100.0,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9757943085432567,
+    "cache_hit": false
+  },
+  "reagan02_clarity_proxy_level4": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8479844528231629,
+    "cache_hit": false
+  },
+  "reagan02_accepted_gain_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9873383200872682,
+    "cache_hit": false
+  },
+  "reagan02_sham_stretch_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9873383200872682,
+    "cache_hit": false
+  },
+  "reagan02_sham_world_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9873383200872682,
+    "cache_hit": false
+  },
+  "reagan02_compound2_level2": {
+    "score": 99.8,
+    "events": 2,
+    "category_scores": {
+      "pacing": 99.5,
+      "pauses": 100.0,
+      "intonation": 99.9,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9815663143152624,
+    "cache_hit": false
+  },
+  "reagan02_compound4_level4": {
+    "score": 94.3,
+    "events": 5,
+    "category_scores": {
+      "pacing": 88.5,
+      "pauses": 99.7,
+      "intonation": 91.9,
+      "energy": 99.3,
+      "clarity": null
+    },
+    "coverage": 0.9757943085432567,
+    "cache_hit": false
+  },
+  "obama01_pace_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7709727240287259,
+    "cache_hit": false
+  },
+  "obama01_pace_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7757008564164327,
+    "cache_hit": false
+  },
+  "obama01_pace_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7567883268656053,
+    "cache_hit": false
+  },
+  "obama01_pace_level4": {
+    "score": 100.0,
+    "events": 1,
+    "category_scores": {
+      "pacing": 99.9,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7473320620901915,
+    "cache_hit": false
+  },
+  "obama01_intonation_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9905437352245865,
+    "cache_hit": false
+  },
+  "obama01_intonation_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9905437352245865,
+    "cache_hit": false
+  },
+  "obama01_intonation_level3": {
+    "score": 96.7,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 88.1,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9905437352245865,
+    "cache_hit": false
+  },
+  "obama01_intonation_level4": {
+    "score": 93.7,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 77.2,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9905437352245865,
+    "cache_hit": false
+  },
+  "obama01_pauses_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9905437352245865,
+    "cache_hit": false
+  },
+  "obama01_pauses_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9905437352245865,
+    "cache_hit": false
+  },
+  "obama01_pauses_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9905437352245865,
+    "cache_hit": false
+  },
+  "obama01_pauses_level4": {
+    "score": 99.5,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 97.8,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9905437352245865,
+    "cache_hit": false
+  },
+  "obama01_energy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9905437352245865,
+    "cache_hit": false
+  },
+  "obama01_energy_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9905437352245865,
+    "cache_hit": false
+  },
+  "obama01_energy_level3": {
+    "score": 97.0,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 86.3,
+      "clarity": null
+    },
+    "coverage": 0.9905437352245865,
+    "cache_hit": false
+  },
+  "obama01_energy_level4": {
+    "score": 95.3,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 78.9,
+      "clarity": null
+    },
+    "coverage": 0.9905437352245865,
+    "cache_hit": false
+  },
+  "obama01_clarity_proxy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9905437352245865,
+    "cache_hit": false
+  },
+  "obama01_clarity_proxy_level2": {
+    "score": 100.0,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9905437352245865,
+    "cache_hit": false
+  },
+  "obama01_clarity_proxy_level3": {
+    "score": 100.0,
+    "events": 2,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9621749408983453,
+    "cache_hit": false
+  },
+  "obama01_clarity_proxy_level4": {
+    "score": 100.0,
+    "events": 1,
+    "category_scores": {
+      "pacing": 99.9,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7473320620901915,
+    "cache_hit": false
+  },
+  "obama01_accepted_gain_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9905437352245865,
+    "cache_hit": false
+  },
+  "obama01_sham_stretch_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9905437352245865,
+    "cache_hit": false
+  },
+  "obama01_sham_world_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9905437352245865,
+    "cache_hit": false
+  },
+  "obama01_compound2_level2": {
+    "score": 100.0,
+    "events": 1,
+    "category_scores": {
+      "pacing": 99.9,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7615164592533121,
+    "cache_hit": false
+  },
+  "obama01_compound4_level4": {
+    "score": 86.6,
+    "events": 2,
+    "category_scores": {
+      "pacing": 99.9,
+      "pauses": 100.0,
+      "intonation": 51.9,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7615164592533121,
+    "cache_hit": false
+  },
+  "obama02_pace_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9309510570978459,
+    "cache_hit": false
+  },
+  "obama02_pace_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9251790513258401,
+    "cache_hit": false
+  },
+  "obama02_pace_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9251790513258401,
+    "cache_hit": false
+  },
+  "obama02_pace_level4": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9165210426678316,
+    "cache_hit": false
+  },
+  "obama02_intonation_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9942279942279942,
+    "cache_hit": false
+  },
+  "obama02_intonation_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9942279942279942,
+    "cache_hit": false
+  },
+  "obama02_intonation_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9942279942279942,
+    "cache_hit": false
+  },
+  "obama02_intonation_level4": {
+    "score": 99.4,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 98.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9942279942279942,
+    "cache_hit": false
+  },
+  "obama02_pauses_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9942279942279942,
+    "cache_hit": false
+  },
+  "obama02_pauses_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9942279942279942,
+    "cache_hit": false
+  },
+  "obama02_pauses_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9942279942279942,
+    "cache_hit": false
+  },
+  "obama02_pauses_level4": {
+    "score": 99.7,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 98.7,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9942279942279942,
+    "cache_hit": false
+  },
+  "obama02_energy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9942279942279942,
+    "cache_hit": false
+  },
+  "obama02_energy_level2": {
+    "score": 99.9,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 99.7,
+      "clarity": null
+    },
+    "coverage": 0.9942279942279942,
+    "cache_hit": false
+  },
+  "obama02_energy_level3": {
+    "score": 99.0,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 95.6,
+      "clarity": null
+    },
+    "coverage": 0.9942279942279942,
+    "cache_hit": false
+  },
+  "obama02_energy_level4": {
+    "score": 98.5,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 93.3,
+      "clarity": null
+    },
+    "coverage": 0.9942279942279942,
+    "cache_hit": false
+  },
+  "obama02_clarity_proxy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9942279942279942,
+    "cache_hit": false
+  },
+  "obama02_clarity_proxy_level2": {
+    "score": 100.0,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9942279942279942,
+    "cache_hit": false
+  },
+  "obama02_clarity_proxy_level3": {
+    "score": 100.0,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9942279942279942,
+    "cache_hit": false
+  },
+  "obama02_clarity_proxy_level4": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9194070455538343,
+    "cache_hit": false
+  },
+  "obama02_accepted_gain_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9942279942279942,
+    "cache_hit": false
+  },
+  "obama02_sham_stretch_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9942279942279942,
+    "cache_hit": false
+  },
+  "obama02_sham_world_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9942279942279942,
+    "cache_hit": false
+  },
+  "obama02_compound2_level2": {
+    "score": 99.7,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 98.8,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9194070455538343,
+    "cache_hit": false
+  },
+  "obama02_compound4_level4": {
+    "score": 96.1,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 86.1,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9165210426678316,
+    "cache_hit": false
+  },
+  "fdr02_pace_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8245462084894091,
+    "cache_hit": false
+  },
+  "fdr02_pace_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7668382348884809,
+    "cache_hit": false
+  },
+  "fdr02_pace_level3": {
+    "score": 98.9,
+    "events": 2,
+    "category_scores": {
+      "pacing": 96.1,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8110781950213956,
+    "cache_hit": false
+  },
+  "fdr02_pace_level4": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.750003218053464,
+    "cache_hit": false
+  },
+  "fdr02_intonation_level1": {
+    "score": 99.0,
+    "events": 1,
+    "category_scores": {
+      "pacing": 96.5,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8245462084894091,
+    "cache_hit": false
+  },
+  "fdr02_intonation_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8312802152234159,
+    "cache_hit": false
+  },
+  "fdr02_intonation_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8245462084894091,
+    "cache_hit": false
+  },
+  "fdr02_intonation_level4": {
+    "score": 99.9,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 99.7,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8245462084894091,
+    "cache_hit": false
+  },
+  "fdr02_pauses_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8312802152234159,
+    "cache_hit": false
+  },
+  "fdr02_pauses_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8312802152234159,
+    "cache_hit": false
+  },
+  "fdr02_pauses_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8312802152234159,
+    "cache_hit": false
+  },
+  "fdr02_pauses_level4": {
+    "score": 99.6,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 98.2,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8312802152234159,
+    "cache_hit": false
+  },
+  "fdr02_energy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8312802152234159,
+    "cache_hit": false
+  },
+  "fdr02_energy_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8312802152234159,
+    "cache_hit": false
+  },
+  "fdr02_energy_level3": {
+    "score": 98.9,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 95.0,
+      "clarity": null
+    },
+    "coverage": 0.8312802152234159,
+    "cache_hit": false
+  },
+  "fdr02_energy_level4": {
+    "score": 98.2,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 92.1,
+      "clarity": null
+    },
+    "coverage": 0.8312802152234159,
+    "cache_hit": false
+  },
+  "fdr02_clarity_proxy_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8312802152234159,
+    "cache_hit": false
+  },
+  "fdr02_clarity_proxy_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8245462084894091,
+    "cache_hit": false
+  },
+  "fdr02_clarity_proxy_level3": {
+    "score": 99.9,
+    "events": 1,
+    "category_scores": {
+      "pacing": 99.8,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7567372247874706,
+    "cache_hit": false
+  },
+  "fdr02_clarity_proxy_level4": {
+    "score": 99.9,
+    "events": 1,
+    "category_scores": {
+      "pacing": 99.8,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.7533702214204674,
+    "cache_hit": false
+  },
+  "fdr02_accepted_gain_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8312802152234159,
+    "cache_hit": false
+  },
+  "fdr02_sham_stretch_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8312802152234159,
+    "cache_hit": false
+  },
+  "fdr02_sham_world_level0": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8245462084894091,
+    "cache_hit": false
+  },
+  "fdr02_compound2_level2": {
+    "score": 100.0,
+    "events": 2,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.68240018977321,
+    "cache_hit": false
+  },
+  "fdr02_compound4_level4": {
+    "score": 100.0,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.6655651729381933,
+    "cache_hit": false
+  },
+  "obama01_heldout_noise_level1": {
+    "score": 100.0,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9810874704491728,
+    "cache_hit": false
+  },
+  "obama01_heldout_noise_level2": {
+    "score": 100.0,
+    "events": 1,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9810874704491728,
+    "cache_hit": false
+  },
+  "obama01_heldout_noise_level3": {
+    "score": 89.3,
+    "events": 2,
+    "category_scores": {
+      "pacing": 62.9,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 98.0,
+      "clarity": null
+    },
+    "coverage": 0.971631205673759,
+    "cache_hit": false
+  },
+  "obama01_heldout_noise_level4": {
+    "score": null,
+    "events": 0,
+    "category_scores": {
+      "pacing": null,
+      "pauses": null,
+      "intonation": null,
+      "energy": null,
+      "clarity": null
+    },
+    "coverage": 0.0,
+    "cache_hit": false
+  },
+  "obama02_heldout_noise_level1": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9884559884559885,
+    "cache_hit": false
+  },
+  "obama02_heldout_noise_level2": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9884559884559885,
+    "cache_hit": false
+  },
+  "obama02_heldout_noise_level3": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.9855699855699857,
+    "cache_hit": false
+  },
+  "obama02_heldout_noise_level4": {
+    "score": 100.0,
+    "events": 0,
+    "category_scores": {
+      "pacing": 100.0,
+      "pauses": 100.0,
+      "intonation": 100.0,
+      "energy": 100.0,
+      "clarity": null
+    },
+    "coverage": 0.8585086337379918,
+    "cache_hit": false
+  }
+}

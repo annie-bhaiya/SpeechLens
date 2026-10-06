@@ -1,0 +1,15 @@
+{
+  "page_count": 6,
+  "limit": 6,
+  "rendered_pages": 6,
+  "visual_review": "passed",
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "review_note": "All six rendered pages inspected. Plot-axis clipping repaired; other reviewed pages remained pixel-identical."
+}

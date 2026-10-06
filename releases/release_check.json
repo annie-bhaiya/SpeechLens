@@ -1,0 +1,61 @@
+{
+  "local_artifacts_passed": true,
+  "submission_complete": false,
+  "missing_artifacts": [],
+  "checksum_errors": [],
+  "dataset_integrity": {
+    "integrity_passed": true,
+    "recordings": 346,
+    "references": 13,
+    "independent_speakers": 6,
+    "independent_sources": 7,
+    "pending_review_recordings": 346,
+    "human_label_gate_passed": false,
+    "errors": [],
+    "splits": {
+      "train": 234,
+      "validation": 52,
+      "test": 60
+    }
+  },
+  "pdf_pages": 6,
+  "video_duration_s": 448.93,
+  "video_duration_passed": true,
+  "visual_reviews": {
+    "report": true,
+    "video": true
+  },
+  "execution_checks": {
+    "tests_passed": true,
+    "fresh_browser_passed": true
+  },
+  "links": [
+    {
+      "name": "GitHub repository",
+      "url": null,
+      "status": "blocked_missing_public_link"
+    },
+    {
+      "name": "Public paired dataset",
+      "url": null,
+      "status": "blocked_missing_public_link"
+    },
+    {
+      "name": "Interactive dashboard",
+      "url": "http://127.0.0.1:8000",
+      "status": "accessible",
+      "http_status": 200
+    },
+    {
+      "name": "Technical report",
+      "url": null,
+      "status": "local_artifact"
+    },
+    {
+      "name": "YouTube demo",
+      "url": null,
+      "status": "blocked_missing_public_link"
+    }
+  ],
+  "human_review_gate_passed": false
+}

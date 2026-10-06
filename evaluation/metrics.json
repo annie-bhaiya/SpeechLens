@@ -1,0 +1,1918 @@
+{
+  "benchmark_kind": "synthetic_intervention_support_proxy_not_perceptual_accuracy",
+  "dataset_integrity": {
+    "integrity_passed": true,
+    "recordings": 346,
+    "references": 13,
+    "independent_speakers": 6,
+    "independent_sources": 7,
+    "pending_review_recordings": 346,
+    "human_label_gate_passed": false,
+    "errors": [],
+    "splits": {
+      "train": 234,
+      "validation": 52,
+      "test": 60
+    }
+  },
+  "evaluated_recordings": 346,
+  "configuration_hash": "e11cc7cbefa56e496985f83c1bf11fb0765c62076a19781732c510ccc43358db",
+  "localization": {
+    "train": {
+      "0.3/pace": {
+        "tp": 6,
+        "fp": 21,
+        "fn": 48,
+        "precision": 0.2222222222222222,
+        "recall": 0.1111111111111111,
+        "f1": 0.14814814814814814,
+        "mean_onset_error_s": 1.3877787807814457e-17,
+        "mean_offset_error_s": 0.02037500000000096,
+        "matched_events": 6,
+        "missed_events": 48
+      },
+      "0.3/intonation": {
+        "tp": 24,
+        "fp": 6,
+        "fn": 30,
+        "precision": 0.8,
+        "recall": 0.4444444444444444,
+        "f1": 0.5714285714285714,
+        "mean_onset_error_s": 0.004666666666666827,
+        "mean_offset_error_s": 0.0055000000000006155,
+        "matched_events": 24,
+        "missed_events": 30
+      },
+      "0.3/pauses": {
+        "tp": 11,
+        "fp": 2,
+        "fn": 25,
+        "precision": 0.8461538461538461,
+        "recall": 0.3055555555555556,
+        "f1": 0.4489795918367347,
+        "mean_onset_error_s": 0.2709090909090906,
+        "mean_offset_error_s": 0.28022727272727416,
+        "matched_events": 11,
+        "missed_events": 25
+      },
+      "0.3/energy": {
+        "tp": 16,
+        "fp": 0,
+        "fn": 20,
+        "precision": 1.0,
+        "recall": 0.4444444444444444,
+        "f1": 0.6153846153846154,
+        "mean_onset_error_s": 0.0012500000000006464,
+        "mean_offset_error_s": 0.028750000000000497,
+        "matched_events": 16,
+        "missed_events": 20
+      },
+      "0.3/recording_quality": {
+        "tp": 0,
+        "fp": 13,
+        "fn": 36,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "mean_onset_error_s": null,
+        "mean_offset_error_s": null,
+        "matched_events": 0,
+        "missed_events": 36
+      },
+      "0.5/pace": {
+        "tp": 6,
+        "fp": 21,
+        "fn": 48,
+        "precision": 0.2222222222222222,
+        "recall": 0.1111111111111111,
+        "f1": 0.14814814814814814,
+        "mean_onset_error_s": 1.3877787807814457e-17,
+        "mean_offset_error_s": 0.02037500000000096,
+        "matched_events": 6,
+        "missed_events": 48
+      },
+      "0.5/intonation": {
+        "tp": 24,
+        "fp": 6,
+        "fn": 30,
+        "precision": 0.8,
+        "recall": 0.4444444444444444,
+        "f1": 0.5714285714285714,
+        "mean_onset_error_s": 0.004666666666666827,
+        "mean_offset_error_s": 0.0055000000000006155,
+        "matched_events": 24,
+        "missed_events": 30
+      },
+      "0.5/pauses": {
+        "tp": 11,
+        "fp": 2,
+        "fn": 25,
+        "precision": 0.8461538461538461,
+        "recall": 0.3055555555555556,
+        "f1": 0.4489795918367347,
+        "mean_onset_error_s": 0.2709090909090906,
+        "mean_offset_error_s": 0.28022727272727416,
+        "matched_events": 11,
+        "missed_events": 25
+      },
+      "0.5/energy": {
+        "tp": 16,
+        "fp": 0,
+        "fn": 20,
+        "precision": 1.0,
+        "recall": 0.4444444444444444,
+        "f1": 0.6153846153846154,
+        "mean_onset_error_s": 0.0012500000000006464,
+        "mean_offset_error_s": 0.028750000000000497,
+        "matched_events": 16,
+        "missed_events": 20
+      },
+      "0.5/recording_quality": {
+        "tp": 0,
+        "fp": 13,
+        "fn": 36,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "mean_onset_error_s": null,
+        "mean_offset_error_s": null,
+        "matched_events": 0,
+        "missed_events": 36
+      }
+    },
+    "validation": {
+      "0.3/pace": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 10,
+        "precision": 1.0,
+        "recall": 0.16666666666666666,
+        "f1": 0.2857142857142857,
+        "mean_onset_error_s": 1.7763568394002505e-15,
+        "mean_offset_error_s": 0.14599999999999902,
+        "matched_events": 2,
+        "missed_events": 10
+      },
+      "0.3/intonation": {
+        "tp": 8,
+        "fp": 2,
+        "fn": 4,
+        "precision": 0.8,
+        "recall": 0.6666666666666666,
+        "f1": 0.7272727272727273,
+        "mean_onset_error_s": 4.510281037539698e-16,
+        "mean_offset_error_s": 0.01000000000000123,
+        "matched_events": 8,
+        "missed_events": 4
+      },
+      "0.3/pauses": {
+        "tp": 2,
+        "fp": 2,
+        "fn": 6,
+        "precision": 0.5,
+        "recall": 0.25,
+        "f1": 0.3333333333333333,
+        "mean_onset_error_s": 0.04999999999999716,
+        "mean_offset_error_s": 0.06093749999999787,
+        "matched_events": 2,
+        "missed_events": 6
+      },
+      "0.3/energy": {
+        "tp": 5,
+        "fp": 1,
+        "fn": 3,
+        "precision": 0.8333333333333334,
+        "recall": 0.625,
+        "f1": 0.7142857142857143,
+        "mean_onset_error_s": 7.105427357601002e-16,
+        "mean_offset_error_s": 0.012000000000002587,
+        "matched_events": 5,
+        "missed_events": 3
+      },
+      "0.3/recording_quality": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 6,
+        "precision": 1.0,
+        "recall": 0.25,
+        "f1": 0.4,
+        "mean_onset_error_s": 8.881784197001252e-16,
+        "mean_offset_error_s": 0.020000000000002238,
+        "matched_events": 2,
+        "missed_events": 6
+      },
+      "0.5/pace": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 10,
+        "precision": 1.0,
+        "recall": 0.16666666666666666,
+        "f1": 0.2857142857142857,
+        "mean_onset_error_s": 1.7763568394002505e-15,
+        "mean_offset_error_s": 0.14599999999999902,
+        "matched_events": 2,
+        "missed_events": 10
+      },
+      "0.5/intonation": {
+        "tp": 8,
+        "fp": 2,
+        "fn": 4,
+        "precision": 0.8,
+        "recall": 0.6666666666666666,
+        "f1": 0.7272727272727273,
+        "mean_onset_error_s": 4.510281037539698e-16,
+        "mean_offset_error_s": 0.01000000000000123,
+        "matched_events": 8,
+        "missed_events": 4
+      },
+      "0.5/pauses": {
+        "tp": 2,
+        "fp": 2,
+        "fn": 6,
+        "precision": 0.5,
+        "recall": 0.25,
+        "f1": 0.3333333333333333,
+        "mean_onset_error_s": 0.04999999999999716,
+        "mean_offset_error_s": 0.06093749999999787,
+        "matched_events": 2,
+        "missed_events": 6
+      },
+      "0.5/energy": {
+        "tp": 5,
+        "fp": 1,
+        "fn": 3,
+        "precision": 0.8333333333333334,
+        "recall": 0.625,
+        "f1": 0.7142857142857143,
+        "mean_onset_error_s": 7.105427357601002e-16,
+        "mean_offset_error_s": 0.012000000000002587,
+        "matched_events": 5,
+        "missed_events": 3
+      },
+      "0.5/recording_quality": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 6,
+        "precision": 1.0,
+        "recall": 0.25,
+        "f1": 0.4,
+        "mean_onset_error_s": 8.881784197001252e-16,
+        "mean_offset_error_s": 0.020000000000002238,
+        "matched_events": 2,
+        "missed_events": 6
+      }
+    },
+    "test": {
+      "0.3/pace": {
+        "tp": 0,
+        "fp": 8,
+        "fn": 12,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "mean_onset_error_s": null,
+        "mean_offset_error_s": null,
+        "matched_events": 0,
+        "missed_events": 12
+      },
+      "0.3/intonation": {
+        "tp": 6,
+        "fp": 0,
+        "fn": 6,
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1": 0.6666666666666666,
+        "mean_onset_error_s": 6.059967342745646e-16,
+        "mean_offset_error_s": 0.16000000000000072,
+        "matched_events": 6,
+        "missed_events": 6
+      },
+      "0.3/pauses": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 6,
+        "precision": 1.0,
+        "recall": 0.25,
+        "f1": 0.4,
+        "mean_onset_error_s": 0.48499999999999943,
+        "mean_offset_error_s": 0.47846874999999933,
+        "matched_events": 2,
+        "missed_events": 6
+      },
+      "0.3/energy": {
+        "tp": 5,
+        "fp": 1,
+        "fn": 3,
+        "precision": 0.8333333333333334,
+        "recall": 0.625,
+        "f1": 0.7142857142857143,
+        "mean_onset_error_s": 2.1316282072803005e-15,
+        "mean_offset_error_s": 0.004000000000002046,
+        "matched_events": 5,
+        "missed_events": 3
+      },
+      "0.3/recording_quality": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 12,
+        "precision": 1.0,
+        "recall": 0.25,
+        "f1": 0.4,
+        "mean_onset_error_s": 1.7763568394002505e-15,
+        "mean_offset_error_s": 1.7763568394002505e-15,
+        "matched_events": 4,
+        "missed_events": 12
+      },
+      "0.5/pace": {
+        "tp": 0,
+        "fp": 8,
+        "fn": 12,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "mean_onset_error_s": null,
+        "mean_offset_error_s": null,
+        "matched_events": 0,
+        "missed_events": 12
+      },
+      "0.5/intonation": {
+        "tp": 6,
+        "fp": 0,
+        "fn": 6,
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1": 0.6666666666666666,
+        "mean_onset_error_s": 6.059967342745646e-16,
+        "mean_offset_error_s": 0.16000000000000072,
+        "matched_events": 6,
+        "missed_events": 6
+      },
+      "0.5/pauses": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 6,
+        "precision": 1.0,
+        "recall": 0.25,
+        "f1": 0.4,
+        "mean_onset_error_s": 0.48499999999999943,
+        "mean_offset_error_s": 0.47846874999999933,
+        "matched_events": 2,
+        "missed_events": 6
+      },
+      "0.5/energy": {
+        "tp": 5,
+        "fp": 1,
+        "fn": 3,
+        "precision": 0.8333333333333334,
+        "recall": 0.625,
+        "f1": 0.7142857142857143,
+        "mean_onset_error_s": 2.1316282072803005e-15,
+        "mean_offset_error_s": 0.004000000000002046,
+        "matched_events": 5,
+        "missed_events": 3
+      },
+      "0.5/recording_quality": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 12,
+        "precision": 1.0,
+        "recall": 0.25,
+        "f1": 0.4,
+        "mean_onset_error_s": 1.7763568394002505e-15,
+        "mean_offset_error_s": 1.7763568394002505e-15,
+        "matched_events": 4,
+        "missed_events": 12
+      }
+    }
+  },
+  "localization_aggregates": {
+    "train": {
+      "0.3": {
+        "micro": {
+          "tp": 57,
+          "fp": 42,
+          "fn": 159,
+          "precision": 0.5757575757575758,
+          "recall": 0.2638888888888889,
+          "f1": 0.3619047619047619
+        },
+        "macro_f1": 0.35678818535961393
+      },
+      "0.5": {
+        "micro": {
+          "tp": 57,
+          "fp": 42,
+          "fn": 159,
+          "precision": 0.5757575757575758,
+          "recall": 0.2638888888888889,
+          "f1": 0.3619047619047619
+        },
+        "macro_f1": 0.35678818535961393
+      }
+    },
+    "validation": {
+      "0.3": {
+        "micro": {
+          "tp": 19,
+          "fp": 5,
+          "fn": 29,
+          "precision": 0.7916666666666666,
+          "recall": 0.3958333333333333,
+          "f1": 0.5277777777777778
+        },
+        "macro_f1": 0.49212121212121207
+      },
+      "0.5": {
+        "micro": {
+          "tp": 19,
+          "fp": 5,
+          "fn": 29,
+          "precision": 0.7916666666666666,
+          "recall": 0.3958333333333333,
+          "f1": 0.5277777777777778
+        },
+        "macro_f1": 0.49212121212121207
+      }
+    },
+    "test": {
+      "0.3": {
+        "micro": {
+          "tp": 17,
+          "fp": 9,
+          "fn": 39,
+          "precision": 0.6538461538461539,
+          "recall": 0.30357142857142855,
+          "f1": 0.4146341463414634
+        },
+        "macro_f1": 0.43619047619047613
+      },
+      "0.5": {
+        "micro": {
+          "tp": 17,
+          "fp": 9,
+          "fn": 39,
+          "precision": 0.6538461538461539,
+          "recall": 0.30357142857142855,
+          "f1": 0.4146341463414634
+        },
+        "macro_f1": 0.43619047619047613
+      }
+    }
+  },
+  "held_out_generation_method": {
+    "method": "local_noise_proxy",
+    "split": "test only",
+    "n": 8,
+    "thresholds_tuned_on_method": false,
+    "localization": {
+      "0.3": {
+        "tp": 0,
+        "fp": 4,
+        "fn": 8,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "0.5": {
+        "tp": 0,
+        "fp": 4,
+        "fn": 8,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    }
+  },
+  "condition_localization_tiou_0_5": {
+    "train/accepted": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "precision": null,
+      "recall": null,
+      "f1": null,
+      "recordings": 9
+    },
+    "validation/accepted": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "precision": null,
+      "recall": null,
+      "f1": null,
+      "recordings": 2
+    },
+    "test/accepted": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "precision": null,
+      "recall": null,
+      "f1": null,
+      "recordings": 2
+    },
+    "train/near_perfect": {
+      "tp": 0,
+      "fp": 6,
+      "fn": 45,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "recordings": 45
+    },
+    "train/pace": {
+      "tp": 3,
+      "fp": 7,
+      "fn": 24,
+      "precision": 0.3,
+      "recall": 0.1111111111111111,
+      "f1": 0.16216216216216217,
+      "recordings": 27
+    },
+    "train/intonation": {
+      "tp": 13,
+      "fp": 2,
+      "fn": 14,
+      "precision": 0.8666666666666667,
+      "recall": 0.48148148148148145,
+      "f1": 0.6190476190476191,
+      "recordings": 27
+    },
+    "train/pauses": {
+      "tp": 11,
+      "fp": 9,
+      "fn": 16,
+      "precision": 0.55,
+      "recall": 0.4074074074074074,
+      "f1": 0.46808510638297873,
+      "recordings": 27
+    },
+    "train/energy": {
+      "tp": 16,
+      "fp": 0,
+      "fn": 11,
+      "precision": 1.0,
+      "recall": 0.5925925925925926,
+      "f1": 0.7441860465116279,
+      "recordings": 27
+    },
+    "train/clarity_proxy": {
+      "tp": 0,
+      "fp": 2,
+      "fn": 27,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "recordings": 27
+    },
+    "train/accepted_gain": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "precision": null,
+      "recall": null,
+      "f1": null,
+      "recordings": 9
+    },
+    "train/sham_stretch": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "precision": null,
+      "recall": null,
+      "f1": null,
+      "recordings": 9
+    },
+    "train/sham_world": {
+      "tp": 0,
+      "fp": 3,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": null,
+      "f1": 0.0,
+      "recordings": 9
+    },
+    "train/compound2": {
+      "tp": 5,
+      "fp": 6,
+      "fn": 13,
+      "precision": 0.45454545454545453,
+      "recall": 0.2777777777777778,
+      "f1": 0.3448275862068966,
+      "recordings": 9
+    },
+    "train/compound4": {
+      "tp": 9,
+      "fp": 7,
+      "fn": 9,
+      "precision": 0.5625,
+      "recall": 0.5,
+      "f1": 0.5294117647058824,
+      "recordings": 9
+    },
+    "validation/near_perfect": {
+      "tp": 0,
+      "fp": 1,
+      "fn": 10,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "recordings": 10
+    },
+    "validation/pace": {
+      "tp": 0,
+      "fp": 1,
+      "fn": 6,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "recordings": 6
+    },
+    "validation/intonation": {
+      "tp": 4,
+      "fp": 0,
+      "fn": 2,
+      "precision": 1.0,
+      "recall": 0.6666666666666666,
+      "f1": 0.8,
+      "recordings": 6
+    },
+    "validation/pauses": {
+      "tp": 2,
+      "fp": 0,
+      "fn": 4,
+      "precision": 1.0,
+      "recall": 0.3333333333333333,
+      "f1": 0.5,
+      "recordings": 6
+    },
+    "validation/energy": {
+      "tp": 5,
+      "fp": 0,
+      "fn": 1,
+      "precision": 1.0,
+      "recall": 0.8333333333333334,
+      "f1": 0.9090909090909091,
+      "recordings": 6
+    },
+    "validation/clarity_proxy": {
+      "tp": 2,
+      "fp": 0,
+      "fn": 4,
+      "precision": 1.0,
+      "recall": 0.3333333333333333,
+      "f1": 0.5,
+      "recordings": 6
+    },
+    "validation/accepted_gain": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "precision": null,
+      "recall": null,
+      "f1": null,
+      "recordings": 2
+    },
+    "validation/sham_stretch": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "precision": null,
+      "recall": null,
+      "f1": null,
+      "recordings": 2
+    },
+    "validation/sham_world": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "precision": null,
+      "recall": null,
+      "f1": null,
+      "recordings": 2
+    },
+    "validation/compound2": {
+      "tp": 3,
+      "fp": 0,
+      "fn": 1,
+      "precision": 1.0,
+      "recall": 0.75,
+      "f1": 0.8571428571428571,
+      "recordings": 2
+    },
+    "validation/compound4": {
+      "tp": 3,
+      "fp": 3,
+      "fn": 1,
+      "precision": 0.5,
+      "recall": 0.75,
+      "f1": 0.6,
+      "recordings": 2
+    },
+    "test/near_perfect": {
+      "tp": 0,
+      "fp": 1,
+      "fn": 12,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "recordings": 12
+    },
+    "test/pace": {
+      "tp": 0,
+      "fp": 1,
+      "fn": 6,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "recordings": 6
+    },
+    "test/intonation": {
+      "tp": 3,
+      "fp": 0,
+      "fn": 3,
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.6666666666666666,
+      "recordings": 6
+    },
+    "test/pauses": {
+      "tp": 2,
+      "fp": 0,
+      "fn": 4,
+      "precision": 1.0,
+      "recall": 0.3333333333333333,
+      "f1": 0.5,
+      "recordings": 6
+    },
+    "test/energy": {
+      "tp": 5,
+      "fp": 0,
+      "fn": 1,
+      "precision": 1.0,
+      "recall": 0.8333333333333334,
+      "f1": 0.9090909090909091,
+      "recordings": 6
+    },
+    "test/clarity_proxy": {
+      "tp": 4,
+      "fp": 5,
+      "fn": 8,
+      "precision": 0.4444444444444444,
+      "recall": 0.3333333333333333,
+      "f1": 0.38095238095238093,
+      "recordings": 12
+    },
+    "test/accepted_gain": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "precision": null,
+      "recall": null,
+      "f1": null,
+      "recordings": 2
+    },
+    "test/sham_stretch": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "precision": null,
+      "recall": null,
+      "f1": null,
+      "recordings": 2
+    },
+    "test/sham_world": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "precision": null,
+      "recall": null,
+      "f1": null,
+      "recordings": 2
+    },
+    "test/compound2": {
+      "tp": 1,
+      "fp": 1,
+      "fn": 3,
+      "precision": 0.5,
+      "recall": 0.25,
+      "f1": 0.3333333333333333,
+      "recordings": 2
+    },
+    "test/compound4": {
+      "tp": 2,
+      "fp": 1,
+      "fn": 2,
+      "precision": 0.6666666666666666,
+      "recall": 0.5,
+      "f1": 0.5714285714285714,
+      "recordings": 2
+    }
+  },
+  "alignment_coverage_by_speaker": {
+    "eisenhower": {
+      "n": 52,
+      "mean_coverage": 0.9875745169862817,
+      "independent_boundary_accuracy": null
+    },
+    "fdr": {
+      "n": 52,
+      "mean_coverage": 0.8051128466976856,
+      "independent_boundary_accuracy": null
+    },
+    "jfk": {
+      "n": 78,
+      "mean_coverage": 0.9152922783789723,
+      "independent_boundary_accuracy": null
+    },
+    "nixon": {
+      "n": 52,
+      "mean_coverage": 0.967327315541601,
+      "independent_boundary_accuracy": null
+    },
+    "obama": {
+      "n": 60,
+      "mean_coverage": 0.9436965811965811,
+      "independent_boundary_accuracy": null
+    },
+    "reagan": {
+      "n": 52,
+      "mean_coverage": 0.9762666925340316,
+      "independent_boundary_accuracy": null
+    }
+  },
+  "explanation_audit": {
+    "events_audited": 149,
+    "all_quote_clock_value_rule_checks_passed": true,
+    "human_advice_usefulness": null
+  },
+  "held_out_test_macro_f1_tiou_0_5_proxy": 0.43619047619047613,
+  "severity_ordering": [
+    {
+      "source": "jfk01",
+      "family": "pace",
+      "n": 4,
+      "spearman": 0.7378647873726218,
+      "pairwise_strict_ordering_accuracy": 0.6666666666666666,
+      "monotonicity_violations": 1,
+      "penalties": [
+        0.0,
+        0.0,
+        15.299999999999997,
+        12.799999999999997
+      ],
+      "sum_downward_adjacent_penalty_points": 2.5,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "jfk01",
+      "family": "intonation",
+      "n": 4,
+      "spearman": null,
+      "pairwise_strict_ordering_accuracy": 0.0,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "jfk01",
+      "family": "pauses",
+      "n": 4,
+      "spearman": null,
+      "pairwise_strict_ordering_accuracy": 0.0,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "jfk01",
+      "family": "energy",
+      "n": 4,
+      "spearman": 0.9486832980505139,
+      "pairwise_strict_ordering_accuracy": 0.8333333333333334,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        6.200000000000003,
+        11.400000000000006
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "jfk02",
+      "family": "pace",
+      "n": 4,
+      "spearman": null,
+      "pairwise_strict_ordering_accuracy": 0.0,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "jfk02",
+      "family": "intonation",
+      "n": 4,
+      "spearman": null,
+      "pairwise_strict_ordering_accuracy": 0.0,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "jfk02",
+      "family": "pauses",
+      "n": 4,
+      "spearman": 0.9486832980505139,
+      "pairwise_strict_ordering_accuracy": 0.8333333333333334,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        1.0,
+        1.5999999999999943
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "jfk02",
+      "family": "energy",
+      "n": 4,
+      "spearman": 0.9486832980505139,
+      "pairwise_strict_ordering_accuracy": 0.8333333333333334,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        1.5999999999999943,
+        5.0
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "jfk03",
+      "family": "pace",
+      "n": 4,
+      "spearman": -0.2581988897471611,
+      "pairwise_strict_ordering_accuracy": 0.16666666666666666,
+      "monotonicity_violations": 2,
+      "penalties": [
+        0.0,
+        0.5,
+        0.0,
+        0.0
+      ],
+      "sum_downward_adjacent_penalty_points": 0.5,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "jfk03",
+      "family": "intonation",
+      "n": 4,
+      "spearman": 1.0,
+      "pairwise_strict_ordering_accuracy": 1.0,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.09999999999999432,
+        5.400000000000006,
+        9.5
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "jfk03",
+      "family": "pauses",
+      "n": 4,
+      "spearman": 0.9486832980505139,
+      "pairwise_strict_ordering_accuracy": 0.8333333333333334,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        0.7999999999999972,
+        1.2000000000000028
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "jfk03",
+      "family": "energy",
+      "n": 4,
+      "spearman": 0.7745966692414834,
+      "pairwise_strict_ordering_accuracy": 0.5,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        0.0,
+        1.5999999999999943
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "eisenhower01",
+      "family": "pace",
+      "n": 4,
+      "spearman": 0.7745966692414834,
+      "pairwise_strict_ordering_accuracy": 0.5,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        0.0,
+        15.700000000000003
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "eisenhower01",
+      "family": "intonation",
+      "n": 4,
+      "spearman": 0.7999999999999999,
+      "pairwise_strict_ordering_accuracy": 0.8333333333333334,
+      "monotonicity_violations": 1,
+      "penalties": [
+        0.0,
+        11.099999999999994,
+        9.400000000000006,
+        15.700000000000003
+      ],
+      "sum_downward_adjacent_penalty_points": 1.6999999999999886,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "eisenhower01",
+      "family": "pauses",
+      "n": 4,
+      "spearman": 0.9486832980505139,
+      "pairwise_strict_ordering_accuracy": 0.8333333333333334,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        1.2999999999999972,
+        2.0
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "eisenhower01",
+      "family": "energy",
+      "n": 4,
+      "spearman": 0.9486832980505139,
+      "pairwise_strict_ordering_accuracy": 0.8333333333333334,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        2.5999999999999943,
+        4.400000000000006
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "eisenhower02",
+      "family": "pace",
+      "n": 4,
+      "spearman": 0.2581988897471611,
+      "pairwise_strict_ordering_accuracy": 0.3333333333333333,
+      "monotonicity_violations": 1,
+      "penalties": [
+        0.0,
+        0.0,
+        1.5,
+        0.0
+      ],
+      "sum_downward_adjacent_penalty_points": 1.5,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "eisenhower02",
+      "family": "intonation",
+      "n": 4,
+      "spearman": 0.9486832980505139,
+      "pairwise_strict_ordering_accuracy": 0.8333333333333334,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        2.4000000000000057,
+        4.299999999999997
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "eisenhower02",
+      "family": "pauses",
+      "n": 4,
+      "spearman": 0.7745966692414834,
+      "pairwise_strict_ordering_accuracy": 0.5,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        0.0,
+        1.5999999999999943
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "eisenhower02",
+      "family": "energy",
+      "n": 4,
+      "spearman": 0.9486832980505139,
+      "pairwise_strict_ordering_accuracy": 0.8333333333333334,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        2.9000000000000057,
+        4.299999999999997
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "nixon01",
+      "family": "pace",
+      "n": 4,
+      "spearman": null,
+      "pairwise_strict_ordering_accuracy": 0.0,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "nixon01",
+      "family": "intonation",
+      "n": 4,
+      "spearman": 0.9486832980505139,
+      "pairwise_strict_ordering_accuracy": 0.8333333333333334,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        8.400000000000006,
+        22.5
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "nixon01",
+      "family": "pauses",
+      "n": 4,
+      "spearman": 0.9486832980505139,
+      "pairwise_strict_ordering_accuracy": 0.8333333333333334,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        1.2999999999999972,
+        2.0999999999999943
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "nixon01",
+      "family": "energy",
+      "n": 4,
+      "spearman": 0.9486832980505139,
+      "pairwise_strict_ordering_accuracy": 0.8333333333333334,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        3.799999999999997,
+        7.599999999999994
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "nixon02",
+      "family": "pace",
+      "n": 4,
+      "spearman": -0.7745966692414834,
+      "pairwise_strict_ordering_accuracy": 0.0,
+      "monotonicity_violations": 3,
+      "penalties": [
+        0.7999999999999972,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "sum_downward_adjacent_penalty_points": 0.7999999999999972,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "nixon02",
+      "family": "intonation",
+      "n": 4,
+      "spearman": 0.9486832980505139,
+      "pairwise_strict_ordering_accuracy": 0.8333333333333334,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        7.400000000000006,
+        14.799999999999997
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "nixon02",
+      "family": "pauses",
+      "n": 4,
+      "spearman": 0.7745966692414834,
+      "pairwise_strict_ordering_accuracy": 0.5,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        0.0,
+        1.9000000000000057
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "nixon02",
+      "family": "energy",
+      "n": 4,
+      "spearman": 1.0,
+      "pairwise_strict_ordering_accuracy": 1.0,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.5999999999999943,
+        9.5,
+        14.200000000000003
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "reagan01",
+      "family": "pace",
+      "n": 4,
+      "spearman": null,
+      "pairwise_strict_ordering_accuracy": 0.0,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "reagan01",
+      "family": "intonation",
+      "n": 4,
+      "spearman": 0.9486832980505139,
+      "pairwise_strict_ordering_accuracy": 0.8333333333333334,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        11.0,
+        24.299999999999997
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "reagan01",
+      "family": "pauses",
+      "n": 4,
+      "spearman": 0.9486832980505139,
+      "pairwise_strict_ordering_accuracy": 0.8333333333333334,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        1.0999999999999943,
+        1.7000000000000028
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "reagan01",
+      "family": "energy",
+      "n": 4,
+      "spearman": 1.0,
+      "pairwise_strict_ordering_accuracy": 1.0,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.5,
+        14.299999999999997,
+        19.599999999999994
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "reagan02",
+      "family": "pace",
+      "n": 4,
+      "spearman": null,
+      "pairwise_strict_ordering_accuracy": 0.0,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "reagan02",
+      "family": "intonation",
+      "n": 4,
+      "spearman": 0.9486832980505139,
+      "pairwise_strict_ordering_accuracy": 0.8333333333333334,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        7.0,
+        14.099999999999994
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "reagan02",
+      "family": "pauses",
+      "n": 4,
+      "spearman": null,
+      "pairwise_strict_ordering_accuracy": 0.0,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "reagan02",
+      "family": "energy",
+      "n": 4,
+      "spearman": 0.9486832980505139,
+      "pairwise_strict_ordering_accuracy": 0.8333333333333334,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        3.9000000000000057,
+        5.700000000000003
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "obama01",
+      "family": "pace",
+      "n": 4,
+      "spearman": 0.7745966692414834,
+      "pairwise_strict_ordering_accuracy": 0.5,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        0.0,
+        0.09999999999999432
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "obama01",
+      "family": "intonation",
+      "n": 4,
+      "spearman": 0.9486832980505139,
+      "pairwise_strict_ordering_accuracy": 0.8333333333333334,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        11.900000000000006,
+        22.799999999999997
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "obama01",
+      "family": "pauses",
+      "n": 4,
+      "spearman": 0.7745966692414834,
+      "pairwise_strict_ordering_accuracy": 0.5,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        0.0,
+        2.200000000000003
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "obama01",
+      "family": "energy",
+      "n": 4,
+      "spearman": 0.9486832980505139,
+      "pairwise_strict_ordering_accuracy": 0.8333333333333334,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        13.700000000000003,
+        21.099999999999994
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "obama02",
+      "family": "pace",
+      "n": 4,
+      "spearman": null,
+      "pairwise_strict_ordering_accuracy": 0.0,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "obama02",
+      "family": "intonation",
+      "n": 4,
+      "spearman": 0.7745966692414834,
+      "pairwise_strict_ordering_accuracy": 0.5,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        0.0,
+        2.0
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "obama02",
+      "family": "pauses",
+      "n": 4,
+      "spearman": 0.7745966692414834,
+      "pairwise_strict_ordering_accuracy": 0.5,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        0.0,
+        1.2999999999999972
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "obama02",
+      "family": "energy",
+      "n": 4,
+      "spearman": 1.0,
+      "pairwise_strict_ordering_accuracy": 1.0,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.29999999999999716,
+        4.400000000000006,
+        6.700000000000003
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "fdr02",
+      "family": "pace",
+      "n": 4,
+      "spearman": 0.2581988897471611,
+      "pairwise_strict_ordering_accuracy": 0.3333333333333333,
+      "monotonicity_violations": 1,
+      "penalties": [
+        0.0,
+        0.0,
+        3.9000000000000057,
+        0.0
+      ],
+      "sum_downward_adjacent_penalty_points": 3.9000000000000057,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "fdr02",
+      "family": "intonation",
+      "n": 4,
+      "spearman": 0.7745966692414834,
+      "pairwise_strict_ordering_accuracy": 0.5,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        0.0,
+        0.29999999999999716
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "fdr02",
+      "family": "pauses",
+      "n": 4,
+      "spearman": 0.7745966692414834,
+      "pairwise_strict_ordering_accuracy": 0.5,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        0.0,
+        1.7999999999999972
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "source": "fdr02",
+      "family": "energy",
+      "n": 4,
+      "spearman": 0.9486832980505139,
+      "pairwise_strict_ordering_accuracy": 0.8333333333333334,
+      "monotonicity_violations": 0,
+      "penalties": [
+        0.0,
+        0.0,
+        5.0,
+        7.900000000000006
+      ],
+      "sum_downward_adjacent_penalty_points": 0,
+      "levels": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "median_spearman_proxy": 0.9486832980505139,
+  "controls": {
+    "train": {
+      "events": 3,
+      "minutes": 19.861333333333327,
+      "duration_s": 3.1899999999999964,
+      "recordings": 36,
+      "false_events_per_minute_proxy": 0.15104726100966706,
+      "negative_review_status": "unreviewed synthetic accepted/sham controls; not reviewed human negatives"
+    },
+    "validation": {
+      "events": 0,
+      "minutes": 3.9146666666666663,
+      "duration_s": 0,
+      "recordings": 8,
+      "false_events_per_minute_proxy": 0.0,
+      "negative_review_status": "unreviewed synthetic accepted/sham controls; not reviewed human negatives"
+    },
+    "test": {
+      "events": 0,
+      "minutes": 3.4919999999999995,
+      "duration_s": 0,
+      "recordings": 8,
+      "false_events_per_minute_proxy": 0.0,
+      "negative_review_status": "unreviewed synthetic accepted/sham controls; not reviewed human negatives"
+    }
+  },
+  "human_alignment_boundary_accuracy": null,
+  "independent_human_agreement": null,
+  "human_generalization": null,
+  "human_recordings": 0,
+  "independent_reviewers": 0,
+  "confidence_intervals": null,
+  "uncertainty_note": "Only one held-out test speaker. No informative group-bootstrap interval or human validity claim.",
+  "runtime": {
+    "platform": "Windows-10-10.0.26200-SP0",
+    "device": "CPU",
+    "benchmark_wall_s": 1820.1394617000187,
+    "benchmark_concurrent_variants": 4,
+    "median_processing_s_per_audio_s": 0.7159105209061056,
+    "peak_memory_mb": 2250.0703125,
+    "cold_warm_note": "References warmed serially, variants use the stated process concurrency. Per-recording cache flags/timings in runtime.json include contention; app worker is serial. First inference per process includes model initialization. Peak memory is maximum per-process lifetime high water, not aggregate worker-pool memory."
+  },
+  "gates": {
+    "synthetic_macro_f1_target": 0.75,
+    "synthetic_macro_f1_passed": false,
+    "severity_spearman_target": 0.8,
+    "severity_spearman_passed": true,
+    "human_alignment_gate": "unmeasured",
+    "human_reviews_gate": "blocked",
+    "clean_container_gate": "Docker daemon unavailable"
+  },
+  "severity_ordering_coverage": {
+    "groups_requested": 52,
+    "groups_with_category_evidence": 48,
+    "groups_with_defined_spearman": 39,
+    "definition": "Median is over defined within-family correlations. Constant penalties and all-missing groups are not perfect ordering; see per-group nulls, pairwise accuracy and coverage."
+  }
+}

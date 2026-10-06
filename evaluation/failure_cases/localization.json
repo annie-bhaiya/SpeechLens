@@ -1,0 +1,2387 @@
+[
+  {
+    "recording_id": "jfk01_pace_level1",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_pace_level2",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_pace_level3",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_pace_level4",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_intonation_level1",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_intonation_level2",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_intonation_level3",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_intonation_level4",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_pauses_level1",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_pauses_level2",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_pauses_level2",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_pauses_level3",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_pauses_level3",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_pauses_level4",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_pauses_level4",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_energy_level1",
+    "split": "train",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_energy_level2",
+    "split": "train",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_clarity_proxy_level1",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_clarity_proxy_level2",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_clarity_proxy_level3",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_clarity_proxy_level4",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_compound2_level2",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_compound2_level2",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk01_compound4_level4",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk02_pace_level1",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk02_pace_level2",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk02_pace_level3",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk02_pace_level4",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk02_intonation_level1",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk02_intonation_level2",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk02_intonation_level3",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk02_intonation_level4",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk02_pauses_level1",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk02_pauses_level2",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk02_energy_level1",
+    "split": "train",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk02_energy_level2",
+    "split": "train",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk02_clarity_proxy_level1",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk02_clarity_proxy_level2",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk02_clarity_proxy_level3",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk02_clarity_proxy_level4",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk02_compound2_level2",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk02_compound4_level4",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk03_pace_level1",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk03_pace_level2",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk03_pace_level3",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk03_pace_level4",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk03_intonation_level1",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk03_pauses_level1",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk03_pauses_level2",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk03_pauses_level3",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk03_pauses_level4",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk03_energy_level1",
+    "split": "train",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk03_energy_level2",
+    "split": "train",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk03_energy_level3",
+    "split": "train",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk03_clarity_proxy_level1",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk03_clarity_proxy_level2",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk03_clarity_proxy_level3",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk03_clarity_proxy_level4",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk03_compound2_level2",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk03_compound2_level2",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "jfk03_compound4_level4",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower01_pace_level1",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower01_pace_level2",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower01_pace_level3",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower01_pace_level4",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower01_intonation_level1",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower01_pauses_level1",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower01_pauses_level2",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower01_energy_level1",
+    "split": "train",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower01_energy_level2",
+    "split": "train",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower01_clarity_proxy_level1",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower01_clarity_proxy_level2",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower01_clarity_proxy_level3",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower01_clarity_proxy_level4",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower01_sham_world_level0",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower01_compound2_level2",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower01_compound4_level4",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower02_pace_level1",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower02_pace_level1",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower02_pace_level2",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower02_pace_level2",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower02_pace_level4",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower02_pace_level4",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower02_intonation_level1",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower02_intonation_level2",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower02_pauses_level1",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower02_pauses_level2",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower02_pauses_level2",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower02_pauses_level3",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower02_pauses_level4",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower02_energy_level1",
+    "split": "train",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower02_energy_level2",
+    "split": "train",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower02_clarity_proxy_level1",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower02_clarity_proxy_level2",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower02_clarity_proxy_level3",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower02_clarity_proxy_level4",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower02_compound2_level2",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "eisenhower02_compound4_level4",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon01_pace_level1",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon01_pace_level2",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon01_pace_level3",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon01_pace_level4",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon01_intonation_level1",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon01_intonation_level2",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon01_pauses_level1",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon01_pauses_level2",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon01_energy_level1",
+    "split": "train",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon01_energy_level2",
+    "split": "train",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon01_clarity_proxy_level1",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon01_clarity_proxy_level2",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon01_clarity_proxy_level3",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon01_clarity_proxy_level4",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon01_compound2_level2",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon01_compound2_level2",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_pace_level1",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_pace_level2",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_pace_level3",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_pace_level4",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_intonation_level1",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_intonation_level1",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 2,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_intonation_level2",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_intonation_level2",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 2,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_pauses_level1",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_pauses_level1",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_pauses_level2",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_pauses_level3",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_pauses_level3",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_pauses_level4",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_energy_level1",
+    "split": "train",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_clarity_proxy_level1",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_clarity_proxy_level2",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_clarity_proxy_level3",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_clarity_proxy_level4",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_sham_world_level0",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 2,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_compound2_level2",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 2,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_compound4_level4",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "nixon02_compound4_level4",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 2,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_pace_level1",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_pace_level2",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_pace_level3",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_pace_level4",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_intonation_level1",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_intonation_level2",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_intonation_level3",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_intonation_level4",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_pauses_level1",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_pauses_level2",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_pauses_level3",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_pauses_level4",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_energy_level1",
+    "split": "train",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_energy_level2",
+    "split": "train",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_energy_level3",
+    "split": "train",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_energy_level4",
+    "split": "train",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_clarity_proxy_level1",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_clarity_proxy_level2",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_clarity_proxy_level3",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_clarity_proxy_level4",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_compound2_level2",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_compound2_level2",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_compound4_level4",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr01_compound4_level4",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan01_pace_level1",
+    "split": "validation",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan01_pace_level1",
+    "split": "validation",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan01_pace_level2",
+    "split": "validation",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan01_pace_level3",
+    "split": "validation",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan01_pace_level4",
+    "split": "validation",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan01_pace_level4",
+    "split": "validation",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan01_intonation_level1",
+    "split": "validation",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan01_intonation_level2",
+    "split": "validation",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan01_pauses_level1",
+    "split": "validation",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan01_pauses_level2",
+    "split": "validation",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan01_energy_level1",
+    "split": "validation",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan01_clarity_proxy_level1",
+    "split": "validation",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan01_clarity_proxy_level2",
+    "split": "validation",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan01_clarity_proxy_level4",
+    "split": "validation",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan01_compound2_level2",
+    "split": "validation",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan01_compound4_level4",
+    "split": "validation",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan02_pace_level1",
+    "split": "validation",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan02_pace_level2",
+    "split": "validation",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan02_pace_level3",
+    "split": "validation",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan02_pace_level4",
+    "split": "validation",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan02_intonation_level1",
+    "split": "validation",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan02_intonation_level2",
+    "split": "validation",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan02_pauses_level1",
+    "split": "validation",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan02_pauses_level2",
+    "split": "validation",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan02_pauses_level3",
+    "split": "validation",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan02_pauses_level4",
+    "split": "validation",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan02_energy_level1",
+    "split": "validation",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan02_energy_level2",
+    "split": "validation",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan02_clarity_proxy_level1",
+    "split": "validation",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan02_clarity_proxy_level2",
+    "split": "validation",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan02_clarity_proxy_level4",
+    "split": "validation",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan02_compound4_level4",
+    "split": "validation",
+    "type": "intonation",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan02_compound4_level4",
+    "split": "validation",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "reagan02_compound4_level4",
+    "split": "validation",
+    "type": "energy",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_pace_level1",
+    "split": "test",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_pace_level2",
+    "split": "test",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_pace_level3",
+    "split": "test",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_pace_level4",
+    "split": "test",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_intonation_level1",
+    "split": "test",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_intonation_level2",
+    "split": "test",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_pauses_level1",
+    "split": "test",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_pauses_level2",
+    "split": "test",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_pauses_level3",
+    "split": "test",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_energy_level1",
+    "split": "test",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_energy_level2",
+    "split": "test",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_clarity_proxy_level1",
+    "split": "test",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_clarity_proxy_level3",
+    "split": "test",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_clarity_proxy_level4",
+    "split": "test",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_clarity_proxy_level4",
+    "split": "test",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_compound2_level2",
+    "split": "test",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_compound2_level2",
+    "split": "test",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_compound4_level4",
+    "split": "test",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama02_pace_level1",
+    "split": "test",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama02_pace_level2",
+    "split": "test",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama02_pace_level3",
+    "split": "test",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama02_pace_level4",
+    "split": "test",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama02_intonation_level1",
+    "split": "test",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama02_intonation_level2",
+    "split": "test",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama02_intonation_level3",
+    "split": "test",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama02_pauses_level1",
+    "split": "test",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama02_pauses_level2",
+    "split": "test",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama02_pauses_level3",
+    "split": "test",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama02_energy_level1",
+    "split": "test",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama02_clarity_proxy_level1",
+    "split": "test",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama02_clarity_proxy_level4",
+    "split": "test",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama02_compound2_level2",
+    "split": "test",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama02_compound4_level4",
+    "split": "test",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_pace_level1",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_pace_level2",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_pace_level3",
+    "split": "train",
+    "type": "pace",
+    "tp": 1,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_pace_level4",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_intonation_level1",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_intonation_level1",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_intonation_level2",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_intonation_level3",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_pauses_level1",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_pauses_level2",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_pauses_level3",
+    "split": "train",
+    "type": "pauses",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_energy_level1",
+    "split": "train",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_energy_level2",
+    "split": "train",
+    "type": "energy",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_clarity_proxy_level1",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_clarity_proxy_level2",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_clarity_proxy_level3",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_clarity_proxy_level3",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_clarity_proxy_level4",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_clarity_proxy_level4",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_compound2_level2",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_compound2_level2",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_compound2_level2",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 2,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_compound4_level4",
+    "split": "train",
+    "type": "pace",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_compound4_level4",
+    "split": "train",
+    "type": "intonation",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "fdr02_compound4_level4",
+    "split": "train",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_heldout_noise_level1",
+    "split": "test",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_heldout_noise_level1",
+    "split": "test",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_heldout_noise_level2",
+    "split": "test",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_heldout_noise_level2",
+    "split": "test",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_heldout_noise_level3",
+    "split": "test",
+    "type": "pace",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_heldout_noise_level3",
+    "split": "test",
+    "type": "energy",
+    "tp": 0,
+    "fp": 1,
+    "fn": 0,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_heldout_noise_level3",
+    "split": "test",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama01_heldout_noise_level4",
+    "split": "test",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama02_heldout_noise_level1",
+    "split": "test",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama02_heldout_noise_level2",
+    "split": "test",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama02_heldout_noise_level3",
+    "split": "test",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  },
+  {
+    "recording_id": "obama02_heldout_noise_level4",
+    "split": "test",
+    "type": "recording_quality",
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "reason": "Mismatch against synthetic support; human perceptual truth is unavailable."
+  }
+]

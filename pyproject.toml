@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "speechlens"
+version = "0.1.0"
+description = "Evidence-first contrastive speech analytics"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+  "numpy==2.2.6", "scipy==1.15.3", "librosa==0.11.0", "soundfile==0.13.1",
+  "fastapi==0.115.12", "pydantic==2.11.5", "uvicorn==0.34.3", "python-multipart==0.0.20",
+  "PyYAML==6.0.2", "transformers==4.52.4", "torch==2.7.1", "num2words==0.5.14",
+  "huggingface-hub==0.32.4", "pyworld==0.3.5", "webrtcvad-wheels==2.0.14",
+  "imageio-ffmpeg==0.6.0", "requests==2.32.4", "chardet==5.2.0", "urllib3==2.4.0", "psutil==7.0.0"
+]
+
+[project.optional-dependencies]
+dev = ["pytest==8.3.5", "httpx==0.28.1", "reportlab==4.4.1", "pypdf==5.6.0", "pymupdf==1.26.1", "matplotlib==3.10.3", "playwright==1.52.0"]
+
+[tool.setuptools.packages.find]
+include = ["backend*", "scripts*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["model: requires downloaded alignment model", "e2e: requires running dashboard"]

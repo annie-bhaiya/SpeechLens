@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "original_sha256": "dea26e2f6c127ca4c0742a18c43630fa7bea4fbf2634f859cede77741239aa06",
+    "sample_rate_hz": 16000,
+    "original_sample_rate_hz": 44100,
+    "original_channels": 1,
+    "duration_s": 46.959125,
+    "downmix": "arithmetic channel mean; no gain normalization",
+    "clipped_fraction": 0.0,
+    "peak": 0.5082540512084961,
+    "canonical_sha256": "540c20f32deb1fd71165cc0020be1445a6926bdfa4ed511ce08473c276351d35"
+  },
+  "alignment_coverage": 0.6625,
+  "features": {
+    "pitch_median_hz": 256.3888163841458,
+    "mfcc_shape": [
+      4694,
+      13
+    ],
+    "quality": {
+      "clipped_fraction": 0.0,
+      "peak_dbfs": -5.878382682800293,
+      "speech_fraction": 0.7215594375798893,
+      "voiced_fraction": 0.5253731343283582,
+      "median_speech_dbfs": -22.27240982134482,
+      "noise_floor_dbfs_proxy": -42.42625200602258,
+      "mean_spectral_centroid_hz": 1323.8402120613425,
+      "pitch_near_search_edge_fraction": 0.003246753246753247
+    }
+  },
+  "device": "CPU"
+}

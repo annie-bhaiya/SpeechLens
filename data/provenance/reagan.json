@@ -1,0 +1,18 @@
+{
+  "id": "reagan",
+  "speaker": "Ronald Reagan",
+  "title": "Ronald Reagan First Inaugural.ogg",
+  "url": "https://commons.wikimedia.org/wiki/File:Ronald_Reagan_First_Inaugural.ogg",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Ronald_Reagan_First_Inaugural.ogg",
+  "recording_sha256": "99f29e704e14b107dfd8027ea1e7099e77fd70d6eb8ebaa64b1a5a68cf488fe5",
+  "retrieved_date": "2026-10-05",
+  "license": "PD-USGov-EOP",
+  "recording_rights_evidence": "https://commons.wikimedia.org/wiki/File:Ronald_Reagan_First_Inaugural.ogg",
+  "evidence_sha256": "96726abdd0254b971b01af6f931d2c4ee1f36042b12e3c5a6e2c836cc22b3317",
+  "transcript_url": "https://en.wikisource.org/wiki/Ronald_Reagan%27s_First_Inaugural_Address",
+  "transcript_rights": "US federal official speech; public-domain original text",
+  "language": "en",
+  "independent_review_status": "pending",
+  "selection_rationale": "Clear rhetorical clause boundaries, deliberate pacing and public address context; selected as one delivery example, not a unique optimum.",
+  "quality_review": "Machine DSP QA only; historical recording channel and any applause remain potential confounds."
+}

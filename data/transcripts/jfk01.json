@@ -1,0 +1,360 @@
+{
+  "display_text": "We observe today not a victory of party but a celebration of freedom, symbolizing an end as well as a beginning, signifying renewal as well as change. For I have sworn before you and Almighty God the same solemn oath our forebears prescribed nearly a century and three quarters ago.",
+  "tokens": [
+    {
+      "id": 0,
+      "text": "We",
+      "normalized": "we",
+      "char_start": 0,
+      "char_end": 2
+    },
+    {
+      "id": 1,
+      "text": "observe",
+      "normalized": "observe",
+      "char_start": 3,
+      "char_end": 10
+    },
+    {
+      "id": 2,
+      "text": "today",
+      "normalized": "today",
+      "char_start": 11,
+      "char_end": 16
+    },
+    {
+      "id": 3,
+      "text": "not",
+      "normalized": "not",
+      "char_start": 17,
+      "char_end": 20
+    },
+    {
+      "id": 4,
+      "text": "a",
+      "normalized": "a",
+      "char_start": 21,
+      "char_end": 22
+    },
+    {
+      "id": 5,
+      "text": "victory",
+      "normalized": "victory",
+      "char_start": 23,
+      "char_end": 30
+    },
+    {
+      "id": 6,
+      "text": "of",
+      "normalized": "of",
+      "char_start": 31,
+      "char_end": 33
+    },
+    {
+      "id": 7,
+      "text": "party",
+      "normalized": "party",
+      "char_start": 34,
+      "char_end": 39
+    },
+    {
+      "id": 8,
+      "text": "but",
+      "normalized": "but",
+      "char_start": 40,
+      "char_end": 43
+    },
+    {
+      "id": 9,
+      "text": "a",
+      "normalized": "a",
+      "char_start": 44,
+      "char_end": 45
+    },
+    {
+      "id": 10,
+      "text": "celebration",
+      "normalized": "celebration",
+      "char_start": 46,
+      "char_end": 57
+    },
+    {
+      "id": 11,
+      "text": "of",
+      "normalized": "of",
+      "char_start": 58,
+      "char_end": 60
+    },
+    {
+      "id": 12,
+      "text": "freedom",
+      "normalized": "freedom",
+      "char_start": 61,
+      "char_end": 68
+    },
+    {
+      "id": 13,
+      "text": "symbolizing",
+      "normalized": "symbolizing",
+      "char_start": 70,
+      "char_end": 81
+    },
+    {
+      "id": 14,
+      "text": "an",
+      "normalized": "an",
+      "char_start": 82,
+      "char_end": 84
+    },
+    {
+      "id": 15,
+      "text": "end",
+      "normalized": "end",
+      "char_start": 85,
+      "char_end": 88
+    },
+    {
+      "id": 16,
+      "text": "as",
+      "normalized": "as",
+      "char_start": 89,
+      "char_end": 91
+    },
+    {
+      "id": 17,
+      "text": "well",
+      "normalized": "well",
+      "char_start": 92,
+      "char_end": 96
+    },
+    {
+      "id": 18,
+      "text": "as",
+      "normalized": "as",
+      "char_start": 97,
+      "char_end": 99
+    },
+    {
+      "id": 19,
+      "text": "a",
+      "normalized": "a",
+      "char_start": 100,
+      "char_end": 101
+    },
+    {
+      "id": 20,
+      "text": "beginning",
+      "normalized": "beginning",
+      "char_start": 102,
+      "char_end": 111
+    },
+    {
+      "id": 21,
+      "text": "signifying",
+      "normalized": "signifying",
+      "char_start": 113,
+      "char_end": 123
+    },
+    {
+      "id": 22,
+      "text": "renewal",
+      "normalized": "renewal",
+      "char_start": 124,
+      "char_end": 131
+    },
+    {
+      "id": 23,
+      "text": "as",
+      "normalized": "as",
+      "char_start": 132,
+      "char_end": 134
+    },
+    {
+      "id": 24,
+      "text": "well",
+      "normalized": "well",
+      "char_start": 135,
+      "char_end": 139
+    },
+    {
+      "id": 25,
+      "text": "as",
+      "normalized": "as",
+      "char_start": 140,
+      "char_end": 142
+    },
+    {
+      "id": 26,
+      "text": "change",
+      "normalized": "change",
+      "char_start": 143,
+      "char_end": 149
+    },
+    {
+      "id": 27,
+      "text": "For",
+      "normalized": "for",
+      "char_start": 151,
+      "char_end": 154
+    },
+    {
+      "id": 28,
+      "text": "I",
+      "normalized": "i",
+      "char_start": 155,
+      "char_end": 156
+    },
+    {
+      "id": 29,
+      "text": "have",
+      "normalized": "have",
+      "char_start": 157,
+      "char_end": 161
+    },
+    {
+      "id": 30,
+      "text": "sworn",
+      "normalized": "sworn",
+      "char_start": 162,
+      "char_end": 167
+    },
+    {
+      "id": 31,
+      "text": "before",
+      "normalized": "before",
+      "char_start": 168,
+      "char_end": 174
+    },
+    {
+      "id": 32,
+      "text": "you",
+      "normalized": "you",
+      "char_start": 175,
+      "char_end": 178
+    },
+    {
+      "id": 33,
+      "text": "and",
+      "normalized": "and",
+      "char_start": 179,
+      "char_end": 182
+    },
+    {
+      "id": 34,
+      "text": "Almighty",
+      "normalized": "almighty",
+      "char_start": 183,
+      "char_end": 191
+    },
+    {
+      "id": 35,
+      "text": "God",
+      "normalized": "god",
+      "char_start": 192,
+      "char_end": 195
+    },
+    {
+      "id": 36,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 196,
+      "char_end": 199
+    },
+    {
+      "id": 37,
+      "text": "same",
+      "normalized": "same",
+      "char_start": 200,
+      "char_end": 204
+    },
+    {
+      "id": 38,
+      "text": "solemn",
+      "normalized": "solemn",
+      "char_start": 205,
+      "char_end": 211
+    },
+    {
+      "id": 39,
+      "text": "oath",
+      "normalized": "oath",
+      "char_start": 212,
+      "char_end": 216
+    },
+    {
+      "id": 40,
+      "text": "our",
+      "normalized": "our",
+      "char_start": 217,
+      "char_end": 220
+    },
+    {
+      "id": 41,
+      "text": "forebears",
+      "normalized": "forebears",
+      "char_start": 221,
+      "char_end": 230
+    },
+    {
+      "id": 42,
+      "text": "prescribed",
+      "normalized": "prescribed",
+      "char_start": 231,
+      "char_end": 241
+    },
+    {
+      "id": 43,
+      "text": "nearly",
+      "normalized": "nearly",
+      "char_start": 242,
+      "char_end": 248
+    },
+    {
+      "id": 44,
+      "text": "a",
+      "normalized": "a",
+      "char_start": 249,
+      "char_end": 250
+    },
+    {
+      "id": 45,
+      "text": "century",
+      "normalized": "century",
+      "char_start": 251,
+      "char_end": 258
+    },
+    {
+      "id": 46,
+      "text": "and",
+      "normalized": "and",
+      "char_start": 259,
+      "char_end": 262
+    },
+    {
+      "id": 47,
+      "text": "three",
+      "normalized": "three",
+      "char_start": 263,
+      "char_end": 268
+    },
+    {
+      "id": 48,
+      "text": "quarters",
+      "normalized": "quarters",
+      "char_start": 269,
+      "char_end": 277
+    },
+    {
+      "id": 49,
+      "text": "ago",
+      "normalized": "ago",
+      "char_start": 278,
+      "char_end": 281
+    }
+  ],
+  "canonical_text": "we observe today not a victory of party but a celebration of freedom symbolizing an end as well as a beginning signifying renewal as well as change for i have sworn before you and almighty god the same solemn oath our forebears prescribed nearly a century and three quarters ago",
+  "sha256": "486862d5643bea3b18bcc09588e971c774f53eb51449c0d10b1faf0699e60534",
+  "language": "en",
+  "provenance": "https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/inaugural-address-19610120",
+  "review_status": "source_text_machine_alignment_human_correction_pending"
+}

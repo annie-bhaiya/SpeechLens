@@ -1,0 +1,18 @@
+{
+  "id": "obama",
+  "speaker": "Barack Obama",
+  "title": "President Obama on the death of Osama bin Laden.ogg",
+  "url": "https://commons.wikimedia.org/wiki/File:President_Obama_on_the_death_of_Osama_bin_Laden.ogg",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/President_Obama_on_the_death_of_Osama_bin_Laden.ogg",
+  "recording_sha256": "8653dcef734323a00c9cffdd982b4c771ec6c8f08dcbaf886ab87186c64f649e",
+  "retrieved_date": "2026-10-05",
+  "license": "PD-USGov-EOP",
+  "recording_rights_evidence": "https://commons.wikimedia.org/wiki/File:President_Obama_on_the_death_of_Osama_bin_Laden.ogg",
+  "evidence_sha256": "0a25732df5e44f5dc74ac4ff7e429507f660c75ca3e538c0cd8007e804b9b996",
+  "transcript_url": "https://obamawhitehouse.archives.gov/the-press-office/2011/05/02/remarks-president-osama-bin-laden",
+  "transcript_rights": "US federal official speech; public-domain original text",
+  "language": "en",
+  "independent_review_status": "pending",
+  "selection_rationale": "Clear rhetorical clause boundaries, deliberate pacing and public address context; selected as one delivery example, not a unique optimum.",
+  "quality_review": "Machine DSP QA only; historical recording channel and any applause remain potential confounds."
+}

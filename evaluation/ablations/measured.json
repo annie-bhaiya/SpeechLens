@@ -1,0 +1,34 @@
+{
+  "raw_vs_normalized_pitch": {
+    "raw_voiced_median_hz": 134.25725027802636,
+    "shifted_voiced_median_hz": 150.69866814745757,
+    "raw_semitone_center_shift": 1.9999999999999973,
+    "relative_semitone_center_original": 0.0,
+    "relative_semitone_center_shifted": 0.0,
+    "note": "Relative centering removes global offset mathematically; full pipeline pitch-shift robustness can still fail alignment."
+  },
+  "raw_vs_normalized_energy": {
+    "raw_median_dbfs_shift": -5.9563086588583545,
+    "relative_energy_median_abs_delta_db": 0.04369178005855545,
+    "energy_range_preserved_db": 29.067375502801603
+  },
+  "native_vs_warped_duration": {
+    "native_phrase_ratios": [
+      1.6083916083916086
+    ],
+    "within_token_progress_duration": 1.0,
+    "note": "A token-progress axis collapses duration by definition; scoring uses native elapsed seconds."
+  },
+  "alignment_gating": {
+    "eligible_phrase_count": 5,
+    "all_phrase_count": 5,
+    "counterfactual_detector_accuracy": null
+  },
+  "single_vs_compound": "See per-recording results and per-event.csv; no independent human causal rating.",
+  "ordinary_vs_sham": "See evaluation control event counts, reported separately by condition in recording_scores.json.",
+  "synthetic_vs_human": {
+    "synthetic_available": true,
+    "human_n": 0,
+    "human_metrics": null
+  }
+}

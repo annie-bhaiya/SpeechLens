@@ -1,0 +1,3 @@
+name: Extemporaneous
+version: v1
+weights: {pacing: 0.30, pauses: 0.25, intonation: 0.20, energy: 0.15, clarity: 0.10}

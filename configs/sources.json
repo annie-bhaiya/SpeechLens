@@ -1,0 +1,139 @@
+[
+  {
+    "id": "jfk",
+    "speaker": "John F. Kennedy",
+    "file": "JFK inaugural address.ogg",
+    "split": "train",
+    "rights": "PD-USGov",
+    "transcript_url": "https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/inaugural-address-19610120",
+    "candidate_start_s": 0,
+    "candidate_duration_s": 240,
+    "excerpts": [
+      {
+        "id": "jfk01",
+        "text": "We observe today not a victory of party but a celebration of freedom, symbolizing an end as well as a beginning, signifying renewal as well as change. For I have sworn before you and Almighty God the same solemn oath our forebears prescribed nearly a century and three quarters ago."
+      },
+      {
+        "id": "jfk02",
+        "text": "The world is very different now. For man holds in his mortal hands the power to abolish all forms of human poverty and all forms of human life. And yet the same revolutionary beliefs for which our forebears fought are still at issue around the globe, the belief that the rights of man come not from the generosity of the state but from the hand of God."
+      },
+      {
+        "id": "jfk03",
+        "text": "We dare not forget today that we are the heirs of that first revolution. Let the word go forth from this time and place, to friend and foe alike, that the torch has been passed to a new generation of Americans, born in this century, tempered by war, disciplined by a hard and bitter peace, proud of our ancient heritage, and unwilling to witness or permit the slow undoing of those human rights to which this nation has always been committed, and to which we are committed today at home and around the world."
+      }
+    ]
+  },
+  {
+    "id": "eisenhower",
+    "speaker": "Dwight D. Eisenhower",
+    "file": "Eisenhower farewell address.ogg",
+    "split": "train",
+    "rights": "PD-USGov",
+    "transcript_url": "https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/farewell-address/1961-01-17-farewell-address.pdf",
+    "candidate_start_s": 0,
+    "candidate_duration_s": 150,
+    "excerpts": [
+      {
+        "id": "eisenhower01",
+        "text": "Good evening, my fellow Americans. First, I should like to express my gratitude to the radio and television networks for the opportunities they have given me over the years to bring reports and messages to our nation. My special thanks go to them for the opportunity of addressing you this evening."
+      },
+      {
+        "id": "eisenhower02",
+        "text": "Three days from now, after half a century in the service of our country, I shall lay down the responsibilities of office as, in traditional and solemn ceremony, the authority of the Presidency is vested in my successor. This evening I come to you with a message of leave taking and farewell, and to share a few final thoughts with you, my countrymen."
+      }
+    ]
+  },
+  {
+    "id": "nixon",
+    "speaker": "Richard Nixon",
+    "file": "Nixon resignation audio.ogg",
+    "split": "train",
+    "rights": "PD-USGov",
+    "transcript_url": "https://en.wikisource.org/wiki/Richard_Nixon%27s_resignation_speech",
+    "candidate_start_s": 0,
+    "candidate_duration_s": 150,
+    "excerpts": [
+      {
+        "id": "nixon01",
+        "text": "Good evening. This is the thirty seventh time I have spoken to you from this office, where so many decisions have been made that shaped the history of this nation. Each time I have done so to discuss with you some matter that I believe affected the national interest."
+      },
+      {
+        "id": "nixon02",
+        "text": "In all the decisions I have made in my public life, I have always tried to do what was best for the nation. Throughout the long and difficult period of Watergate, I have felt it was my duty to persevere, to make every possible effort to complete the term of office to which you elected me."
+      }
+    ]
+  },
+  {
+    "id": "fdr",
+    "speaker": "Franklin D. Roosevelt",
+    "file": "First Inauguration of FDR - Fear Itself Excerpt.ogg",
+    "split": "train",
+    "rights": "PD-USGov",
+    "transcript_url": "https://millercenter.org/the-presidency/presidential-speeches/march-4-1933-first-inaugural-address",
+    "candidate_start_s": 0,
+    "candidate_duration_s": 47,
+    "excerpts": [
+      {
+        "id": "fdr01",
+        "text": "Let me assert my firm belief that the only thing we have to fear is fear itself, nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance. In every dark hour of our national life a leadership of frankness and vigor has met with that understanding and support of the people themselves which is essential to victory. I am convinced that you will again give that support to leadership in these critical days."
+      }
+    ]
+  },
+  {
+    "id": "reagan",
+    "speaker": "Ronald Reagan",
+    "file": "Ronald Reagan First Inaugural.ogg",
+    "split": "validation",
+    "rights": "PD-USGov-EOP",
+    "transcript_url": "https://en.wikisource.org/wiki/Ronald_Reagan%27s_First_Inaugural_Address",
+    "candidate_start_s": 0,
+    "candidate_duration_s": 200,
+    "excerpts": [
+      {
+        "id": "reagan01",
+        "text": "To a few of us here today, this is a solemn and most momentous occasion, and yet, in the history of our nation, it is a commonplace occurrence. The orderly transfer of authority as called for in the Constitution routinely takes place as it has for almost two centuries and few of us stop to think how unique we really are."
+      },
+      {
+        "id": "reagan02",
+        "text": "In the eyes of many in the world, this every four year ceremony we accept as normal is nothing less than a miracle. Mr. President, I want our fellow citizens to know how much you did to carry on this tradition. By your gracious cooperation in the transition process, you have shown a watching world that we are a united people pledged to maintaining a political system which guarantees individual liberty to a greater degree than any other."
+      }
+    ]
+  },
+  {
+    "id": "obama",
+    "speaker": "Barack Obama",
+    "file": "President Obama on the death of Osama bin Laden.ogg",
+    "split": "test",
+    "rights": "PD-USGov-EOP",
+    "transcript_url": "https://obamawhitehouse.archives.gov/the-press-office/2011/05/02/remarks-president-osama-bin-laden",
+    "candidate_start_s": 0,
+    "candidate_duration_s": 150,
+    "excerpts": [
+      {
+        "id": "obama01",
+        "text": "Good evening. Tonight, I can report to the American people and to the world that the United States has conducted an operation that killed Osama bin Laden, the leader of al Qaeda, and a terrorist who's responsible for the murder of thousands of innocent men, women, and children."
+      },
+      {
+        "id": "obama02",
+        "text": "It was nearly ten years ago that a bright September day was darkened by the worst attack on the American people in our history. The images of nine eleven are seared into our national memory, hijacked planes cutting through a cloudless September sky, the Twin Towers collapsing to the ground, black smoke billowing up from the Pentagon, the wreckage of Flight ninety three in Shanksville, Pennsylvania, where the actions of heroic citizens saved even more heartbreak and destruction."
+      }
+    ]
+  },
+  {
+    "id": "fdr_pearl",
+    "speaker": "Franklin D. Roosevelt",
+    "file": "Roosevelt Pearl Harbor.ogg",
+    "speaker_id": "fdr",
+    "split": "train",
+    "rights": "PD-USGov + CC-BY-SA-2.0 digitization",
+    "transcript_url": "https://www.fdrlibrary.org/day-of-infamy",
+    "candidate_start_s": 0,
+    "candidate_duration_s": 150,
+    "excerpts": [
+      {
+        "id": "fdr02",
+        "text": "Yesterday, December seventh, nineteen forty one, a date which will live in infamy, the United States of America was suddenly and deliberately attacked by naval and air forces of the Empire of Japan. The United States was at peace with that nation and, at the solicitation of Japan, was still in conversation with its government and its Emperor looking toward the maintenance of peace in the Pacific."
+      }
+    ]
+  }
+]

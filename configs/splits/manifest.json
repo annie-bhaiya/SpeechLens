@@ -1,0 +1,15 @@
+{
+  "jfk01": "train",
+  "jfk02": "train",
+  "jfk03": "train",
+  "eisenhower01": "train",
+  "eisenhower02": "train",
+  "nixon01": "train",
+  "nixon02": "train",
+  "fdr01": "train",
+  "reagan01": "validation",
+  "reagan02": "validation",
+  "obama01": "test",
+  "obama02": "test",
+  "fdr02": "train"
+}

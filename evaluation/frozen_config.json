@@ -1,0 +1,40 @@
+{
+  "pipeline": {
+    "version": "speechlens-0.1.0",
+    "sample_rate": 16000,
+    "max_duration_s": 600,
+    "max_upload_bytes": 104857600,
+    "alignment_model": "facebook/wav2vec2-base-960h",
+    "alignment_revision": "22aad52d435eb6dbaf354bdad9b0da84ce7d6156",
+    "alignment_chunk_s": 20,
+    "min_word_confidence": 0.15,
+    "minimum_alignment_coverage": 0.75,
+    "frame_samples": 400,
+    "hop_samples": 160,
+    "fft_samples": 512,
+    "pitch_frame_samples": 1024,
+    "pitch_min_hz": 50,
+    "pitch_max_hz": 600,
+    "vad": "webrtcvad-2.0.14-mode2-20ms",
+    "coverage_floor": 0.6,
+    "worker_timeout_s": 900
+  },
+  "detectors": {
+    "version": "conservative-engineering-v1",
+    "calibration": "uncalibrated-engineering-tolerances",
+    "pace_log_warn": 0.165,
+    "pace_log_severe": 0.47,
+    "pitch_ratio_warn": 0.65,
+    "pitch_ratio_severe": 0.2,
+    "reference_pitch_range_min_st": 2.0,
+    "energy_ratio_warn": 0.65,
+    "energy_ratio_severe": 0.2,
+    "reference_energy_range_min_db": 4.0,
+    "pause_delta_warn_s": 0.4,
+    "pause_delta_severe_s": 1.5,
+    "minimum_voiced_frames": 30,
+    "minimum_phrase_words": 4
+  },
+  "code": "6e9bd8d70c4d3a59b6e52bc5cb8f03c2eaa558deb890eefc5f5e4a9e6420dd6e",
+  "selection": "No fitting; engineering tolerances frozen before benchmark"
+}

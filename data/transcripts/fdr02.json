@@ -1,0 +1,479 @@
+{
+  "display_text": "Yesterday, December seventh, nineteen forty one, a date which will live in infamy, the United States of America was suddenly and deliberately attacked by naval and air forces of the Empire of Japan. The United States was at peace with that nation and, at the solicitation of Japan, was still in conversation with its government and its Emperor looking toward the maintenance of peace in the Pacific.",
+  "tokens": [
+    {
+      "id": 0,
+      "text": "Yesterday",
+      "normalized": "yesterday",
+      "char_start": 0,
+      "char_end": 9
+    },
+    {
+      "id": 1,
+      "text": "December",
+      "normalized": "december",
+      "char_start": 11,
+      "char_end": 19
+    },
+    {
+      "id": 2,
+      "text": "seventh",
+      "normalized": "seventh",
+      "char_start": 20,
+      "char_end": 27
+    },
+    {
+      "id": 3,
+      "text": "nineteen",
+      "normalized": "nineteen",
+      "char_start": 29,
+      "char_end": 37
+    },
+    {
+      "id": 4,
+      "text": "forty",
+      "normalized": "forty",
+      "char_start": 38,
+      "char_end": 43
+    },
+    {
+      "id": 5,
+      "text": "one",
+      "normalized": "one",
+      "char_start": 44,
+      "char_end": 47
+    },
+    {
+      "id": 6,
+      "text": "a",
+      "normalized": "a",
+      "char_start": 49,
+      "char_end": 50
+    },
+    {
+      "id": 7,
+      "text": "date",
+      "normalized": "date",
+      "char_start": 51,
+      "char_end": 55
+    },
+    {
+      "id": 8,
+      "text": "which",
+      "normalized": "which",
+      "char_start": 56,
+      "char_end": 61
+    },
+    {
+      "id": 9,
+      "text": "will",
+      "normalized": "will",
+      "char_start": 62,
+      "char_end": 66
+    },
+    {
+      "id": 10,
+      "text": "live",
+      "normalized": "live",
+      "char_start": 67,
+      "char_end": 71
+    },
+    {
+      "id": 11,
+      "text": "in",
+      "normalized": "in",
+      "char_start": 72,
+      "char_end": 74
+    },
+    {
+      "id": 12,
+      "text": "infamy",
+      "normalized": "infamy",
+      "char_start": 75,
+      "char_end": 81
+    },
+    {
+      "id": 13,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 83,
+      "char_end": 86
+    },
+    {
+      "id": 14,
+      "text": "United",
+      "normalized": "united",
+      "char_start": 87,
+      "char_end": 93
+    },
+    {
+      "id": 15,
+      "text": "States",
+      "normalized": "states",
+      "char_start": 94,
+      "char_end": 100
+    },
+    {
+      "id": 16,
+      "text": "of",
+      "normalized": "of",
+      "char_start": 101,
+      "char_end": 103
+    },
+    {
+      "id": 17,
+      "text": "America",
+      "normalized": "america",
+      "char_start": 104,
+      "char_end": 111
+    },
+    {
+      "id": 18,
+      "text": "was",
+      "normalized": "was",
+      "char_start": 112,
+      "char_end": 115
+    },
+    {
+      "id": 19,
+      "text": "suddenly",
+      "normalized": "suddenly",
+      "char_start": 116,
+      "char_end": 124
+    },
+    {
+      "id": 20,
+      "text": "and",
+      "normalized": "and",
+      "char_start": 125,
+      "char_end": 128
+    },
+    {
+      "id": 21,
+      "text": "deliberately",
+      "normalized": "deliberately",
+      "char_start": 129,
+      "char_end": 141
+    },
+    {
+      "id": 22,
+      "text": "attacked",
+      "normalized": "attacked",
+      "char_start": 142,
+      "char_end": 150
+    },
+    {
+      "id": 23,
+      "text": "by",
+      "normalized": "by",
+      "char_start": 151,
+      "char_end": 153
+    },
+    {
+      "id": 24,
+      "text": "naval",
+      "normalized": "naval",
+      "char_start": 154,
+      "char_end": 159
+    },
+    {
+      "id": 25,
+      "text": "and",
+      "normalized": "and",
+      "char_start": 160,
+      "char_end": 163
+    },
+    {
+      "id": 26,
+      "text": "air",
+      "normalized": "air",
+      "char_start": 164,
+      "char_end": 167
+    },
+    {
+      "id": 27,
+      "text": "forces",
+      "normalized": "forces",
+      "char_start": 168,
+      "char_end": 174
+    },
+    {
+      "id": 28,
+      "text": "of",
+      "normalized": "of",
+      "char_start": 175,
+      "char_end": 177
+    },
+    {
+      "id": 29,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 178,
+      "char_end": 181
+    },
+    {
+      "id": 30,
+      "text": "Empire",
+      "normalized": "empire",
+      "char_start": 182,
+      "char_end": 188
+    },
+    {
+      "id": 31,
+      "text": "of",
+      "normalized": "of",
+      "char_start": 189,
+      "char_end": 191
+    },
+    {
+      "id": 32,
+      "text": "Japan",
+      "normalized": "japan",
+      "char_start": 192,
+      "char_end": 197
+    },
+    {
+      "id": 33,
+      "text": "The",
+      "normalized": "the",
+      "char_start": 199,
+      "char_end": 202
+    },
+    {
+      "id": 34,
+      "text": "United",
+      "normalized": "united",
+      "char_start": 203,
+      "char_end": 209
+    },
+    {
+      "id": 35,
+      "text": "States",
+      "normalized": "states",
+      "char_start": 210,
+      "char_end": 216
+    },
+    {
+      "id": 36,
+      "text": "was",
+      "normalized": "was",
+      "char_start": 217,
+      "char_end": 220
+    },
+    {
+      "id": 37,
+      "text": "at",
+      "normalized": "at",
+      "char_start": 221,
+      "char_end": 223
+    },
+    {
+      "id": 38,
+      "text": "peace",
+      "normalized": "peace",
+      "char_start": 224,
+      "char_end": 229
+    },
+    {
+      "id": 39,
+      "text": "with",
+      "normalized": "with",
+      "char_start": 230,
+      "char_end": 234
+    },
+    {
+      "id": 40,
+      "text": "that",
+      "normalized": "that",
+      "char_start": 235,
+      "char_end": 239
+    },
+    {
+      "id": 41,
+      "text": "nation",
+      "normalized": "nation",
+      "char_start": 240,
+      "char_end": 246
+    },
+    {
+      "id": 42,
+      "text": "and",
+      "normalized": "and",
+      "char_start": 247,
+      "char_end": 250
+    },
+    {
+      "id": 43,
+      "text": "at",
+      "normalized": "at",
+      "char_start": 252,
+      "char_end": 254
+    },
+    {
+      "id": 44,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 255,
+      "char_end": 258
+    },
+    {
+      "id": 45,
+      "text": "solicitation",
+      "normalized": "solicitation",
+      "char_start": 259,
+      "char_end": 271
+    },
+    {
+      "id": 46,
+      "text": "of",
+      "normalized": "of",
+      "char_start": 272,
+      "char_end": 274
+    },
+    {
+      "id": 47,
+      "text": "Japan",
+      "normalized": "japan",
+      "char_start": 275,
+      "char_end": 280
+    },
+    {
+      "id": 48,
+      "text": "was",
+      "normalized": "was",
+      "char_start": 282,
+      "char_end": 285
+    },
+    {
+      "id": 49,
+      "text": "still",
+      "normalized": "still",
+      "char_start": 286,
+      "char_end": 291
+    },
+    {
+      "id": 50,
+      "text": "in",
+      "normalized": "in",
+      "char_start": 292,
+      "char_end": 294
+    },
+    {
+      "id": 51,
+      "text": "conversation",
+      "normalized": "conversation",
+      "char_start": 295,
+      "char_end": 307
+    },
+    {
+      "id": 52,
+      "text": "with",
+      "normalized": "with",
+      "char_start": 308,
+      "char_end": 312
+    },
+    {
+      "id": 53,
+      "text": "its",
+      "normalized": "its",
+      "char_start": 313,
+      "char_end": 316
+    },
+    {
+      "id": 54,
+      "text": "government",
+      "normalized": "government",
+      "char_start": 317,
+      "char_end": 327
+    },
+    {
+      "id": 55,
+      "text": "and",
+      "normalized": "and",
+      "char_start": 328,
+      "char_end": 331
+    },
+    {
+      "id": 56,
+      "text": "its",
+      "normalized": "its",
+      "char_start": 332,
+      "char_end": 335
+    },
+    {
+      "id": 57,
+      "text": "Emperor",
+      "normalized": "emperor",
+      "char_start": 336,
+      "char_end": 343
+    },
+    {
+      "id": 58,
+      "text": "looking",
+      "normalized": "looking",
+      "char_start": 344,
+      "char_end": 351
+    },
+    {
+      "id": 59,
+      "text": "toward",
+      "normalized": "toward",
+      "char_start": 352,
+      "char_end": 358
+    },
+    {
+      "id": 60,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 359,
+      "char_end": 362
+    },
+    {
+      "id": 61,
+      "text": "maintenance",
+      "normalized": "maintenance",
+      "char_start": 363,
+      "char_end": 374
+    },
+    {
+      "id": 62,
+      "text": "of",
+      "normalized": "of",
+      "char_start": 375,
+      "char_end": 377
+    },
+    {
+      "id": 63,
+      "text": "peace",
+      "normalized": "peace",
+      "char_start": 378,
+      "char_end": 383
+    },
+    {
+      "id": 64,
+      "text": "in",
+      "normalized": "in",
+      "char_start": 384,
+      "char_end": 386
+    },
+    {
+      "id": 65,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 387,
+      "char_end": 390
+    },
+    {
+      "id": 66,
+      "text": "Pacific",
+      "normalized": "pacific",
+      "char_start": 391,
+      "char_end": 398
+    }
+  ],
+  "canonical_text": "yesterday december seventh nineteen forty one a date which will live in infamy the united states of america was suddenly and deliberately attacked by naval and air forces of the empire of japan the united states was at peace with that nation and at the solicitation of japan was still in conversation with its government and its emperor looking toward the maintenance of peace in the pacific",
+  "sha256": "7c4a5afda796ab40e9bde900dcb2c8e7b71255bac927c2e904e07e11818cc42d",
+  "language": "en",
+  "provenance": "https://www.fdrlibrary.org/day-of-infamy",
+  "review_status": "source_text_machine_alignment_human_correction_pending"
+}

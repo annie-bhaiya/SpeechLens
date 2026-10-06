@@ -1,0 +1,63 @@
+{
+  "submission_complete": false,
+  "dataset_integrity": {
+    "integrity_passed": true,
+    "recordings": 346,
+    "references": 13,
+    "independent_speakers": 6,
+    "independent_sources": 7,
+    "pending_review_recordings": 346,
+    "human_label_gate_passed": false,
+    "errors": [],
+    "splits": {
+      "train": 234,
+      "validation": 52,
+      "test": 60
+    }
+  },
+  "local_dataset_archive": "speechlens-dataset.zip",
+  "dataset_archive_sha256": "3977cd05c0be978b6f96b6ab9c2b93be15fb6b40c721d71b17e5c3e80329a3ce",
+  "deliverables": [
+    {
+      "name": "GitHub repository",
+      "local_artifact": ".",
+      "url": null,
+      "status": "blocked",
+      "reason": "No authorized remote/publication account supplied"
+    },
+    {
+      "name": "Public paired dataset",
+      "local_artifact": "releases/speechlens-dataset.zip",
+      "url": null,
+      "status": "local_ready_publication_blocked",
+      "reason": "Dataset is real and validated structurally; public hosting and independent human review pending"
+    },
+    {
+      "name": "Interactive dashboard",
+      "local_artifact": "frontend/dist",
+      "url": "http://127.0.0.1:8000",
+      "status": "local_verified",
+      "verification": "evaluation/browser_e2e.json"
+    },
+    {
+      "name": "Technical report",
+      "local_artifact": "docs/technical_report.pdf",
+      "url": null,
+      "status": "local_ready"
+    },
+    {
+      "name": "YouTube demo",
+      "local_artifact": "demo/demo.mp4",
+      "url": null,
+      "status": "local_ready_publication_blocked",
+      "reason": "No authorized YouTube publication account supplied"
+    }
+  ],
+  "remaining_gates": [
+    "Independent human alignment/perceptual review",
+    "Consenting human mirror recordings",
+    "Original Track C.pdf review",
+    "Public GitHub/dataset/YouTube links",
+    "Clean Docker execution"
+  ]
+}

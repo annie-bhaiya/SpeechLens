@@ -1,0 +1,568 @@
+{
+  "display_text": "So first of all let me assert my firm belief that the only thing we have to fear is fear itself nameless unreasoning unjustified terror which paralyzes needed efforts to convert retreat into advance. In every dark hour of our national life a leadership of frankness and vigor has met with that understanding and support of the people themselves which is essential to victory. I am convinced that you will again give that support to leadership in these critical days.",
+  "tokens": [
+    {
+      "id": 0,
+      "text": "So",
+      "normalized": "so",
+      "char_start": 0,
+      "char_end": 2
+    },
+    {
+      "id": 1,
+      "text": "first",
+      "normalized": "first",
+      "char_start": 3,
+      "char_end": 8
+    },
+    {
+      "id": 2,
+      "text": "of",
+      "normalized": "of",
+      "char_start": 9,
+      "char_end": 11
+    },
+    {
+      "id": 3,
+      "text": "all",
+      "normalized": "all",
+      "char_start": 12,
+      "char_end": 15
+    },
+    {
+      "id": 4,
+      "text": "let",
+      "normalized": "let",
+      "char_start": 16,
+      "char_end": 19
+    },
+    {
+      "id": 5,
+      "text": "me",
+      "normalized": "me",
+      "char_start": 20,
+      "char_end": 22
+    },
+    {
+      "id": 6,
+      "text": "assert",
+      "normalized": "assert",
+      "char_start": 23,
+      "char_end": 29
+    },
+    {
+      "id": 7,
+      "text": "my",
+      "normalized": "my",
+      "char_start": 30,
+      "char_end": 32
+    },
+    {
+      "id": 8,
+      "text": "firm",
+      "normalized": "firm",
+      "char_start": 33,
+      "char_end": 37
+    },
+    {
+      "id": 9,
+      "text": "belief",
+      "normalized": "belief",
+      "char_start": 38,
+      "char_end": 44
+    },
+    {
+      "id": 10,
+      "text": "that",
+      "normalized": "that",
+      "char_start": 45,
+      "char_end": 49
+    },
+    {
+      "id": 11,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 50,
+      "char_end": 53
+    },
+    {
+      "id": 12,
+      "text": "only",
+      "normalized": "only",
+      "char_start": 54,
+      "char_end": 58
+    },
+    {
+      "id": 13,
+      "text": "thing",
+      "normalized": "thing",
+      "char_start": 59,
+      "char_end": 64
+    },
+    {
+      "id": 14,
+      "text": "we",
+      "normalized": "we",
+      "char_start": 65,
+      "char_end": 67
+    },
+    {
+      "id": 15,
+      "text": "have",
+      "normalized": "have",
+      "char_start": 68,
+      "char_end": 72
+    },
+    {
+      "id": 16,
+      "text": "to",
+      "normalized": "to",
+      "char_start": 73,
+      "char_end": 75
+    },
+    {
+      "id": 17,
+      "text": "fear",
+      "normalized": "fear",
+      "char_start": 76,
+      "char_end": 80
+    },
+    {
+      "id": 18,
+      "text": "is",
+      "normalized": "is",
+      "char_start": 81,
+      "char_end": 83
+    },
+    {
+      "id": 19,
+      "text": "fear",
+      "normalized": "fear",
+      "char_start": 84,
+      "char_end": 88
+    },
+    {
+      "id": 20,
+      "text": "itself",
+      "normalized": "itself",
+      "char_start": 89,
+      "char_end": 95
+    },
+    {
+      "id": 21,
+      "text": "nameless",
+      "normalized": "nameless",
+      "char_start": 96,
+      "char_end": 104
+    },
+    {
+      "id": 22,
+      "text": "unreasoning",
+      "normalized": "unreasoning",
+      "char_start": 105,
+      "char_end": 116
+    },
+    {
+      "id": 23,
+      "text": "unjustified",
+      "normalized": "unjustified",
+      "char_start": 117,
+      "char_end": 128
+    },
+    {
+      "id": 24,
+      "text": "terror",
+      "normalized": "terror",
+      "char_start": 129,
+      "char_end": 135
+    },
+    {
+      "id": 25,
+      "text": "which",
+      "normalized": "which",
+      "char_start": 136,
+      "char_end": 141
+    },
+    {
+      "id": 26,
+      "text": "paralyzes",
+      "normalized": "paralyzes",
+      "char_start": 142,
+      "char_end": 151
+    },
+    {
+      "id": 27,
+      "text": "needed",
+      "normalized": "needed",
+      "char_start": 152,
+      "char_end": 158
+    },
+    {
+      "id": 28,
+      "text": "efforts",
+      "normalized": "efforts",
+      "char_start": 159,
+      "char_end": 166
+    },
+    {
+      "id": 29,
+      "text": "to",
+      "normalized": "to",
+      "char_start": 167,
+      "char_end": 169
+    },
+    {
+      "id": 30,
+      "text": "convert",
+      "normalized": "convert",
+      "char_start": 170,
+      "char_end": 177
+    },
+    {
+      "id": 31,
+      "text": "retreat",
+      "normalized": "retreat",
+      "char_start": 178,
+      "char_end": 185
+    },
+    {
+      "id": 32,
+      "text": "into",
+      "normalized": "into",
+      "char_start": 186,
+      "char_end": 190
+    },
+    {
+      "id": 33,
+      "text": "advance",
+      "normalized": "advance",
+      "char_start": 191,
+      "char_end": 198
+    },
+    {
+      "id": 34,
+      "text": "In",
+      "normalized": "in",
+      "char_start": 200,
+      "char_end": 202
+    },
+    {
+      "id": 35,
+      "text": "every",
+      "normalized": "every",
+      "char_start": 203,
+      "char_end": 208
+    },
+    {
+      "id": 36,
+      "text": "dark",
+      "normalized": "dark",
+      "char_start": 209,
+      "char_end": 213
+    },
+    {
+      "id": 37,
+      "text": "hour",
+      "normalized": "hour",
+      "char_start": 214,
+      "char_end": 218
+    },
+    {
+      "id": 38,
+      "text": "of",
+      "normalized": "of",
+      "char_start": 219,
+      "char_end": 221
+    },
+    {
+      "id": 39,
+      "text": "our",
+      "normalized": "our",
+      "char_start": 222,
+      "char_end": 225
+    },
+    {
+      "id": 40,
+      "text": "national",
+      "normalized": "national",
+      "char_start": 226,
+      "char_end": 234
+    },
+    {
+      "id": 41,
+      "text": "life",
+      "normalized": "life",
+      "char_start": 235,
+      "char_end": 239
+    },
+    {
+      "id": 42,
+      "text": "a",
+      "normalized": "a",
+      "char_start": 240,
+      "char_end": 241
+    },
+    {
+      "id": 43,
+      "text": "leadership",
+      "normalized": "leadership",
+      "char_start": 242,
+      "char_end": 252
+    },
+    {
+      "id": 44,
+      "text": "of",
+      "normalized": "of",
+      "char_start": 253,
+      "char_end": 255
+    },
+    {
+      "id": 45,
+      "text": "frankness",
+      "normalized": "frankness",
+      "char_start": 256,
+      "char_end": 265
+    },
+    {
+      "id": 46,
+      "text": "and",
+      "normalized": "and",
+      "char_start": 266,
+      "char_end": 269
+    },
+    {
+      "id": 47,
+      "text": "vigor",
+      "normalized": "vigor",
+      "char_start": 270,
+      "char_end": 275
+    },
+    {
+      "id": 48,
+      "text": "has",
+      "normalized": "has",
+      "char_start": 276,
+      "char_end": 279
+    },
+    {
+      "id": 49,
+      "text": "met",
+      "normalized": "met",
+      "char_start": 280,
+      "char_end": 283
+    },
+    {
+      "id": 50,
+      "text": "with",
+      "normalized": "with",
+      "char_start": 284,
+      "char_end": 288
+    },
+    {
+      "id": 51,
+      "text": "that",
+      "normalized": "that",
+      "char_start": 289,
+      "char_end": 293
+    },
+    {
+      "id": 52,
+      "text": "understanding",
+      "normalized": "understanding",
+      "char_start": 294,
+      "char_end": 307
+    },
+    {
+      "id": 53,
+      "text": "and",
+      "normalized": "and",
+      "char_start": 308,
+      "char_end": 311
+    },
+    {
+      "id": 54,
+      "text": "support",
+      "normalized": "support",
+      "char_start": 312,
+      "char_end": 319
+    },
+    {
+      "id": 55,
+      "text": "of",
+      "normalized": "of",
+      "char_start": 320,
+      "char_end": 322
+    },
+    {
+      "id": 56,
+      "text": "the",
+      "normalized": "the",
+      "char_start": 323,
+      "char_end": 326
+    },
+    {
+      "id": 57,
+      "text": "people",
+      "normalized": "people",
+      "char_start": 327,
+      "char_end": 333
+    },
+    {
+      "id": 58,
+      "text": "themselves",
+      "normalized": "themselves",
+      "char_start": 334,
+      "char_end": 344
+    },
+    {
+      "id": 59,
+      "text": "which",
+      "normalized": "which",
+      "char_start": 345,
+      "char_end": 350
+    },
+    {
+      "id": 60,
+      "text": "is",
+      "normalized": "is",
+      "char_start": 351,
+      "char_end": 353
+    },
+    {
+      "id": 61,
+      "text": "essential",
+      "normalized": "essential",
+      "char_start": 354,
+      "char_end": 363
+    },
+    {
+      "id": 62,
+      "text": "to",
+      "normalized": "to",
+      "char_start": 364,
+      "char_end": 366
+    },
+    {
+      "id": 63,
+      "text": "victory",
+      "normalized": "victory",
+      "char_start": 367,
+      "char_end": 374
+    },
+    {
+      "id": 64,
+      "text": "I",
+      "normalized": "i",
+      "char_start": 376,
+      "char_end": 377
+    },
+    {
+      "id": 65,
+      "text": "am",
+      "normalized": "am",
+      "char_start": 378,
+      "char_end": 380
+    },
+    {
+      "id": 66,
+      "text": "convinced",
+      "normalized": "convinced",
+      "char_start": 381,
+      "char_end": 390
+    },
+    {
+      "id": 67,
+      "text": "that",
+      "normalized": "that",
+      "char_start": 391,
+      "char_end": 395
+    },
+    {
+      "id": 68,
+      "text": "you",
+      "normalized": "you",
+      "char_start": 396,
+      "char_end": 399
+    },
+    {
+      "id": 69,
+      "text": "will",
+      "normalized": "will",
+      "char_start": 400,
+      "char_end": 404
+    },
+    {
+      "id": 70,
+      "text": "again",
+      "normalized": "again",
+      "char_start": 405,
+      "char_end": 410
+    },
+    {
+      "id": 71,
+      "text": "give",
+      "normalized": "give",
+      "char_start": 411,
+      "char_end": 415
+    },
+    {
+      "id": 72,
+      "text": "that",
+      "normalized": "that",
+      "char_start": 416,
+      "char_end": 420
+    },
+    {
+      "id": 73,
+      "text": "support",
+      "normalized": "support",
+      "char_start": 421,
+      "char_end": 428
+    },
+    {
+      "id": 74,
+      "text": "to",
+      "normalized": "to",
+      "char_start": 429,
+      "char_end": 431
+    },
+    {
+      "id": 75,
+      "text": "leadership",
+      "normalized": "leadership",
+      "char_start": 432,
+      "char_end": 442
+    },
+    {
+      "id": 76,
+      "text": "in",
+      "normalized": "in",
+      "char_start": 443,
+      "char_end": 445
+    },
+    {
+      "id": 77,
+      "text": "these",
+      "normalized": "these",
+      "char_start": 446,
+      "char_end": 451
+    },
+    {
+      "id": 78,
+      "text": "critical",
+      "normalized": "critical",
+      "char_start": 452,
+      "char_end": 460
+    },
+    {
+      "id": 79,
+      "text": "days",
+      "normalized": "days",
+      "char_start": 461,
+      "char_end": 465
+    }
+  ],
+  "canonical_text": "so first of all let me assert my firm belief that the only thing we have to fear is fear itself nameless unreasoning unjustified terror which paralyzes needed efforts to convert retreat into advance in every dark hour of our national life a leadership of frankness and vigor has met with that understanding and support of the people themselves which is essential to victory i am convinced that you will again give that support to leadership in these critical days",
+  "sha256": "81ab82c36d39d2582b635e9e07f2bc13a5f238f1e77856829bb5ab6652046068",
+  "language": "en"
+}

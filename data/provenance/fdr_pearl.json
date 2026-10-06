@@ -1,0 +1,18 @@
+{
+  "id": "fdr_pearl",
+  "speaker": "Franklin D. Roosevelt",
+  "title": "Roosevelt Pearl Harbor.ogg",
+  "url": "https://commons.wikimedia.org/wiki/File:Roosevelt_Pearl_Harbor.ogg",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Roosevelt_Pearl_Harbor.ogg",
+  "recording_sha256": "6800dcd39b831f953ef5421c4fb323868df59061240b282060604597cd278400",
+  "retrieved_date": "2026-10-05",
+  "license": "PD-USGov + CC-BY-SA-2.0 digitization",
+  "recording_rights_evidence": "https://commons.wikimedia.org/wiki/File:Roosevelt_Pearl_Harbor.ogg",
+  "evidence_sha256": "40c69fcda6cc468f4752dd47cd25e6142d64b9cf219176bd6989497758aa7c3f",
+  "transcript_url": "https://www.fdrlibrary.org/day-of-infamy",
+  "transcript_rights": "US federal official speech; public-domain original text",
+  "language": "en",
+  "independent_review_status": "pending",
+  "selection_rationale": "Clear rhetorical clause boundaries, deliberate pacing and public address context; selected as one delivery example, not a unique optimum.",
+  "quality_review": "Machine DSP QA only; historical recording channel and any applause remain potential confounds."
+}
